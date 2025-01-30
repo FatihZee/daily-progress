@@ -1,4 +1,4 @@
-name: Auto Commit Daily Progress
+name: Daily Journal Update
 
 on:
   schedule:
@@ -30,11 +30,11 @@ jobs:
       - name: Install Dependencies
         run: pip install requests
 
-      - name: Run Auto Commit Script
-        run: python auto_commit.py
+      - name: Run Journal Script
+        run: python daily_journal.py
 
       - name: Commit and Push Changes
         run: |
           git add progress.txt
-          git commit -m "Daily Progress Update"
+          git commit -m "Daily Journal Update"
           git push origin main
