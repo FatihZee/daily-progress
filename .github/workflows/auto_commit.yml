@@ -2,18 +2,25 @@ name: Auto Commit Daily Progress
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Jam 6 pagi UTC (sekitar 13.00 WIB)
-    - cron: '0 14 * * *' # Jam 14.00 UTC (sekitar 21.00 WIB)
-    - cron: '0 22 * * *' # Jam 22.00 UTC (sekitar 05.00 WIB)
-  workflow_dispatch:  # Bisa dijalankan manual juga
+    - cron: '0 6 * * *'   # 06:00 UTC (13:00 WIB)
+    - cron: '0 14 * * *'  # 14:00 UTC (21:00 WIB)
+    - cron: '0 22 * * *'  # 22:00 UTC (05:00 WIB)
+  workflow_dispatch:  # Bisa dijalankan manual
 
 jobs:
   commit:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Git user
+        run: |
+          git config --global user.name "FatihZee"
+          git config --global user.email "viananto1234@gmail.com"
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -26,10 +33,8 @@ jobs:
       - name: Run Auto Commit Script
         run: python auto_commit.py
 
-      - name: Push Changes
+      - name: Commit and Push Changes
         run: |
-          git config --global user.name "YourGitHubUsername"
-          git config --global user.email "your-email@example.com"
           git add progress.txt
           git commit -m "Daily Progress Update"
           git push origin main
