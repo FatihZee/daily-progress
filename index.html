@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quote Harian</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <style>
+        body {
+            background: linear-gradient(135deg, #1a1a2e, #16213e);
+            color: white;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+        .quote-box {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
+        }
+        .quote-text {
+            font-size: 1.5rem;
+            font-weight: bold;
+        }
+        .quote-author {
+            margin-top: 10px;
+            font-style: italic;
+            font-size: 1.2rem;
+        }
+    </style>
+</head>
+<body>
+
+<div class="quote-box">
+    <p class="quote-text" id="quote">Loading...</p>
+    <p class="quote-author" id="author"></p>
+</div>
+
+<script>
+    async function fetchQuote() {
+        try {
+            const response = await fetch("/api/quote");
+            const data = await response.json();
+            document.getElementById("quote").innerText = `"${data.quote}"`;
+            document.getElementById("author").innerText = `- ${data.author}`;
+        } catch (error) {
+            document.getElementById("quote").innerText = "Failed to retrieve quote.";
+            document.getElementById("author").innerText = "Unknown";
+        }
+    }
+
+    fetchQuote();
+</script>
+
+</body>
+</html>
