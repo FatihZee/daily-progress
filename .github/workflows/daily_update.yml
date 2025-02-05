@@ -43,3 +43,7 @@ jobs:
           git add PROGRESS.md
           git commit -m "Daily Journal Update"
           git push origin main
+
+      - name: Cek API Key
+        run: echo "API_KEY=${{ secrets.API_KEY }}"
+        
