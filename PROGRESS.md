@@ -25,3 +25,4 @@
 | 2025-02-04 14:16:51 | "Dear God! how beauty varies in nature and art. In a woman the flesh must be like marble in a statue the marble must be like flesh." - Victor Hugo |
 | 2025-02-04 22:18:33 | "Men fear death as children fear to go in the dark and as that natural fear in children is increased by tales, so is the other." - Francis Bacon |
 | 2025-02-05 06:20:01 | "Friends show their love in times of trouble, not in happiness." - Euripides |
+| 2025-02-05 06:46:20 | "I don't have a saviour or a royal family." - John Malkovich |
