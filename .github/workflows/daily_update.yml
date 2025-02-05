@@ -35,6 +35,6 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git add progress.txt
+          git add progress.txt PROGRESS.md
           git commit -m "Daily Journal Update"
           git push origin main
