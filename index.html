@@ -14,10 +14,17 @@
             font-family: 'Orbitron', sans-serif;
             height: 100vh;
             display: flex;
+            flex-direction: column;
             justify-content: center;
             align-items: center;
             text-align: center;
             overflow: hidden;
+        }
+        .title {
+            font-size: 2.5rem;
+            font-weight: bold;
+            margin-bottom: 20px;
+            text-shadow: 0 0 10px #ffffff, 0 0 20px #ff00ff, 0 0 30px #00ffea;
         }
         .quote-box {
             background: rgba(255, 255, 255, 0.1);
@@ -27,6 +34,12 @@
             box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
             max-width: 600px;
             transition: transform 0.3s;
+            animation: neonGlow 2s infinite alternate;
+        }
+        @keyframes neonGlow {
+            0% { box-shadow: 0 0 10px #ff00ff; }
+            50% { box-shadow: 0 0 20px #00ffea; }
+            100% { box-shadow: 0 0 10px #ff00ff; }
         }
         .quote-box:hover {
             transform: scale(1.05);
@@ -45,14 +58,33 @@
         .glow {
             text-shadow: 0 0 10px #ffffff, 0 0 20px #00ffea, 0 0 30px #00ffea;
         }
+        .refresh-button {
+            margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 1.2rem;
+            font-weight: bold;
+            border: none;
+            background: linear-gradient(45deg, #ff00ff, #00ffea);
+            color: white;
+            border-radius: 10px;
+            cursor: pointer;
+            box-shadow: 0 0 15px #00ffea;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+        .refresh-button:hover {
+            transform: scale(1.1);
+            box-shadow: 0 0 25px #ff00ff;
+        }
     </style>
 </head>
 <body>
 
+<h1 class="title">Quote Refresher</h1>
 <div class="quote-box">
     <p class="quote-text glow" id="quote">Loading...</p>
     <p class="quote-author" id="author"></p>
 </div>
+<button class="refresh-button" onclick="fetchQuote()">Refresh Quote</button>
 
 <script>
     async function fetchQuote() {
