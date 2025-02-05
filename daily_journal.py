@@ -1,10 +1,14 @@
 import requests
 import datetime
-import pytz  # Import library timezone
+import pytz
+import os  # Untuk mengambil environment variable
+
+# Ambil API Key dari GitHub Secrets
+api_key = os.getenv('API_KEY')  # Mengambil API Key dari environment variables
 
 # API untuk mendapatkan quote
 api_url = "https://api.api-ninjas.com/v1/quotes"
-headers = {'X-Api-Key': 'dbvRtRS2xqO4pe72YUsrRw==1FpgIQpTJrWZFo1B'}
+headers = {'X-Api-Key': api_key}
 
 response = requests.get(api_url, headers=headers)
 
@@ -22,7 +26,7 @@ timestamp = datetime.datetime.now(pytz.utc).astimezone(jakarta_tz).strftime('%Y-
 
 new_entry = f"{timestamp} - \"{quote}\" - {author}\n"
 
-# Menyimpan ke progress.txt (format tetap)
+# Menyimpan ke progress.txt
 with open("progress.txt", "a") as file:
     file.write(new_entry)
 
