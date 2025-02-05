@@ -9,19 +9,21 @@ response = requests.get(api_url, headers=headers)
 
 if response.status_code == 200:
     quote_data = response.json()[0]
-    quote_text = f'"{quote_data["quote"]}" - {quote_data["author"]}'
+    quote = quote_data["quote"]
+    author = quote_data["author"]
 else:
-    quote_text = "Failed to retrieve quote."
+    quote = "Failed to retrieve quote."
+    author = "Unknown"
 
 timestamp = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-new_entry = f"{timestamp} - {quote_text}\n"
+new_entry = f"{timestamp} - \"{quote}\" - {author}\n"
 
-# Menyimpan ke progress.txt
+# Menyimpan ke progress.txt (format tetap)
 with open("progress.txt", "a") as file:
     file.write(new_entry)
 
-# Menyimpan ke PROGRESS.md dengan format Markdown
+# Menyimpan ke PROGRESS.md dengan format Markdown yang sudah dipisah kolomnya
 with open("PROGRESS.md", "a") as md_file:
-    md_file.write(f"| {timestamp} | {quote_text} |\n")
+    md_file.write(f"| {timestamp} | \"{quote}\" | {author} |\n")
 
 print("Progress updated in both progress.txt and PROGRESS.md.")
