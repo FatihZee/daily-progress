@@ -28,3 +28,4 @@
 | 2025-02-05 06:46:20 | "I don't have a saviour or a royal family." | John Malkovich |
 | 2025-02-05 06:53:54 | "My theory is that all of Scottish cuisine is based on a dare." | Mike Myers |
 | 2025-02-05 14:01:10 | "My best friend is the man who in wishing me well wishes it for my sake." | Aristotle |
+| 2025-02-05 14:08:10 | "I think sometimes I guess you see records, say you want to get there and use that as motivation. In a way, it's kind of cool if there is a possibility to rewrite history and be up there with the greats of Olympic history." | Michael Phelps |
