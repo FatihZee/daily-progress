@@ -1,5 +1,6 @@
 import requests
 import datetime
+import pytz  # Import library timezone
 
 # API untuk mendapatkan quote
 api_url = "https://api.api-ninjas.com/v1/quotes"
@@ -15,7 +16,10 @@ else:
     quote = "Failed to retrieve quote."
     author = "Unknown"
 
-timestamp = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+# Konversi timestamp ke zona waktu Jakarta (GMT+7)
+jakarta_tz = pytz.timezone('Asia/Jakarta')
+timestamp = datetime.datetime.now(pytz.utc).astimezone(jakarta_tz).strftime('%Y-%m-%d %H:%M:%S')
+
 new_entry = f"{timestamp} - \"{quote}\" - {author}\n"
 
 # Menyimpan ke progress.txt (format tetap)
