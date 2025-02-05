@@ -29,3 +29,4 @@
 | 2025-02-05 06:53:54 | "My theory is that all of Scottish cuisine is based on a dare." | Mike Myers |
 | 2025-02-05 14:01:10 | "My best friend is the man who in wishing me well wishes it for my sake." | Aristotle |
 | 2025-02-05 14:08:10 | "I think sometimes I guess you see records, say you want to get there and use that as motivation. In a way, it's kind of cool if there is a possibility to rewrite history and be up there with the greats of Olympic history." | Michael Phelps |
+| 2025-02-05 14:11:21 | "I listened to the radio, so I was influenced by everyone from Michael Jackson to Milli Vanilli. But thankfully my dad had a collection of Cat Stevens albums while my mom was listening to jazz." | Jason Mraz |
