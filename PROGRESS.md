@@ -31,3 +31,4 @@
 | 2025-02-05 14:08:10 | "I think sometimes I guess you see records, say you want to get there and use that as motivation. In a way, it's kind of cool if there is a possibility to rewrite history and be up there with the greats of Olympic history." | Michael Phelps |
 | 2025-02-05 14:11:21 | "I listened to the radio, so I was influenced by everyone from Michael Jackson to Milli Vanilli. But thankfully my dad had a collection of Cat Stevens albums while my mom was listening to jazz." | Jason Mraz |
 | 2025-02-05 14:23:29 | "There is no such thing as inner peace. There is only nervousness or death. Any attempt to prove otherwise constitutes unacceptable behavior." | Fran Lebowitz |
+| 2025-02-05 20:06:37 | "My parents used to throw great New Year's Eve parties. They invited such an eclectic mix of showbiz people. All those cool people were always hanging out at our apartment." | Ben Stiller |
