@@ -1,2 +1,3 @@
 daily_journal_noof.py
 .vercel
+.env*.local
