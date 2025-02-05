@@ -2,9 +2,9 @@ name: Daily Journal Update
 
 on:
   schedule:
-    - cron: '0 6 * * *'   # 06:00 UTC (13:00 WIB)
-    - cron: '0 14 * * *'  # 14:00 UTC (21:00 WIB)
-    - cron: '0 22 * * *'  # 22:00 UTC (05:00 WIB)
+    - cron: '0 23 * * *'   # 06:00 WIB (GMT+7)
+    - cron: '0 7 * * *'    # 14:00 WIB (GMT+7)
+    - cron: '0 15 * * *'   # 22:00 WIB (GMT+7)
   workflow_dispatch:  # Bisa dijalankan manual
 
 jobs:
@@ -28,13 +28,16 @@ jobs:
           python-version: '3.x'
 
       - name: Install Dependencies
-        run: pip install requests
+        run: |
+          pip install requests
+          pip install pytz  # Install pytz for timezone support
 
       - name: Run Journal Script
         run: python daily_journal.py
 
       - name: Commit and Push Changes
         run: |
-          git add progress.txt PROGRESS.md
+          git add progress.txt
+          git add PROGRESS.md
           git commit -m "Daily Journal Update"
           git push origin main
