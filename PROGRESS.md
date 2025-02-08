@@ -40,3 +40,4 @@
 | 2025-02-07 14:18:57 | "There are men so philosophical that they can see humor in their own toothaches. But there has never lived a man so philosophical that he could see the toothache in his own humor." | H. L. Mencken |
 | 2025-02-07 22:16:06 | "I think people should be angry at things that are worthy of anger. Injustice is outrageous and deserves outrage." | Chris Hayes |
 | 2025-02-08 06:17:31 | "Money won't make you happy... but everybody wants to find out for themselves." | Zig Ziglar |
+| 2025-02-08 14:18:13 | "Choose a wife rather by your ear than your eye." | Fuller, Thomas |
