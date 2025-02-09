@@ -44,3 +44,4 @@
 | 2025-02-08 22:13:55 | "There are many talented people who haven't fulfilled their dreams because they over thought it, or they were too cautious, and were unwilling to make the leap of faith." | James Cameron |
 | 2025-02-09 06:18:35 | "I guess we decided to make a new record 3 years ago when Nancy was done scoring for Almost Famous." | Ann Wilson |
 | 2025-02-09 14:17:47 | "Don't think of yourself as a woman in business." | Carly Fiorina |
+| 2025-02-09 22:15:14 | "The great use of life is to spend it for something that will outlast it." | William James |
