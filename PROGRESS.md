@@ -48,3 +48,4 @@
 | 2025-02-10 06:18:14 | "The 9/11 Commission strongly recommends that the National Intelligence Director be fully in control of the budget, from developing it to implementing it, to ensuring that the National Intelligence Director has the clout to make decisions." | Leonard Boswell |
 | 2025-02-10 14:19:39 | "I've been very competitive by nature from a young age, whether it was eating a bowl of pasta faster than somebody else, or always wanting to be the first one in line." | Maria Sharapova |
 | 2025-02-10 22:16:55 | "I love a beautiful gown on stage, and luckily I've been fortunate to wear some amazing dresses." | Leona Lewis |
+| 2025-02-11 06:18:59 | "If we are to negotiate the coming years safely, we may need a new kind of leadership. To put it more precisely, we need the rediscovery of an ancient kind of leadership that has rarely been given the prominence it deserves. I mean the leader as teacher." | Jonathan Sacks |
