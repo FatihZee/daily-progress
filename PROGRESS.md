@@ -49,3 +49,4 @@
 | 2025-02-10 14:19:39 | "I've been very competitive by nature from a young age, whether it was eating a bowl of pasta faster than somebody else, or always wanting to be the first one in line." | Maria Sharapova |
 | 2025-02-10 22:16:55 | "I love a beautiful gown on stage, and luckily I've been fortunate to wear some amazing dresses." | Leona Lewis |
 | 2025-02-11 06:18:59 | "If we are to negotiate the coming years safely, we may need a new kind of leadership. To put it more precisely, we need the rediscovery of an ancient kind of leadership that has rarely been given the prominence it deserves. I mean the leader as teacher." | Jonathan Sacks |
+| 2025-02-11 14:18:53 | "What a heavy burden is a name that has become too famous." | Voltaire |
