@@ -52,3 +52,4 @@
 | 2025-02-11 14:18:53 | "What a heavy burden is a name that has become too famous." | Voltaire |
 | 2025-02-11 22:17:56 | "When we lose one we love, our bitterest tears are called forth by the memory of hours when we loved not enough." | Maurice Maeterlinck |
 | 2025-02-12 06:18:37 | "Townes van Zandt is the best songwriter in the whole world and I'll stand on Bob Dylan's coffee table in my cowboy boots and say that." | Steve Earle |
+| 2025-02-12 14:19:17 | "Most of the press is in league with government, or with the status quo." | Harold Pinter |
