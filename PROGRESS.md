@@ -56,3 +56,4 @@
 | 2025-02-12 22:17:25 | "I never played much golf as a kid. I caddied quite a bit but never got serious into golf until about age 15." | Lee Trevino |
 | 2025-02-13 06:17:13 | "Religion and art spring from the same root and are close kin. Economics and art are strangers." | Nathaniel Hawthorne |
 | 2025-02-13 14:19:17 | "The anger in the Brigade against those who fought the Republic in the rear was sharpened by reports of weapons, even tanks, being kept from the front and hidden for treacherous purposes." | Bill Alexander |
+| 2025-02-13 22:17:22 | "Literature is made upon any occasion that a challenge is put to the legal apparatus by conscience in touch with humanity." | Nelson Algren |
