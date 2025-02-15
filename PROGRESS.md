@@ -62,3 +62,4 @@
 | 2025-02-14 22:16:37 | "Life must be lived as play." | Plato |
 | 2025-02-15 06:17:51 | "To forgive is to set a prisoner free and discover that the prisoner was you." | Lewis B. Smedes |
 | 2025-02-15 14:17:09 | "Those who enjoy their own emotionally bad health and who habitually fill their own minds with the rank poisons of suspicion, jealousy and hatred, as a rule take umbrage at those who refuse to do likewise, and they find a perverted relief in trying to denigrate them." | Johannes Brahms |
+| 2025-02-15 22:15:15 | "For now, I'm just going to keep doing the work and hope I don't get fired. If people want to put me up on their walls, I'll love it." | Ryan Gosling |
