@@ -67,3 +67,4 @@
 | 2025-02-16 14:19:35 | "What is more comforting to the terrorists around the world: the failure to pass the 9/11 legislation because we lacked 'a majority of the majority,' or putting aside partisan politics to enact tough new legislation with America's security foremost in mind?" | Rahm Emanuel |
 | 2025-02-16 22:14:10 | "In my family in particular, I think, there was a sense we have to work twice as hard." | Caroline Kennedy |
 | 2025-02-17 06:17:09 | "The word 'happiness' would lose its meaning if it were not balanced by sadness." | Carl Jung |
+| 2025-02-17 14:20:09 | "Just because scientists have the knowledge to do it, the technology to do it, and some may even have a financial motive or other incentive to do it, does not make it right." | Nathan Deal |
