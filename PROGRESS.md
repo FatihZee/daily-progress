@@ -68,3 +68,4 @@
 | 2025-02-16 22:14:10 | "In my family in particular, I think, there was a sense we have to work twice as hard." | Caroline Kennedy |
 | 2025-02-17 06:17:09 | "The word 'happiness' would lose its meaning if it were not balanced by sadness." | Carl Jung |
 | 2025-02-17 14:20:09 | "Just because scientists have the knowledge to do it, the technology to do it, and some may even have a financial motive or other incentive to do it, does not make it right." | Nathan Deal |
+| 2025-02-17 22:16:55 | "It's like spicy food - sometimes you have to tone it down so more people can enjoy it." | Kenneth Edmonds |
