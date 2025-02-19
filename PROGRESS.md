@@ -73,3 +73,4 @@
 | 2025-02-18 14:19:17 | "Every great work of art has two faces, one toward its own time and one toward the future, toward eternity." | Lester Bangs |
 | 2025-02-18 22:17:32 | "There is a different future that is available to North Korea, if they choose differently." | Mitchell Reiss |
 | 2025-02-19 06:17:50 | "Google is working on self-driving cars, and they seem to work. People are so bad at driving cars that computers don't have to be that good to be much better." | Marc Andreessen |
+| 2025-02-19 14:19:40 | "Hope lies in dreams, in imagination, and in the courage of those who dare to make dreams into reality." | Jonas Salk |
