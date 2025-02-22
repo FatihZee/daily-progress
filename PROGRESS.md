@@ -83,3 +83,4 @@
 | 2025-02-21 22:16:19 | "I'm a good son, a good father, a good husband - I've been married to the same woman for 30 years. I'm a good friend. I finished college, I have my education, I donate money anonymously. So when people criticize the kind of characters that I play on screen, I go, 'You know, that's part of history.'" | Samuel L. Jackson |
 | 2025-02-22 06:19:11 | "At the moment of death I hope to be surprised." | Ivan Illich |
 | 2025-02-22 14:17:42 | "Policemen so cherish their status as keepers of the peace and protectors of the public that they have occasionally been known to beat to death those citizens or groups who question that status." | David Mamet |
+| 2025-02-22 22:14:07 | "Fools act on imagination without knowledge, pedants act on knowledge without imagination." | Alfred North Whitehead |
