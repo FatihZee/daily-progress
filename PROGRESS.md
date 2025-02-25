@@ -91,3 +91,4 @@
 | 2025-02-24 14:19:58 | "I can only point out a curious fact. Year after year the Nobel Awards bring a moment of happiness not only to the recipients, not only to colleagues and friends of the recipients, but even to strangers." | Alfred Day Hershey |
 | 2025-02-24 22:18:21 | "When I was 10 years old my mom used to play Tupac while she cleaned the house." | Soulja Boy |
 | 2025-02-25 06:18:25 | "I like to stay at home and make cinema in my head." | Eric Cantona |
+| 2025-02-25 14:20:05 | "I fantasize about going back to high school with the knowledge I have now. I would shine. I would have a good time, I would have a girlfriend. I think that's where a lot of my pain comes from. I think I never had any teenage years to go back to." | Spalding Gray |
