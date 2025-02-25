@@ -93,3 +93,4 @@
 | 2025-02-25 06:18:25 | "I like to stay at home and make cinema in my head." | Eric Cantona |
 | 2025-02-25 14:20:05 | "I fantasize about going back to high school with the knowledge I have now. I would shine. I would have a good time, I would have a girlfriend. I think that's where a lot of my pain comes from. I think I never had any teenage years to go back to." | Spalding Gray |
 | 2025-02-25 22:17:53 | "How many famous and high-spirited heroes have lived a day too long?" | Jean-Jacques Rousseau |
+| 2025-02-26 06:18:02 | "Tell me, why is the media here so negative? Why are we in India so embarrassed to recognise our own strengths, our achievements? We are such a great nation. We have so many amazing success stories but we refuse to acknowledge them. Why?" | Abdul Kalam |
