@@ -96,3 +96,4 @@
 | 2025-02-26 06:18:02 | "Tell me, why is the media here so negative? Why are we in India so embarrassed to recognise our own strengths, our achievements? We are such a great nation. We have so many amazing success stories but we refuse to acknowledge them. Why?" | Abdul Kalam |
 | 2025-02-26 14:19:44 | "Everyone dreams, but not everybody remembers their dreams because some people go into delta they go too low." | Sylvia Browne |
 | 2025-02-26 22:18:04 | "Pray, and let God worry." | Martin Luther |
+| 2025-02-27 06:19:35 | "It is just called Continuing Legal Education. You can go to lectures, you can even listen to tapes on airplanes - they want you to stay current. So you do have to stay current to maintain your license even if you are not practicing." | Frank Shorter |
