@@ -100,3 +100,4 @@
 | 2025-02-27 14:20:00 | "As unmarried business women we must constantly use our opportunities in business in such a way that we are prepared for the marriage which may be ours tomorrow." | Odlum, Hortense |
 | 2025-02-27 22:18:12 | "I had always loved music. I grew up listening to classic country, Waylon Jennings, Merle Haggard. My dad loved Vern Gosdin and Keith Whitley. So I kept going to class and started getting totally into playing guitar and teaching myself these songs." | Jake Owen |
 | 2025-02-28 06:18:46 | "It is amazing how complete is the delusion that beauty is goodness." | Leo Tolstoy |
+| 2025-02-28 14:20:17 | "I use computers for email, staying current with my own website as well as finding important information through other websites. I also use it for creating MP3 files of new music I'm working on." | Clint Black |
