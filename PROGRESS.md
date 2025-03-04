@@ -113,3 +113,4 @@
 | 2025-03-03 22:17:48 | "The world needs anger. The world often continues to allow evil because it isn't angry enough." | Bede Jarrett |
 | 2025-03-04 06:18:26 | "Every job is good if you do your best and work hard. A man who works hard stinks only to the ones that have nothing to do but smell." | Laura Ingalls Wilder |
 | 2025-03-04 14:21:15 | "I wish I had an extra day with my mom sometimes. Or another hour in the day with my family, husband and children." | Mary J. Blige |
+| 2025-03-04 22:17:52 | "I can't imagine dating a boy, meeting him only outside the home. What's a home and family for if it's not the center of one's life?" | Loretta Young |
