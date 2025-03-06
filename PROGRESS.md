@@ -119,3 +119,4 @@
 | 2025-03-05 22:18:21 | "Pick up a rifle and you change instantly from a subject to a citizen." | Jeff Cooper |
 | 2025-03-06 06:20:07 | "I tasted freedom and I really liked it." | Phil Lynott |
 | 2025-03-06 14:22:40 | "The vote is the most powerful instrument ever devised by man for breaking down injustice and destroying the terrible walls which imprison men because they are different from other men." | Lyndon B. Johnson |
+| 2025-03-06 22:17:44 | "For me, and I suspect for lots of other people too, bad things actually sometimes make you think more about faith and the fact that you're not facing these things on your own." | David Cameron |
