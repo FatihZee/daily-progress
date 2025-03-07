@@ -122,3 +122,4 @@
 | 2025-03-06 22:17:44 | "For me, and I suspect for lots of other people too, bad things actually sometimes make you think more about faith and the fact that you're not facing these things on your own." | David Cameron |
 | 2025-03-07 06:18:54 | "Our forefathers got it they got it, man. They took godly principles and they put them into action, and they developed our Constitution - the land of freedom where each man is accountable and responsible for his actions." | Luke Scott |
 | 2025-03-07 14:20:12 | "Music can also be a sensual pleasure, like eating food or sex. But its highest vibration for me is that point of taking us to a real understanding of something in our nature which we can very rarely get at. It is a spiritual state of oneness." | Terry Riley |
+| 2025-03-07 22:17:02 | "Old age is a special problem for me because I've never been able to shed the mental image I have of myself - a lad of about 19." | E. B. White |
