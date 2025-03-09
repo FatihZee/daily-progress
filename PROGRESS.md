@@ -128,3 +128,4 @@
 | 2025-03-08 22:12:55 | "Choosing to be positive and having a grateful attitude is going to determine how you're going to live your life." | Joel Osteen |
 | 2025-03-09 06:16:18 | "Imagination was given to man to compensate him for what he is not a sense of humor to console him for what he is." | Francis Bacon |
 | 2025-03-09 14:15:40 | "When thou art above measure angry, bethink thee how momentary is man's life." | Marcus Aurelius |
+| 2025-03-09 22:14:27 | "The way you continue to be a successful business is you don't wait for the car to go off the cliff. You have to manage yourself. And make sure you do it in the right way so you are not making decisions in crisis." | Roger Goodell |
