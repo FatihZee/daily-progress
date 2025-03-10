@@ -131,3 +131,4 @@
 | 2025-03-09 22:14:27 | "The way you continue to be a successful business is you don't wait for the car to go off the cliff. You have to manage yourself. And make sure you do it in the right way so you are not making decisions in crisis." | Roger Goodell |
 | 2025-03-10 06:14:57 | "I was brought up in the modern world of all the luxury and the highlight of show business. I was born into a Christian home." | Cat Stevens |
 | 2025-03-10 14:18:50 | "My mom was a '70s mom. She paved a road that no one had yet walked." | Melissa Leo |
+| 2025-03-10 22:18:35 | "A man marries to have a home, but also because he doesn't want to be bothered with sex and all that sort of thing." | W. Somerset Maugham |
