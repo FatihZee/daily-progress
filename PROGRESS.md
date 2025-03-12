@@ -138,3 +138,4 @@
 | 2025-03-12 06:18:16 | "I think it's better to be involved in one or two movies a year." | Eric Cantona |
 | 2025-03-12 14:22:08 | "Creativity comes from looking for the unexpected and stepping outside your own experience." | Masaru Ibuka |
 | 2025-03-12 22:18:28 | "Every time I think I have something under control, it changes and I don't have it under control. I think it takes several years to get there. Jade is 19 months old, so right now I'm on alert all the time. And as a mom I think you're constantly worrying about things." | Giada De Laurentiis |
+| 2025-03-13 06:19:52 | "I didn't have the same fitness or ability as the other girls, so I had to beat them with my mind." | Martina Hingis |
