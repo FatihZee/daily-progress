@@ -147,3 +147,4 @@
 | 2025-03-15 06:20:16 | "I think I finally chose the graduate degree in engineering primarily because it only took one year and law school took three years, and I felt the pressure of being a little behind - although I was just 22." | Daniel J. Evans |
 | 2025-03-15 14:19:33 | "A dog will teach you unconditional love. If you can have that in your life, things won't be too bad." | Robert Wagner |
 | 2025-03-15 22:14:52 | "She is a friend of mind. She gather me, man. The pieces I am, she gather them and give them back to me in all the right order. It's good, you know, when you got a woman who is a friend of your mind." | Toni Morrison |
+| 2025-03-16 06:17:32 | "Part of the beauty of the show in a way is that he's not perfect, but you can always count on him to do the right thing in a pinch. That's why he inspires people and inspires me." | Stephen Collins |
