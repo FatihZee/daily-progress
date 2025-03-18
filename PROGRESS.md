@@ -154,3 +154,4 @@
 | 2025-03-17 14:22:23 | "Ultimately, it's possible that social media platforms will be designed as templates that the users themselves customize in terms of the best way to express their community and experience of life, and brands will have to simply follow suit." | Simon Mainwaring |
 | 2025-03-17 22:17:46 | "The key to being a good manager is keeping the people who hate me away from those who are still undecided." | Casey Stengel |
 | 2025-03-18 06:18:49 | "I didn't know my Dad - he moved out early. And my mom's politics were kind of hardscrabble. She didn't think about Democrats or Republicans. She thought about who made sense. I've been both in my life." | Dennis Miller |
+| 2025-03-18 14:22:20 | "Your face is your calling card, but you're not so famous that you can't go out." | Vincent Schiavelli |
