@@ -155,3 +155,4 @@
 | 2025-03-17 22:17:46 | "The key to being a good manager is keeping the people who hate me away from those who are still undecided." | Casey Stengel |
 | 2025-03-18 06:18:49 | "I didn't know my Dad - he moved out early. And my mom's politics were kind of hardscrabble. She didn't think about Democrats or Republicans. She thought about who made sense. I've been both in my life." | Dennis Miller |
 | 2025-03-18 14:22:20 | "Your face is your calling card, but you're not so famous that you can't go out." | Vincent Schiavelli |
+| 2025-03-18 22:18:34 | "Men are only as great as they are kind." | Elbert Hubbard |
