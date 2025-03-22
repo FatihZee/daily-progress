@@ -167,3 +167,4 @@
 | 2025-03-21 22:17:28 | "Guantanamo allows us to secure dangerous detainees without the risk of escape, while at the same time providing us with valuable intelligence information on how best to proceed in the war against terror and prevent future attacks." | Jim Ryun |
 | 2025-03-22 06:18:24 | "My 'fear' is my substance, and probably the best part of me." | Franz Kafka |
 | 2025-03-22 14:19:22 | "You don't have to be singing about love all the time in order to give love to the people. You don't have to keep flashing those words all the time." | Jimi Hendrix |
+| 2025-03-22 22:14:57 | "Give a little love to a child, and you get a great deal back." | John Ruskin |
