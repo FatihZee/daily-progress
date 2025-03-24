@@ -172,3 +172,4 @@
 | 2025-03-23 14:18:47 | "A work of art is above all an adventure of the mind." | Eugene Ionesco |
 | 2025-03-23 22:16:25 | "I like to change characters and then, slowly I believe the audience treat me as, like an actor who can fight. It's not like an action star." | Jackie Chan |
 | 2025-03-24 06:18:06 | "Early on, it's good to develop the ability to write. Learning to write is a useful exercise, even if what you're writing about is not that relevant." | Walter Gilbert |
+| 2025-03-24 14:23:58 | "Simply by not owning three medium-sized castles in Tuscany I have saved enough money in the last forty years on insurance premiums alone to buy a medium-sized castle in Tuscany." | Ludwig Mies van der Rohe |
