@@ -174,3 +174,4 @@
 | 2025-03-24 06:18:06 | "Early on, it's good to develop the ability to write. Learning to write is a useful exercise, even if what you're writing about is not that relevant." | Walter Gilbert |
 | 2025-03-24 14:23:58 | "Simply by not owning three medium-sized castles in Tuscany I have saved enough money in the last forty years on insurance premiums alone to buy a medium-sized castle in Tuscany." | Ludwig Mies van der Rohe |
 | 2025-03-24 22:18:32 | "I feel like people start to believe things that people say about them and start to think they're really important. If you have a family that is down to earth and cool, I don't see how you can be like that." | Amanda Bynes |
+| 2025-03-25 06:20:26 | "When a man wantonly destroys one of the works of man we call him a vandal. When he destroys one of the works of god we call him a sportsman." | Joseph Wood Krutch |
