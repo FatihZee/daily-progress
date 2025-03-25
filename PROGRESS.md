@@ -176,3 +176,4 @@
 | 2025-03-24 22:18:32 | "I feel like people start to believe things that people say about them and start to think they're really important. If you have a family that is down to earth and cool, I don't see how you can be like that." | Amanda Bynes |
 | 2025-03-25 06:20:26 | "When a man wantonly destroys one of the works of man we call him a vandal. When he destroys one of the works of god we call him a sportsman." | Joseph Wood Krutch |
 | 2025-03-25 14:23:42 | "The United States is a giant island of freedom, achievement, wealth and prosperity in a world hostile to our values." | Phyllis Schlafly |
+| 2025-03-25 22:18:46 | "I grew up in the world of bad television, on my dad's sets and then as a young schmuck on dating shows and so on." | George Clooney |
