@@ -178,3 +178,4 @@
 | 2025-03-25 14:23:42 | "The United States is a giant island of freedom, achievement, wealth and prosperity in a world hostile to our values." | Phyllis Schlafly |
 | 2025-03-25 22:18:46 | "I grew up in the world of bad television, on my dad's sets and then as a young schmuck on dating shows and so on." | George Clooney |
 | 2025-03-26 06:18:36 | "It is, after all, the responsibility of the expert to operate the familiar and that of the leader to transcend it." | Henry A. Kissinger |
+| 2025-03-26 14:21:16 | "Marriage is not a noun it's a verb. It isn't something you get. It's something you do. It's the way you love your partner every day." | Barbara de Angelis |
