@@ -180,3 +180,4 @@
 | 2025-03-26 06:18:36 | "It is, after all, the responsibility of the expert to operate the familiar and that of the leader to transcend it." | Henry A. Kissinger |
 | 2025-03-26 14:21:16 | "Marriage is not a noun it's a verb. It isn't something you get. It's something you do. It's the way you love your partner every day." | Barbara de Angelis |
 | 2025-03-26 22:19:01 | "Management is about arranging and telling. Leadership is about nurturing and enhancing." | Tom Peters |
+| 2025-03-27 06:19:19 | "My professional dreams were coming true while I was living a personal nightmare." | Dane Cook |
