@@ -183,3 +183,4 @@
 | 2025-03-27 06:19:19 | "My professional dreams were coming true while I was living a personal nightmare." | Dane Cook |
 | 2025-03-27 14:21:14 | "I have this complex. I don't like too much exposure. I don't know why it is. Maybe it's bred in me, because my dad always told me to be humble and don't think you're too good." | Mark Viduka |
 | 2025-03-27 22:18:29 | "I mean, I love L.A. - I love living here. But I wish that we could make things without the need to hit a home run every single time. It's a unique thing to Hollywood that if you don't do that every time, then you're considered a failure. But it's like, 'Well, are you making movies to be successful? Or are you making movies to learn something?'" | Kristen Stewart |
+| 2025-03-28 06:20:27 | "We must welcome the future, remembering that soon it will be the past and we must respect the past, remembering that it was once all that was humanly possible." | George Santayana |
