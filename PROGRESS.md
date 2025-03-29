@@ -188,3 +188,4 @@
 | 2025-03-28 22:17:31 | "I was advised by an American agent when I was about 19 to change my surname." | Rachel Weisz |
 | 2025-03-29 06:19:22 | "It's really cool to see glowsticks at the show, to see dance music culture infiltrating and becoming one with the metal community." | Jonathan Davis |
 | 2025-03-29 14:19:07 | "One must act in painting as in life, directly." | Picasso, Pablo |
+| 2025-03-29 22:17:00 | "One of the things I've always personally tried to stress with this band was to have some kind of visual aspect and to be consistent with it - like, not to change." | Peter Steele |
