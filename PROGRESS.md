@@ -187,3 +187,4 @@
 | 2025-03-28 14:21:47 | "Anger: an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured." | Lucius Annaeus Seneca |
 | 2025-03-28 22:17:31 | "I was advised by an American agent when I was about 19 to change my surname." | Rachel Weisz |
 | 2025-03-29 06:19:22 | "It's really cool to see glowsticks at the show, to see dance music culture infiltrating and becoming one with the metal community." | Jonathan Davis |
+| 2025-03-29 14:19:07 | "One must act in painting as in life, directly." | Picasso, Pablo |
