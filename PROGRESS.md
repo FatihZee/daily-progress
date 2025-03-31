@@ -195,3 +195,4 @@
 | 2025-03-31 06:19:11 | "You know what I really love? The CD players in a car. How when you put the CD right up by the slot, it actually takes it out of your hand, like it's hungry. It pulls it in, and you feel like it wants more silver discs." | Tom Waits |
 | 2025-03-31 14:22:58 | "It was, you know, probably 80 degrees out in L.A., and my dad took me outside and there was snow. At the time, I thought, 'Every kid doesn't have snow in their backyard on Christmas?'" | Tori Spelling |
 | 2025-03-31 22:18:10 | "I like jealous men. I love jealousy. I do." | Adriana Lima |
+| 2025-04-01 06:19:05 | "In dwelling, live close to the ground. In thinking, keep to the simple. In conflict, be fair and generous. In governing, don't try to control. In work, do what you enjoy. In family life, be completely present." | Lao Tzu |
