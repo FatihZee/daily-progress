@@ -206,3 +206,4 @@
 | 2025-04-03 22:16:34 | "I will never forget my beautiful days with you in Shanklin, they are certainly the most pleasant ones of my life. Look, I have tears in my eyes just to think about it. I am furious to be here, it is the end of happiness for a whole year." | Camille Claudel |
 | 2025-04-04 06:20:45 | "When I was in New York, I was making a living. We had a summer house and a car that I could put in a garage. That's something for a stage actor." | William H. Macy |
 | 2025-04-04 14:21:47 | "I don't know why anyone would want to ask an actor for dating advice. We are not the poster children for healthy relationships." | Ginnifer Goodwin |
+| 2025-04-04 22:17:50 | "With more than 1,300 sites of care, VA operates the largest integrated health care system in the county." | Bob Filner |
