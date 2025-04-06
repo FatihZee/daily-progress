@@ -213,3 +213,4 @@
 | 2025-04-06 06:20:02 | "The experience is fundamentally different for buying from local businesses than it is for buying consumer goods." | Andrew Mason |
 | 2025-04-06 14:19:21 | "The family wage has been eroded by the same developments that have promoted consumerism as a way of life." | Christopher Lasch |
 | 2025-04-06 22:15:21 | "Things do not change we change." | Henry David Thoreau |
+| 2025-04-07 06:18:10 | "Yoga is a way to freedom. By its constant practice, we can free ourselves from fear, anguish and loneliness." | Indra Devi |
