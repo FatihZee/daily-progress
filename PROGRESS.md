@@ -211,3 +211,4 @@
 | 2025-04-05 14:19:24 | "I don't need the fillers, additives, excessive amounts of sugars, fats, salts and other measures taken to taint the natural goodness of real food." | Mark Hyman |
 | 2025-04-05 22:15:19 | "I have an education, I went to college, you know?" | Nicole Polizzi |
 | 2025-04-06 06:20:02 | "The experience is fundamentally different for buying from local businesses than it is for buying consumer goods." | Andrew Mason |
+| 2025-04-06 14:19:21 | "The family wage has been eroded by the same developments that have promoted consumerism as a way of life." | Christopher Lasch |
