@@ -219,3 +219,4 @@
 | 2025-04-08 06:20:04 | "There's no tragedy in life like the death of a child. Things never get back to the way they were." | Dwight D. Eisenhower |
 | 2025-04-08 14:22:14 | "I am prepared for the worst, but hope for the best." | Benjamin Disraeli |
 | 2025-04-08 22:19:00 | "The best is the enemy of the good." | Voltaire |
+| 2025-04-09 06:19:19 | "One of the functions of intelligence is to take account of the dangers that come from trusting solely to the intelligence." | Lewis Mumford |
