@@ -223,3 +223,4 @@
 | 2025-04-09 14:22:27 | "You don't need an explanation for everything, Recognize that there are such things as miracles - events for which there are no ready explanations. Later knowledge may explain those events quite easily." | Harry Browne |
 | 2025-04-09 22:20:51 | "The best way to convince a fool that he is wrong is to let him have his own way." | Josh Billings |
 | 2025-04-10 06:19:03 | "Dynamism is a function of change." | Hillary Clinton |
+| 2025-04-10 14:22:08 | "Fear is something to be moved through, not something to be turned from." | Peter McWilliams |
