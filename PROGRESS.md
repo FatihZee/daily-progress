@@ -230,3 +230,4 @@
 | 2025-04-11 22:18:11 | "Time is the scarcest resource and unless it is managed nothing else can be managed." | Peter Drucker |
 | 2025-04-12 06:19:09 | "Shall I tell you what the real evil is? To cringe to the things that are called evils, to surrender to them our freedom, in defiance of which we ought to face any suffering." | Lucius Annaeus Seneca |
 | 2025-04-12 14:19:34 | "It's a miserable life in Hollywood. You're up at five or six o'clock in the morning to be ready to start shooting at nine." | William Wyler |
+| 2025-04-12 22:15:28 | "I think the scariest person in the world is the person with no sense of humor." | Michael J. Fox |
