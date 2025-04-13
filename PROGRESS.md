@@ -234,3 +234,4 @@
 | 2025-04-13 06:19:22 | "Like success, failure is many things to many people. With Positive Mental Attitude, failure is a learning experience, a rung on the ladder, a plateau at which to get your thoughts in order and prepare to try again." | W. Clement Stone |
 | 2025-04-13 14:19:41 | "I am firmly of the opinion that women who make a lot of effort to hang onto their looks in middle age (unless they are beauties, entertainers or prostitutes) are rather sad, as one should surely have something more substantial to recommend one by this time, such as kindness or cleverness." | Julie Burchill |
 | 2025-04-13 22:17:04 | "Only he can take great resolves who has indomitable faith in God and has fear of God." | Mahatma Gandhi |
+| 2025-04-14 06:20:16 | "Self-education is, I firmly believe, the only kind of education there is." | Isaac Asimov |
