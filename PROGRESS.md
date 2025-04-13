@@ -232,3 +232,4 @@
 | 2025-04-12 14:19:34 | "It's a miserable life in Hollywood. You're up at five or six o'clock in the morning to be ready to start shooting at nine." | William Wyler |
 | 2025-04-12 22:15:28 | "I think the scariest person in the world is the person with no sense of humor." | Michael J. Fox |
 | 2025-04-13 06:19:22 | "Like success, failure is many things to many people. With Positive Mental Attitude, failure is a learning experience, a rung on the ladder, a plateau at which to get your thoughts in order and prepare to try again." | W. Clement Stone |
+| 2025-04-13 14:19:41 | "I am firmly of the opinion that women who make a lot of effort to hang onto their looks in middle age (unless they are beauties, entertainers or prostitutes) are rather sad, as one should surely have something more substantial to recommend one by this time, such as kindness or cleverness." | Julie Burchill |
