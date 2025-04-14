@@ -236,3 +236,4 @@
 | 2025-04-13 22:17:04 | "Only he can take great resolves who has indomitable faith in God and has fear of God." | Mahatma Gandhi |
 | 2025-04-14 06:20:16 | "Self-education is, I firmly believe, the only kind of education there is." | Isaac Asimov |
 | 2025-04-14 14:23:04 | "Being an actor means asking people to look at you. I guess I accept that. But it's a profession in which the job is to show another world and other people. You may access it through bits of yourself, and your imagination and experience, but actually, in the end, you're not playing yourself." | Ralph Fiennes |
+| 2025-04-14 22:18:50 | "When I got into junior high school, that's when my mom let me dress how I wanted to dress. Up to that point I wore suits to school all the time." | will.i.am |
