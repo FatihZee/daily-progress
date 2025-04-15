@@ -239,3 +239,4 @@
 | 2025-04-14 22:18:50 | "When I got into junior high school, that's when my mom let me dress how I wanted to dress. Up to that point I wore suits to school all the time." | will.i.am |
 | 2025-04-15 06:19:14 | "Things can be funny only when we are in fun. When we're 'dead earnest,' humor is the only thing that is dead." | Flip Wilson |
 | 2025-04-15 14:24:06 | "I try to act out of faith." | Marian Wright Edelman |
+| 2025-04-15 22:18:06 | "My mom would have liked it that I patterned myself more after Jimmy Reed." | Jimmy Smith |
