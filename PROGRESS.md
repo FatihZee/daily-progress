@@ -242,3 +242,4 @@
 | 2025-04-15 22:18:06 | "My mom would have liked it that I patterned myself more after Jimmy Reed." | Jimmy Smith |
 | 2025-04-16 06:19:34 | "My formula for living is quite simple. I get up in the morning and I go to bed at night. In between, I occupy myself as best I can." | Cary Grant |
 | 2025-04-16 14:22:27 | "The traditional Christian attitude toward human personality was that human nature was essentially good and that it was formed and modified by social pressures and training." | Carroll Quigley |
+| 2025-04-16 22:18:49 | "Don't gamble take all your savings and buy some good stock and hold it till it goes up, then sell it. If it don't go up, don't buy it." | Will Rogers |
