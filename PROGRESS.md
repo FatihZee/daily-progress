@@ -245,3 +245,4 @@
 | 2025-04-16 22:18:49 | "Don't gamble take all your savings and buy some good stock and hold it till it goes up, then sell it. If it don't go up, don't buy it." | Will Rogers |
 | 2025-04-17 06:19:13 | "Fear was absolutely necessary. Without it, I would have been scared to death." | Floyd Patterson |
 | 2025-04-17 14:23:40 | "I also believe that it is time to begin the fundamental analysis of how we got here, what led us here and what we need to do in order to ensure that we are equipped with the best possible intelligence as we face these issues in the future." | David Kay |
+| 2025-04-17 22:18:01 | "Athletes tend to have less of a sense of humor than most people. They are heroes to so many. That might be part of it." | Jeff Ross |
