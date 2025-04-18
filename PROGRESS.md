@@ -249,3 +249,4 @@
 | 2025-04-18 06:19:12 | "Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy." | Wayne Gretzky |
 | 2025-04-18 14:23:35 | "There's a food revolution going on throughout the country. And it doesn't matter if you're down south, up north in Maine, if you're out west in Portland or Seattle." | Tom Colicchio |
 | 2025-04-18 22:17:28 | "I was asked to act when I couldn't act. I was asked to sing 'Funny Face' when I couldn't sing, and dance with Fred Astaire when I couldn't dance - and do all kinds of things I wasn't prepared for. Then I tried like mad to cope with it." | Audrey Hepburn |
+| 2025-04-19 06:19:06 | "Although charismatic, James Dean is no Harrison Ford. In the majority of his movies, sooner or later he got the crap beaten out of him." | Dean Koontz |
