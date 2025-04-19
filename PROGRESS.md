@@ -252,3 +252,4 @@
 | 2025-04-19 06:19:06 | "Although charismatic, James Dean is no Harrison Ford. In the majority of his movies, sooner or later he got the crap beaten out of him." | Dean Koontz |
 | 2025-04-19 14:18:58 | "You can't have any successes unless you can accept failure." | George Cukor |
 | 2025-04-19 22:15:47 | "Life's more amusing than we thought." | Lang, Andrew |
+| 2025-04-20 06:20:53 | "On the dance floor, as much as you say, 'Ladies, you are the car. He is the driver. You can only go where he takes you,' they still try to be in control." | Len Goodman |
