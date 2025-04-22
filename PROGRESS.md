@@ -260,3 +260,4 @@
 | 2025-04-21 22:17:43 | "Some of the best times I've spent in Colorado have been in the backcountry with my mom and siblings, and more recently, with my own kids. That is why I'm concerned to see today's kids spending more time browsing the Internet than exploring nature." | Mark Udall |
 | 2025-04-22 06:19:44 | "Beauty is indeed a good gift of God but that the good may not think it a great good, God dispenses it even to the wicked." | Saint Augustine |
 | 2025-04-22 14:22:53 | "All God's children are not beautiful. Most of God's children are, in fact, barely presentable." | Fran Lebowitz |
+| 2025-04-22 22:18:20 | "Every age has its own poetry in every age the circumstances of history choose a nation, a race, a class to take up the torch by creating situations that can be expressed or transcended only through poetry." | Jean-Paul Sartre |
