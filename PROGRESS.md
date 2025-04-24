@@ -265,3 +265,4 @@
 | 2025-04-23 14:26:33 | "From kindergarten to graduation, I went to public schools, and I know that they are a key to being sure that every child has a chance to succeed and to rise in the world." | Dick Cheney |
 | 2025-04-23 22:19:06 | "One could write a history of science in reverse by assembling the solemn pronouncements of highest authority about what could not be done and could never happen." | Robert A. Heinlein |
 | 2025-04-24 06:20:12 | "I think anybody who's famous has to deal with their fame in their own way, and I dealt with it by making a film about a kid who's looking out into the world of celebrity obsession." | Adrian Grenier |
+| 2025-04-24 14:22:54 | "Love is too young to know what conscience is." | William Shakespeare |
