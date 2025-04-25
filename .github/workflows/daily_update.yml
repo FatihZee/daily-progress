@@ -34,7 +34,7 @@ jobs:
 
       - name: Run Journal Script
         env: 
-          API_KEY: ${{ secrets.API_KEY }}  # Menyertakan API Key dari GitHub Secrets
+          API_KEY: ${{ secrets.API_KEY }}
         run: python daily_journal.py
 
       - name: Commit and Push Changes
