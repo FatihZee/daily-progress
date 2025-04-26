@@ -273,3 +273,4 @@
 | 2025-04-26 06:19:05 | "What the imagination seizes as beauty must be truth." | John Keats |
 | 2025-04-26 14:19:33 | "People talk about mumblecore but I prefer bumblecore, hyper-realistic bee movies about how bees really are." | Mindy Kaling |
 | 2025-04-26 22:15:51 | "In my family, there was one cardinal priority - education. College was not an option it was mandatory. So even though we didn't have a lot of money, we made it work. I signed up for financial aid, Pell Grants, work study, anything I could." | Eva Longoria |
+| 2025-04-27 06:19:35 | "My mom enlisted in the U.S. Navy in World War II, and my parents actually bought our home thanks to the loan she got through the GI Bill." | Thomas Friedman |
