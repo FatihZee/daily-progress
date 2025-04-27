@@ -276,3 +276,4 @@
 | 2025-04-27 06:19:35 | "My mom enlisted in the U.S. Navy in World War II, and my parents actually bought our home thanks to the loan she got through the GI Bill." | Thomas Friedman |
 | 2025-04-27 14:19:32 | "You change your life by changing your heart." | Max Lucado |
 | 2025-04-27 22:16:29 | "This battle for 'common-sense' gun control laws pits emotion and passion against logic and reason. All too often in such a contest, logic loses. So, expect more meaningless, if not harmful, 'gun control' legislation. Good news - if you're a crook." | Larry Elder |
+| 2025-04-28 06:20:50 | "Procedures outside the stadiums and in the parking areas still need to be optimized, for example so that emergency medical services can leave the grounds on their way to the hospital faster." | Otto Schily |
