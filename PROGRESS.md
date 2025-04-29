@@ -280,3 +280,4 @@
 | 2025-04-28 14:49:55 | "I actually feel like, for a lot of my career, I wasn't able to show my comedic range. I did a lot of dramas and dramedies. I was on 'E.R.' That's not generally thought of as a funny show." | Busy Philipps |
 | 2025-04-28 22:19:00 | "Human life is as evanescent as the morning dew or a flash of lightning." | Samuel Butler |
 | 2025-04-29 06:19:33 | "The best part of learning any profession, when you're really going through those huge stretching escalated times of learning and energy, is when you want to do it so much." | Diane Cilento |
+| 2025-04-29 14:23:49 | "I was a precocious only child, and then I went through a fat, awkward stage for several years, so I learned to fall back on my humor and personality when I was growing up. It's how you survive, so I think it was more of a natural progression for me, developing into comedy." | Ari Graynor |
