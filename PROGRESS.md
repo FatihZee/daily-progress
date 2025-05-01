@@ -288,3 +288,4 @@
 | 2025-05-01 06:20:10 | "Thirteen, 13 children, and I love - I love them all. And I think I've been a good father to all of them." | Anthony Quinn |
 | 2025-05-01 14:22:49 | "If you listen to Giuliani, it's like nobody did anything to improve the city except him. I'm not part of the history. Bloomberg's not part of the history. It's like, he did it. He's the only one. That's why he's a little crazy." | Ed Koch |
 | 2025-05-01 22:17:40 | "But because we've all been readers, we know what the experience is like, and we hope that what certain writers have given to us, we will give to someone." | Wallace Shawn |
+| 2025-05-02 06:19:52 | "My life needs editing." | Mort Sahl |
