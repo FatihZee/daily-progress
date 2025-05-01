@@ -286,3 +286,4 @@
 | 2025-04-30 14:22:19 | "I started practicing yoga. I started learning some hands-on healing stuff. And I found really good chiropractors, really good massage therapists, and what I found is I've been able to actually peel off layers of trauma on my body and actually move better now than I did." | Ricky Williams |
 | 2025-04-30 22:18:47 | "Love is the delightful interval between meeting a beautiful girl and discovering that she looks like a haddock." | John Barrymore |
 | 2025-05-01 06:20:10 | "Thirteen, 13 children, and I love - I love them all. And I think I've been a good father to all of them." | Anthony Quinn |
+| 2025-05-01 14:22:49 | "If you listen to Giuliani, it's like nobody did anything to improve the city except him. I'm not part of the history. Bloomberg's not part of the history. It's like, he did it. He's the only one. That's why he's a little crazy." | Ed Koch |
