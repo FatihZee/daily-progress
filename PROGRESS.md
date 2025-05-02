@@ -290,3 +290,4 @@
 | 2025-05-01 22:17:40 | "But because we've all been readers, we know what the experience is like, and we hope that what certain writers have given to us, we will give to someone." | Wallace Shawn |
 | 2025-05-02 06:19:52 | "My life needs editing." | Mort Sahl |
 | 2025-05-02 14:22:43 | "If at first you don't succeed you're running about average." | Alderson, M.H. |
+| 2025-05-02 22:17:54 | "Art is either plagiarism or revolution." | Guaguin, Paul |
