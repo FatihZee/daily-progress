@@ -294,3 +294,4 @@
 | 2025-05-03 06:19:18 | "Washington is still very much a male-oriented culture. Being from Los Angeles, I think it is less so there - there is less attachment to tradition, perhaps, there is more flexibility, more acceptance of change generally. That is partly because of Hollywood." | Dee Dee Myers |
 | 2025-05-03 14:20:15 | "Everybody past a certain age, regardless of how they look on the outside, pretty much constantly dreams of being able to escape from their lives." | Doug Coupland |
 | 2025-05-03 22:16:18 | "The American Republic will endure until the day Congress discovers that it can bribe the public with the public's money." | Alexis de Tocqueville |
+| 2025-05-04 06:19:03 | "It was definitely a part of our life. I mean, my mom had both her brothers and her fiancee in Vietnam at the same time, so it wasn't just my dad's story, it was my mom's story too. And we definitely grew up listening to the stories." | Vanessa Kerry |
