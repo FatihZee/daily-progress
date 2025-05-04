@@ -295,3 +295,4 @@
 | 2025-05-03 14:20:15 | "Everybody past a certain age, regardless of how they look on the outside, pretty much constantly dreams of being able to escape from their lives." | Doug Coupland |
 | 2025-05-03 22:16:18 | "The American Republic will endure until the day Congress discovers that it can bribe the public with the public's money." | Alexis de Tocqueville |
 | 2025-05-04 06:19:03 | "It was definitely a part of our life. I mean, my mom had both her brothers and her fiancee in Vietnam at the same time, so it wasn't just my dad's story, it was my mom's story too. And we definitely grew up listening to the stories." | Vanessa Kerry |
+| 2025-05-04 14:20:15 | "My kids give me the balance to live right." | Celine Dion |
