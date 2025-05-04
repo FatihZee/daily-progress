@@ -297,3 +297,4 @@
 | 2025-05-04 06:19:03 | "It was definitely a part of our life. I mean, my mom had both her brothers and her fiancee in Vietnam at the same time, so it wasn't just my dad's story, it was my mom's story too. And we definitely grew up listening to the stories." | Vanessa Kerry |
 | 2025-05-04 14:20:15 | "My kids give me the balance to live right." | Celine Dion |
 | 2025-05-04 22:16:27 | "The secret of success is sincerity. Once you can fake that you've got it made." | Giraudoux, Jean |
+| 2025-05-05 06:19:11 | "The nation that complacently and fearfully allows its artists and writers to become suspected rather than respected is no longer regarded as a nation possessed with humor or depth." | James Thurber |
