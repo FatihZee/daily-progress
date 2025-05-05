@@ -298,3 +298,4 @@
 | 2025-05-04 14:20:15 | "My kids give me the balance to live right." | Celine Dion |
 | 2025-05-04 22:16:27 | "The secret of success is sincerity. Once you can fake that you've got it made." | Giraudoux, Jean |
 | 2025-05-05 06:19:11 | "The nation that complacently and fearfully allows its artists and writers to become suspected rather than respected is no longer regarded as a nation possessed with humor or depth." | James Thurber |
+| 2025-05-05 14:23:27 | "To fear love is to fear life, and those who fear life are already three parts dead." | Bertrand Russell |
