@@ -300,3 +300,4 @@
 | 2025-05-05 06:19:11 | "The nation that complacently and fearfully allows its artists and writers to become suspected rather than respected is no longer regarded as a nation possessed with humor or depth." | James Thurber |
 | 2025-05-05 14:23:27 | "To fear love is to fear life, and those who fear life are already three parts dead." | Bertrand Russell |
 | 2025-05-05 22:18:41 | "The one thing that offends me the most is when I walk by a bank and see ads trying to convince people to take out second mortgages on their home so they can go on vacation. That's approaching evil." | Jeff Bezos |
+| 2025-05-06 06:19:44 | "Books are the money of Literature, but only the counters of Science." | Thomas Huxley |
