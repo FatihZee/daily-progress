@@ -303,3 +303,4 @@
 | 2025-05-06 06:19:44 | "Books are the money of Literature, but only the counters of Science." | Thomas Huxley |
 | 2025-05-06 14:23:13 | "But no nation can base its survival and development on luck and prayers alone while its leadership fritters away every available opportunity for success and concrete achievement." | Ibrahim Babangida |
 | 2025-05-06 22:23:52 | "As with anything creative, change is inevitable." | Enya |
+| 2025-05-07 06:19:34 | "Well in the book Carrie was my alter ego. In real life, Sarah Jessica and I don't look anything alike. But people do say that we sound alike. Sarah Jessica is an adorable girl and she is very funny." | Candace Bushnell |
