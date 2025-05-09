@@ -311,3 +311,4 @@
 | 2025-05-08 22:18:59 | "He had no failings which were not owing to a noble cause to an ardent, generous, perhaps an immoderate passion for fame a passion which is the instinct of all great souls." | Edmund Burke |
 | 2025-05-09 06:20:31 | "Being cool, having a 'cool' energy is just not attractive to me." | Selena Gomez |
 | 2025-05-09 14:23:03 | "Courage is like love it must have hope for nourishment." | Napoleon Bonaparte |
+| 2025-05-09 22:18:01 | "When I was about 12 years old back in Houston, my Dad used to take us to the driving range." | Ron White |
