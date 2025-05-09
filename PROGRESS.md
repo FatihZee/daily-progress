@@ -312,3 +312,4 @@
 | 2025-05-09 06:20:31 | "Being cool, having a 'cool' energy is just not attractive to me." | Selena Gomez |
 | 2025-05-09 14:23:03 | "Courage is like love it must have hope for nourishment." | Napoleon Bonaparte |
 | 2025-05-09 22:18:01 | "When I was about 12 years old back in Houston, my Dad used to take us to the driving range." | Ron White |
+| 2025-05-10 06:19:10 | "Joanna points her camera at a section of society unused to having cameras pointed at it. But I don't know about categorizing them in terms of class I'm a bit wary of that. My dad is the son of a shipbuilder." | Tom Hiddleston |
