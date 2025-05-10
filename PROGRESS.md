@@ -315,3 +315,4 @@
 | 2025-05-10 06:19:10 | "Joanna points her camera at a section of society unused to having cameras pointed at it. But I don't know about categorizing them in terms of class I'm a bit wary of that. My dad is the son of a shipbuilder." | Tom Hiddleston |
 | 2025-05-10 14:19:45 | "In truth, politeness is artificial good humor, it covers the natural want of it, and ends by rendering habitual a substitute nearly equivalent to the real virtue." | Thomas Jefferson |
 | 2025-05-10 22:16:42 | "Nothing they design ever gets in the way of a work of art." | Robert Hughes |
+| 2025-05-11 06:18:44 | "My job is mostly to entertain and be funny." | Rosie O'Donnell |
