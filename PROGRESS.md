@@ -318,3 +318,4 @@
 | 2025-05-11 06:18:44 | "My job is mostly to entertain and be funny." | Rosie O'Donnell |
 | 2025-05-11 14:20:58 | "Every human being on this earth is born with a tragedy, and it isn't original sin. He's born with the tragedy that he has to grow up... a lot of people don't have the courage to do it." | Helen Hayes |
 | 2025-05-11 22:16:04 | "I wanted to buy a candle holder, but the store didn't have one. So I got a cake." | Mitch Hedberg |
+| 2025-05-12 06:19:02 | "Of the billionaires I have known, money just brings out the basic traits in them. If they were jerks before they had money, they are simply jerks with a billion dollars." | Warren Buffett |
