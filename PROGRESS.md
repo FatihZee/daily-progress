@@ -320,3 +320,4 @@
 | 2025-05-11 22:16:04 | "I wanted to buy a candle holder, but the store didn't have one. So I got a cake." | Mitch Hedberg |
 | 2025-05-12 06:19:02 | "Of the billionaires I have known, money just brings out the basic traits in them. If they were jerks before they had money, they are simply jerks with a billion dollars." | Warren Buffett |
 | 2025-05-12 14:23:18 | "Secrecy, being an instrument of conspiracy, ought never to be the system of a regular government." | Jeremy Bentham |
+| 2025-05-12 22:20:47 | "You can't fall back on the private sector and say, 'You take care of the nation's banking system.' That's a fundamental function of the government, the Federal Reserve, the Treasury and the FDIC, etc. All of those agencies have a major role to play there." | Dick Cheney |
