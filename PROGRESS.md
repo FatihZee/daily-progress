@@ -329,3 +329,4 @@
 | 2025-05-14 22:18:59 | "That's the thing. in medicine, you're used to saying there's a problem within the person, and saying there's a problem within the culture, that's not a medical answer. Medicine has to look in one direction, so there's only one type of answer that they can find." | Chester Brown |
 | 2025-05-15 06:19:30 | "Love is a gross exaggeration of the difference between one person and everybody else." | George Bernard Shaw |
 | 2025-05-15 14:23:28 | "When a match has equal partners then I fear not." | Aeschylus |
+| 2025-05-15 22:17:25 | "Since love grows within you, so beauty grows. For love is the beauty of the soul." | Saint Augustine |
