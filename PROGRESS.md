@@ -334,3 +334,4 @@
 | 2025-05-16 14:23:05 | "Education is a kind of continuing dialogue, and a dialogue assumes different points of view." | Robert M. Hutchins |
 | 2025-05-16 22:16:24 | "A good wife is someone who thinks she has done everything right: raising the kids, being there for the husband, being home, trying to do it all." | Julianna Margulies |
 | 2025-05-17 06:19:40 | "When a man has lost all happiness, he's not alive. Call him a breathing corpse." | Sophocles |
+| 2025-05-17 14:20:27 | "People always fear change. People feared electricity when it was invented, didn't they? People feared coal, they feared gas-powered engines... There will always be ignorance, and ignorance leads to fear. But with time, people will come to accept their silicon masters." | Bill Gates |
