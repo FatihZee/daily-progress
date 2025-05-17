@@ -336,3 +336,4 @@
 | 2025-05-17 06:19:40 | "When a man has lost all happiness, he's not alive. Call him a breathing corpse." | Sophocles |
 | 2025-05-17 14:20:27 | "People always fear change. People feared electricity when it was invented, didn't they? People feared coal, they feared gas-powered engines... There will always be ignorance, and ignorance leads to fear. But with time, people will come to accept their silicon masters." | Bill Gates |
 | 2025-05-17 22:16:13 | "It has yet to be proven that intelligence has any survival value." | Arthur C. Clarke |
+| 2025-05-18 06:19:22 | "The real beauty of it - key to my life was playing key chords on a banjo. For somebody else it may be a golf club that mom and dad put in their hands or a baseball or ballet lessons. Real gift to give to me and put it in writing." | Vince Gill |
