@@ -338,3 +338,4 @@
 | 2025-05-17 22:16:13 | "It has yet to be proven that intelligence has any survival value." | Arthur C. Clarke |
 | 2025-05-18 06:19:22 | "The real beauty of it - key to my life was playing key chords on a banjo. For somebody else it may be a golf club that mom and dad put in their hands or a baseball or ballet lessons. Real gift to give to me and put it in writing." | Vince Gill |
 | 2025-05-18 14:20:19 | "Racing a thoroughbred grand prix car in front of a home crowd will be a surreal and mighty experience." | Nigel Mansell |
+| 2025-05-18 22:15:52 | "For my part, I consider that it will be found much better by all parties to leave the past to history, especially as I propose to write that history myself." | Winston Churchill |
