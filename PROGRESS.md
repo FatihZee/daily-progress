@@ -341,3 +341,4 @@
 | 2025-05-18 22:15:52 | "For my part, I consider that it will be found much better by all parties to leave the past to history, especially as I propose to write that history myself." | Winston Churchill |
 | 2025-05-19 06:19:28 | "I deal with postpartum feelings by reaching out to mom friends. I became very close with some of the women in my prenatal yoga class." | Alyssa Milano |
 | 2025-05-19 14:23:52 | "Truth be told, I'm not an easy man. I can be an entertaining one, though it's been my experience that most people don't want to be entertained. They want to be comforted." | Richard Russo |
+| 2025-05-19 22:19:39 | "High expectations are the key to everything." | Sam Walton |
