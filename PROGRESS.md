@@ -352,3 +352,4 @@
 | 2025-05-22 22:19:21 | "Health is the state about which medicine has nothing to say." | W. H. Auden |
 | 2025-05-23 06:20:07 | "Everything can change at any moment, suddenly and forever." | Paul Auster |
 | 2025-05-23 14:22:54 | "Our most famous writers are Faulkner and Eudora Welty and Flannery O'Connor. It would make sense that the poetry would reflect some of those same values, some of the same techniques." | Robert Morgan |
+| 2025-05-23 22:18:10 | "If you see a black family, it's looting, but if it's a white family they are looking for food." | Kanye West |
