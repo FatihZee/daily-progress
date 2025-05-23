@@ -351,3 +351,4 @@
 | 2025-05-22 06:20:10 | "The record business is dangerous to the health of bands and individuals, which is something I'm just now learning. But it's not dangerous in any of the ways people think it's not that they try to make you compromise your art. That's not the problem." | T-Bone Burnett |
 | 2025-05-22 22:19:21 | "Health is the state about which medicine has nothing to say." | W. H. Auden |
 | 2025-05-23 06:20:07 | "Everything can change at any moment, suddenly and forever." | Paul Auster |
+| 2025-05-23 14:22:54 | "Our most famous writers are Faulkner and Eudora Welty and Flannery O'Connor. It would make sense that the poetry would reflect some of those same values, some of the same techniques." | Robert Morgan |
