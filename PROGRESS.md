@@ -356,3 +356,4 @@
 | 2025-05-24 06:20:08 | "Real generosity toward the future lies in giving all to the present." | Albert Camus |
 | 2025-05-24 14:20:15 | "Believe that life is worth living and your belief will help create the fact." | William James |
 | 2025-05-24 22:15:53 | "I think art is the only thing that's spiritual in the world. And I refuse to forced to believe in other people's interpretations of God. I don't think anybody should be. No one person can own the copyright to what God means." | Marilyn Manson |
+| 2025-05-25 06:19:19 | "The ballplayer who loses his head, who can't keep his cool, is worse than no ballplayer at all." | Lou Gehrig |
