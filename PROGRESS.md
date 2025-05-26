@@ -360,3 +360,4 @@
 | 2025-05-25 14:20:17 | "But I wanted marriage for myself. I was not calculating about it. I wish I was more calculating." | Linda McCartney |
 | 2025-05-25 22:16:27 | "Love is only a dirty trick played on us to achieve continuation of the species." | W. Somerset Maugham |
 | 2025-05-26 06:19:19 | "I remember, when I was a kid, watching my mother jam herself into her girdle - a piece of equipment so rigid it could stand up on its own - and I remember her coming home from fancy parties and racing upstairs to extricate herself from its cruel iron grip." | Susan Orlean |
+| 2025-05-26 14:32:31 | "The overall physical demand that Iraq has is pretty amazing. It's 130 degrees, and the soldiers are carrying about 100 pounds of extra gear. It's a pretty rigorous schedule and routine for them." | Joe Nichols |
