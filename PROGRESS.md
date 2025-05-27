@@ -364,3 +364,4 @@
 | 2025-05-26 22:18:38 | "If we as a society are willing to have a preference for organic food, the farmer can pass on the savings." | Robert Patterson |
 | 2025-05-27 06:19:35 | "We can't understand when we're pregnant, or when our siblings are expecting, how profound it is to have a shared history with a younger generation: blood, genes, humor. It means we were actually here, on Earth, for a time - like the Egyptians with their pyramids, only with children." | Anne Lamott |
 | 2025-05-27 14:23:30 | "In seeking wisdom thou art wise in imagining that thou hast attained it - thou art a fool." | Lord Chesterfield |
+| 2025-05-27 22:19:41 | "I can look back at stuff I wrote in my early days and squirm at some of the mistakes I made. But we're all learning every day we never stop. I just hope people keep on liking what I do. That gives me such a kick." | Paul Kane |
