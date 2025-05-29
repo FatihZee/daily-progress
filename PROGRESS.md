@@ -370,3 +370,4 @@
 | 2025-05-28 22:18:29 | "Find beauty not only in the thing itself but in the pattern of the shadows, the light and dark which that thing provides." | Junichiro Tanizaki |
 | 2025-05-29 06:20:13 | "Music is love, love is music, music is life, and I love my life. Thank you and good night." | A. J. McLean |
 | 2025-05-29 14:23:12 | "If I am walking with two other men, each of them will serve as my teacher.  I will pick out the good points of the one and imitate them, and the bad points of the other and correct them in myself. " | Confucius |
+| 2025-05-29 22:18:48 | "I try not to name too many labels - not because it's not cool, but because it starts getting political." | Nelly |
