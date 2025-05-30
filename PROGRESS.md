@@ -373,3 +373,4 @@
 | 2025-05-29 22:18:48 | "I try not to name too many labels - not because it's not cool, but because it starts getting political." | Nelly |
 | 2025-05-30 06:19:46 | "Fear was absolutely necessary. Without it, I would have been scared to death." | Floyd Patterson |
 | 2025-05-30 14:22:46 | "The sinews of war are infinite money." | Marcus Tullius Cicero |
+| 2025-05-30 22:18:50 | "If you could get up the courage to begin, you have the courage to succeed." | David Viscott |
