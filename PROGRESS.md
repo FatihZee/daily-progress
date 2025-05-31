@@ -376,3 +376,4 @@
 | 2025-05-30 22:18:50 | "If you could get up the courage to begin, you have the courage to succeed." | David Viscott |
 | 2025-05-31 06:19:47 | "It's extremely hard for athletes to accept what's happened to them sometimes. It's hard to be beaten by a small margin, and I've spoken with athletes who, for years afterward, have been tormented by the knowledge that, had they done something ever so slightly different, they could have been one-ten-thousandth of a second quicker." | Chris Cleave |
 | 2025-05-31 14:20:45 | "You have to take risks. We will only understand the miracle of life fully when we allow the unexpected to happen." | Paulo Coelho |
+| 2025-05-31 22:16:28 | "I saw Deep Purple live once and I paid money for it and I thought, 'Geez, this is ridiculous.' You just see through all that sort of stuff. I never liked those Deep Purples or those sort of things. I always hated it. I always thought it was a poor man's Led Zeppelin." | Angus Young |
