@@ -378,3 +378,4 @@
 | 2025-05-31 14:20:45 | "You have to take risks. We will only understand the miracle of life fully when we allow the unexpected to happen." | Paulo Coelho |
 | 2025-05-31 22:16:28 | "I saw Deep Purple live once and I paid money for it and I thought, 'Geez, this is ridiculous.' You just see through all that sort of stuff. I never liked those Deep Purples or those sort of things. I always hated it. I always thought it was a poor man's Led Zeppelin." | Angus Young |
 | 2025-06-01 06:20:20 | "Sometimes when we weep in the movies we weep for ourselves or for a life unlived. Or we even go to the movies because we want to resist the emotion that's there in front of us. I think there is always a catharsis that I look for and that makes the movie experience worthwhile." | Edward Zwick |
+| 2025-06-01 14:22:09 | "Murals in restaurants are on a par with the food in museums." | Peter De Vries |
