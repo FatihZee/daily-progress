@@ -381,3 +381,4 @@
 | 2025-06-01 14:22:09 | "Murals in restaurants are on a par with the food in museums." | Peter De Vries |
 | 2025-06-01 22:16:38 | "We live in an age when to be young and to be indifferent can be no longer synonymous. We must prepare for the coming hour. The claims of the Future are represented by suffering millions and the Youth of a Nation are the trustees of Posterity." | Benjamin Disraeli |
 | 2025-06-02 06:20:18 | "As long as any adult thinks that he, like the parents and teachers of old, can become introspective, invoking his own youth to understand the youth before him, he is lost." | Margaret Mead |
+| 2025-06-02 14:24:41 | "To me, the American Dream is being able to follow your own personal calling. To be able to do what you want to do is incredible freedom." | Maya Lin |
