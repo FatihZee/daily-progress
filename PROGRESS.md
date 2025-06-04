@@ -388,3 +388,4 @@
 | 2025-06-03 22:20:31 | "Fear is proof of a degenerate mind." | Virgil |
 | 2025-06-04 06:20:19 | "Cutting meat out of your diet is the best thing you can do for animals and your own health." | Joan Jett |
 | 2025-06-04 14:23:50 | "Ethics is in origin the art of recommending to others the sacrifices required for cooperation with oneself." | Bertrand Russell |
+| 2025-06-04 22:41:07 | "What motivated me? My mother. My mother was an immigrant woman, a peasant woman, struggled all her life, worked in the garment center." | Al Lewis |
