@@ -391,3 +391,4 @@
 | 2025-06-04 22:41:07 | "What motivated me? My mother. My mother was an immigrant woman, a peasant woman, struggled all her life, worked in the garment center." | Al Lewis |
 | 2025-06-05 06:20:34 | "Advances in science and medical research and public health policies have meant that life expectancy for Australians is one of the highest in the world." | Julie Bishop |
 | 2025-06-05 14:23:16 | "I'm married to the theater but my mistress is the films." | Oskar Werner |
+| 2025-06-05 22:19:31 | "The first step toward change is awareness. The second step is acceptance." | Nathaniel Branden |
