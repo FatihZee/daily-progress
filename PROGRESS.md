@@ -393,3 +393,4 @@
 | 2025-06-05 14:23:16 | "I'm married to the theater but my mistress is the films." | Oskar Werner |
 | 2025-06-05 22:19:31 | "The first step toward change is awareness. The second step is acceptance." | Nathaniel Branden |
 | 2025-06-06 06:22:46 | "Our future cannot depend on the government alone. The ultimate solutions lie in the attitudes and the actions of the American people." | Joe Biden |
+| 2025-06-06 14:22:33 | "By action and reaction do we become strong or weak, according to the character of our thoughts and mental states. Fear is the deadly nightshade of the mind." | Edward Walker |
