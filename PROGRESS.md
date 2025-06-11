@@ -409,3 +409,4 @@
 | 2025-06-10 22:19:50 | "To love means loving the unlovable. To forgive means pardoning the unpardonable. Faith means believing the unbelievable. Hope means hoping when everything seems hopeless." | Gilbert K. Chesterton |
 | 2025-06-11 06:20:26 | "In Hollywood, you play a mom, and the next thing you know, you're on 'The Golden Girls.' They age you so fast." | Gabrielle Union |
 | 2025-06-11 14:23:23 | "I wake up every morning at nine and grab for the morning paper. Then I look at the obituary page. If my name is not on it, I get up." | Benjamin Franklin |
+| 2025-06-11 22:20:04 | "I just think Rosa Parks was overrated. Last time I checked, she got famous for breaking the law." | Stephen Colbert |
