@@ -411,3 +411,4 @@
 | 2025-06-11 14:23:23 | "I wake up every morning at nine and grab for the morning paper. Then I look at the obituary page. If my name is not on it, I get up." | Benjamin Franklin |
 | 2025-06-11 22:20:04 | "I just think Rosa Parks was overrated. Last time I checked, she got famous for breaking the law." | Stephen Colbert |
 | 2025-06-12 06:22:16 | "The Bible is our rule of faith and doctrine." | Ellen G. White |
+| 2025-06-12 14:23:32 | "The greatest threat to freedom is the absence of criticism." | Wole Soyinka |
