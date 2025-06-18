@@ -430,3 +430,4 @@
 | 2025-06-17 22:20:03 | "I've always put my family first and that's just the way it is." | Jamie Lee Curtis |
 | 2025-06-18 06:20:28 | "If a man neglects education, he walks lame to the end of his life." | Plato |
 | 2025-06-18 14:23:56 | "Through history, people look for something spiritual. The greatest scientists in the world were men of religion and faith, too." | Kirstie Alley |
+| 2025-06-18 22:20:04 | "Hope is not the conviction that something will turn out well but the certainty that something makes sense, regardless of how it turns out." | Vaclav Havel |
