@@ -436,3 +436,4 @@
 | 2025-06-19 22:18:56 | "I can't change the direction of the wind, but I can adjust my sails to always reach my destination." | Jimmy Dean |
 | 2025-06-20 06:21:28 | "So foolish is the heart of man that he ever puts his hope in the future, learning nothing from his past errors and fancying that tomorrow must be better than today." | Mika Waltari |
 | 2025-06-20 14:22:59 | "There are characters in movies who I call 'film characters.' They don't exist in real life. They exist to play out a scenario. They can be in fantastic films, but they are not real characters what happens to them is not lifelike." | Philip Seymour Hoffman |
+| 2025-06-20 22:18:40 | "I tell you the past is a bucket of ashes, so live not in your yesterdays, no just for tomorrow, but in the here and now. Keep moving and forget the post mortems and remember, no one can get the jump on the future." | Carl Sandburg |
