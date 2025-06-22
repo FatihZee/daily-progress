@@ -441,3 +441,4 @@
 | 2025-06-21 14:21:29 | "I replaced the headlights in my car with strobe lights, so it looks like I'm the only one moving." | Steven Wright |
 | 2025-06-21 22:17:00 | "I have a lot of responsibilities outside myself. I have a large family. I want to know I can always be helpful." | Sarah Jessica Parker |
 | 2025-06-22 06:20:04 | "Celebrities say they date other celebrities because they have the same job. But I think they just like dating famous people. Celebrities attract each other, like cattle." | Jason Lee |
+| 2025-06-22 14:22:17 | "I always wanted to be a mom." | Kate Hudson |
