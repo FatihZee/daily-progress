@@ -444,3 +444,4 @@
 | 2025-06-22 14:22:17 | "I always wanted to be a mom." | Kate Hudson |
 | 2025-06-22 22:16:48 | "The two operations of our understanding, intuition and deduction, on which alone we have said we must rely in the acquisition of knowledge." | Rene Descartes |
 | 2025-06-23 06:20:17 | "To this wonderful page in our country's history another more glorious still will be added, and the slave shall show at last to his free brothers a sharpened sword forged from the links of his fetters." | Giuseppe Garibaldi |
+| 2025-06-23 14:25:38 | "You don't hate history, you hate the way it was taught to you in high school." | Stephen Ambrose |
