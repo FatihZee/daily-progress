@@ -447,3 +447,4 @@
 | 2025-06-23 14:25:38 | "You don't hate history, you hate the way it was taught to you in high school." | Stephen Ambrose |
 | 2025-06-23 22:20:09 | "I've been learning martial arts since I was 8 years old." | Jet Li |
 | 2025-06-24 06:18:09 | "Humor can be an incredible, lacerating and effective weapon." | Carl Hiaasen |
+| 2025-06-24 14:24:58 | "In addressing a task, one almost always has several possible options, sometimes only a few, and they may all be practical and functional. But they lack the aesthetic aspect that raises it to architecture." | Arne Jacobsen |
