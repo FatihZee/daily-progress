@@ -455,3 +455,4 @@
 | 2025-06-26 06:20:51 | "I had the closest thing I have ever had to an out-of-body experience lying in bed one morning. I turned on the 'Today' programme and item four on the news was: 'The shadow chancellor has ruled himself out of the leadership.' I lay there thinking that's interesting, then I realised it was me." | George Osborne |
 | 2025-06-26 14:24:19 | "Nothing's beautiful from every point of view." | Horace |
 | 2025-06-26 22:19:38 | "Only faith is sufficient." | Robert Ley |
+| 2025-06-27 06:21:04 | "I've made movies that I thought were good. I've made movies that I thought were okay, but then I was very good. And sometimes you're in a movie and you think, I wish more people saw that - because you're good. And it just works out that the movie gets lost. But that's show business." | Christopher Walken |
