@@ -453,3 +453,4 @@
 | 2025-06-25 14:24:51 | "We use the word 'hope' perhaps more often than any other word in the vocabulary: 'I hope it's a nice day.' 'Hopefully, you're doing well.' 'So how are things going along? Pretty good. Going to be good tomorrow? Hope so."" | Studs Terkel |
 | 2025-06-25 22:20:35 | "I'm not claiming divinity. I've never claimed purity of soul. I've never claimed to have the answers to life. I only put out songs and answer questions as honestly as I can... But I still believe in peace, love and understanding." | John Lennon |
 | 2025-06-26 06:20:51 | "I had the closest thing I have ever had to an out-of-body experience lying in bed one morning. I turned on the 'Today' programme and item four on the news was: 'The shadow chancellor has ruled himself out of the leadership.' I lay there thinking that's interesting, then I realised it was me." | George Osborne |
+| 2025-06-26 14:24:19 | "Nothing's beautiful from every point of view." | Horace |
