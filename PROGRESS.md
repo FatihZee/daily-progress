@@ -463,3 +463,4 @@
 | 2025-06-28 22:16:49 | "Women are the only exploited group in history to have been idealized into powerlessness." | Erica Jong |
 | 2025-06-29 06:20:17 | "The incestuous relationship between government and big business thrives in the dark." | Jack Anderson |
 | 2025-06-29 14:22:13 | "Death is a delightful hiding place for weary men." | Herodotus |
+| 2025-06-29 22:17:06 | "I bought a house for my mom, I bought a house for my dad, I bought a house for my sister." | Trey Parker |
