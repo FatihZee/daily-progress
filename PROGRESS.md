@@ -469,3 +469,4 @@
 | 2025-06-30 22:20:36 | "We worked with the engineers in the design and construction and testing phases in those various areas, then we would get back together at the end of the week and brief each other as to what had gone on." | Alan Shepard |
 | 2025-07-01 06:20:38 | "I hope for your help to explore and protect the wild ocean in ways that will restore the health and, in so doing, secure hope for humankind. Health to the ocean means health for us." | Sylvia Earle |
 | 2025-07-01 14:25:38 | "Bloody Christmas, here again, let us raise a loving cup, peace on earth, goodwill to men, and make them do the washing up." | Wendy Cope |
+| 2025-07-01 22:19:41 | "I think that the best training a top manager can be engaged in is management by example." | Carlos Ghosn |
