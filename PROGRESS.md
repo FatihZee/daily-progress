@@ -472,3 +472,4 @@
 | 2025-07-01 22:19:41 | "I think that the best training a top manager can be engaged in is management by example." | Carlos Ghosn |
 | 2025-07-02 06:20:56 | "Failed to retrieve quote." | Unknown |
 | 2025-07-02 14:24:19 | "In movies and in television the robots are always evil. I guess I am not into the whole brooding cyberpunk dystopia thing." | Daniel H. Wilson |
+| 2025-07-02 22:19:44 | "Technique is communication: the two words are synonymous in conductors." | Leonard Bernstein |
