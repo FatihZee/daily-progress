@@ -476,3 +476,4 @@
 | 2025-07-03 06:22:23 | "Equality and development will not be achieved however if peace is not understood from women's' point of view." | Jenny Shipley |
 | 2025-07-03 14:24:11 | "I do have two data identities. I have my name, Bruce Sterling, which is my public name under which I write novels. I also have my other name, which is my legal name under which I own property and vote." | Bruce Sterling |
 | 2025-07-03 22:19:37 | "The truth is often terrifying, which I think is one of the motifs of Larry and Andrew's cinema. The cost of knowledge is an important theme. In the second and third films, they explore the consequences of Neo's choice to know the truth. It's a beautiful, beautiful story." | Keanu Reeves |
+| 2025-07-04 06:21:06 | "To be honest, marriage doesn't scare me and that, it's just once you've been together for so long, if you haven't got any kids it's just a big expensive day out for everyone else to enjoy, isn't it?" | Karl Pilkington |
