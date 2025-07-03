@@ -474,3 +474,4 @@
 | 2025-07-02 14:24:19 | "In movies and in television the robots are always evil. I guess I am not into the whole brooding cyberpunk dystopia thing." | Daniel H. Wilson |
 | 2025-07-02 22:19:44 | "Technique is communication: the two words are synonymous in conductors." | Leonard Bernstein |
 | 2025-07-03 06:22:23 | "Equality and development will not be achieved however if peace is not understood from women's' point of view." | Jenny Shipley |
+| 2025-07-03 14:24:11 | "I do have two data identities. I have my name, Bruce Sterling, which is my public name under which I write novels. I also have my other name, which is my legal name under which I own property and vote." | Bruce Sterling |
