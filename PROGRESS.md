@@ -482,3 +482,4 @@
 | 2025-07-05 06:20:35 | "In Thailand's history there have been dissensions from time to time, but in general, unity has prevailed." | Bhumibol Adulyadej |
 | 2025-07-05 14:21:53 | "As the tension eases, we must look in the direction of agriculture, industry and education as our final goals, and toward democracy under Mr Mubarak." | Naguib Mahfouz |
 | 2025-07-05 22:16:55 | "A great source of calamity lies in regret and anticipation therefore a person is wise who thinks of the present alone, regardless of the past or future." | Oliver Goldsmith |
+| 2025-07-06 06:21:35 | "I think that some of our soldiers die in the battlefield and some come home to bad health and die prematurely, just by the nature of the kind of business they're in." | Christopher Shays |
