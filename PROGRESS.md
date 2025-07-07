@@ -486,3 +486,4 @@
 | 2025-07-06 14:21:29 | "Happiness is having a large, loving, caring, close-knit family in another city." | George Burns |
 | 2025-07-06 22:17:03 | "Someday we'll look back on this moment and plow into a parked car." | Evan Davis |
 | 2025-07-07 06:20:28 | "Exploiting people's emotions of fear, envy and anxiety is not hope, it's not change, it's partisanship. We don't need partisanship. We don't need demagoguery, we need solutions." | Paul Ryan |
+| 2025-07-07 14:25:40 | "No lying knight or lying priest ever prospered in any age, but especially not in the dark ones. Men prospered then only in following an openly declared purpose, and preaching candidly beloved and trusted creeds." | John Ruskin |
