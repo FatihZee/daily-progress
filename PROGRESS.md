@@ -491,3 +491,4 @@
 | 2025-07-08 06:20:57 | "I think that we're in a really amazing time, where there are really a lot of really fantastic female actresses and comedians. I imagine there's just a lot of opportunity for women to have powerful roles. Or it's just that there's more women writing TV. Women tend to maybe write strong women." | Whitney Cummings |
 | 2025-07-08 14:24:48 | "It is a challenge, with the global fame, to try to act like I put my pants on one leg at a time, when in fact I have Pippa Middleton help me put my pants on every morning. She's my lady-in-waiting as well." | Kathy Griffin |
 | 2025-07-08 22:19:46 | "It is clearly better that property should be private, but the use of it common and the special business of the legislator is to create in men this benevolent disposition." | Aristotle |
+| 2025-07-09 06:22:00 | "I wasn't one to go out and buy a new car and stereo system and expensive clothes. My mom helped keep me grounded." | Christina Applegate |
