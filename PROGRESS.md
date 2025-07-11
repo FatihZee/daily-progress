@@ -499,3 +499,4 @@
 | 2025-07-10 22:20:15 | "There has not yet been a major ground offensive battle... There are, we know, negotiations going on between the opposition forces and the Taliban leadership for surrender." | Peter Pace |
 | 2025-07-11 06:21:36 | "The life of a man who deliberately runs through his fortune often becomes a business speculation his friends, his pleasures, patrons, and acquaintances are his capital." | Honore de Balzac |
 | 2025-07-11 14:25:42 | "When I go on the plane to fly home, I'm literally capable of forgetting what I do for a job. That also comes about because I choose to take massive breaks between projects, and because I choose to do this ridiculous thing of keeping home, home." | Eric Bana |
+| 2025-07-11 22:19:53 | "For the sake of our health, our children and grandchildren and even our economic well-being, we must make protecting the planet our top priority." | David Suzuki |
