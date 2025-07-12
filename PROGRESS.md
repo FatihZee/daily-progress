@@ -503,3 +503,4 @@
 | 2025-07-12 06:21:46 | "The main dangers in this life are the people who want to change everything... or nothing." | Nancy Astor |
 | 2025-07-12 14:22:55 | "Hate is the consequence of fear we fear something before we hate it a child who fears noises becomes a man who hates noise." | Cyril Connolly |
 | 2025-07-12 22:18:14 | "If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much." | Jim Rohn |
+| 2025-07-13 06:22:19 | "I work with all these amazing voice actors that do a kajillion voices." | Katey Sagal |
