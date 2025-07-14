@@ -507,3 +507,4 @@
 | 2025-07-13 14:24:01 | "Maybe if everybody in leadership was a woman, you might not get into the conflicts in the first place. But if you watch the women who have made it to the top, they haven't exactly been non-aggressive - including me." | Madeleine Albright |
 | 2025-07-13 22:17:25 | "And we can celebrate when we have a government that has earned back the trust of the people it serves... when we have a government that honors our Constitution and stands up for the values that have made America, America: economic freedom, individual liberty, and personal responsibility." | John Boehner |
 | 2025-07-14 06:22:44 | "Beauty is a precious trace that eternity causes to appear to us and that it takes away from us. A manifestation of eternity, and a sign of death as well." | Eugene Ionesco |
+| 2025-07-14 14:27:56 | "Men of polite learning and a liberal education." | Matthew Henry |
