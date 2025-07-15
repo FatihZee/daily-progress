@@ -511,3 +511,4 @@
 | 2025-07-14 22:20:37 | "With Michigan's economic future on the line, we can't afford to have our 500 local school districts marching in different directions. Instead, we need a high standards, mandatory curriculum to get all our students on the road to higher education and a good paying job." | Jennifer Granholm |
 | 2025-07-15 06:21:52 | "I just had my 30th birthday and we went turkey shooting. It's what I wanted to do, so we went." | Kelly Clarkson |
 | 2025-07-15 14:26:42 | "The history of art is the history of revivals." | Samuel Butler |
+| 2025-07-15 22:19:20 | "I think it would be hard to go the distance in this business without a sense of humor." | Patricia Clarkson |
