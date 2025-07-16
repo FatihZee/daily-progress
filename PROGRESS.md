@@ -514,3 +514,4 @@
 | 2025-07-15 22:19:20 | "I think it would be hard to go the distance in this business without a sense of humor." | Patricia Clarkson |
 | 2025-07-16 06:21:21 | "To be able to throw one's self away for the sake of a moment, to be able to sacrifice years for a woman's smile - that is happiness." | Hermann Hesse |
 | 2025-07-16 14:25:59 | "In most people's vocabularies, design means veneer. It's interior decorating. It's the fabric of the curtains and the sofa. But to me, nothing could be further from the meaning of design." | Steve Jobs |
+| 2025-07-16 22:21:07 | "In known history, nobody has had such capacity for altering the universe than the people of the United States of America. And nobody has gone about it in such an aggressive way." | Alan Watts |
