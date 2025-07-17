@@ -516,3 +516,4 @@
 | 2025-07-16 14:25:59 | "In most people's vocabularies, design means veneer. It's interior decorating. It's the fabric of the curtains and the sofa. But to me, nothing could be further from the meaning of design." | Steve Jobs |
 | 2025-07-16 22:21:07 | "In known history, nobody has had such capacity for altering the universe than the people of the United States of America. And nobody has gone about it in such an aggressive way." | Alan Watts |
 | 2025-07-17 06:22:39 | "The writer may very well serve a movement of history as its mouthpiece, but he cannot of course create it." | Karl Marx |
+| 2025-07-17 14:26:14 | "To me, nothing in the art world is neutral. The idea of 'disinterest' strikes me as boring, dishonest, dubious, and uninteresting." | Jerry Saltz |
