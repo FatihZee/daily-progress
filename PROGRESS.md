@@ -518,3 +518,4 @@
 | 2025-07-17 06:22:39 | "The writer may very well serve a movement of history as its mouthpiece, but he cannot of course create it." | Karl Marx |
 | 2025-07-17 14:26:14 | "To me, nothing in the art world is neutral. The idea of 'disinterest' strikes me as boring, dishonest, dubious, and uninteresting." | Jerry Saltz |
 | 2025-07-17 22:20:59 | "We don't come to Canada for our health. We can think of other ways of enjoying ourselves." | Prince Philip |
+| 2025-07-18 06:23:02 | "Thinking back to those earlier days, I felt I was weak when I wasn't making movies, and then when I was, I thought I was weak as a family member." | Ang Lee |
