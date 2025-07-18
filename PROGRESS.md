@@ -520,3 +520,4 @@
 | 2025-07-17 22:20:59 | "We don't come to Canada for our health. We can think of other ways of enjoying ourselves." | Prince Philip |
 | 2025-07-18 06:23:02 | "Thinking back to those earlier days, I felt I was weak when I wasn't making movies, and then when I was, I thought I was weak as a family member." | Ang Lee |
 | 2025-07-18 14:27:00 | "In the rich world, the environmental situation has improved dramatically. In the United States, the most important environmental indicator, particulate air pollution, has been cut by more than half since 1955, rivers and coastal waters have dramatically improved, and forests are increasing." | Bjorn Lomborg |
+| 2025-07-18 22:19:25 | "The more that learn to read the less learn how to make a living. That's one thing about a little education. It spoils you for actual work. The more you know the more you think somebody owes you a living." | Will Rogers |
