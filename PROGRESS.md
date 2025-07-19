@@ -524,3 +524,4 @@
 | 2025-07-19 06:22:14 | "I'm in that comfortable niche where I'm not that famous and sometimes people do need to put a barrier between them and their followers. When you're real famous you need to do that but I'm not that famous so I don't need that kind of barrier." | Tony Levin |
 | 2025-07-19 14:22:51 | "When the best leader's work is done the people say, 'We did it ourselves.'" | Lao Tzu |
 | 2025-07-19 22:18:02 | "My dad said if you become a tennis professional just make sure you get into the top hundred, because you have to make a little bit of money. You make a living so you can pay your coaching and, you know, your travels." | Roger Federer |
+| 2025-07-20 06:24:05 | "If your house is burning, wouldn't you try and put out the fire?" | Imran Khan |
