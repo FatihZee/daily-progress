@@ -528,3 +528,4 @@
 | 2025-07-20 14:23:02 | "Well, a sort of epiphany: I was in a great band. And it's very cool to be at 53 and realise that when you were a kid you were in a great band." | Bob Geldof |
 | 2025-07-20 22:18:11 | "If history, philosophy and so on vanish from academic life, what they leave in their wake may be a technical training facility or corporate research institute. But it will not be a university in the classical sense of the term, and it would be deceptive to call it one." | Terry Eagleton |
 | 2025-07-21 06:23:05 | "The free market economy is supposed to be the only path leading to the happiness of humanity by promoting wealth and prosperity, power and influence of nations." | Omar Bongo |
+| 2025-07-21 14:32:33 | "My mother's a psychologist, my stepfather's a psychologist, my stepmother is a therapist and my dad's a lawyer. So it was all prominent in my life. I don't know anyone who doesn't know someone on some form of prescription medicine." | Zach Braff |
