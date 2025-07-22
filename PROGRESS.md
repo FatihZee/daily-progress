@@ -533,3 +533,4 @@
 | 2025-07-22 06:22:42 | "Prophesy is a good line of business, but it is full of risks." | Mark Twain |
 | 2025-07-22 14:27:09 | "Boy, those French: they have a different word for everything!" | Steve Martin |
 | 2025-07-22 22:21:24 | "My mother taught me that we all have the power to achieve our dreams. What I lacked was the courage." | Clay Aiken |
+| 2025-07-23 06:22:51 | "If anything characterizes the cultural life of the seventies in America, it is an insistence on preventing failures of communication." | Richard Rosen |
