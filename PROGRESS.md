@@ -534,3 +534,4 @@
 | 2025-07-22 14:27:09 | "Boy, those French: they have a different word for everything!" | Steve Martin |
 | 2025-07-22 22:21:24 | "My mother taught me that we all have the power to achieve our dreams. What I lacked was the courage." | Clay Aiken |
 | 2025-07-23 06:22:51 | "If anything characterizes the cultural life of the seventies in America, it is an insistence on preventing failures of communication." | Richard Rosen |
+| 2025-07-23 14:27:59 | "I could party in a cardboard box with people who are funny and don't care. For me, it's really about who I surround myself with, so I just try to always be with hilarious people." | Kesha |
