@@ -549,3 +549,4 @@
 | 2025-07-27 22:18:30 | "Maria is the best reason to come home." | Arnold Schwarzenegger |
 | 2025-07-28 06:23:11 | "My mom used to tell me: 'It's not what you weigh it's what you look like.'" | Gina Carano |
 | 2025-07-28 14:30:07 | "When you relinquish the desire to control your future, you can have more happiness." | Nicole Kidman |
+| 2025-07-28 22:21:38 | "You know, my main reaction to this money thing is that it's humorous, all the attention to it, because it's hardly the most insightful or valuable thing that's happened to me." | Steve Jobs |
