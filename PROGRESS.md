@@ -553,3 +553,4 @@
 | 2025-07-29 06:24:36 | "Money has transformed every watchdog, every independent authority. Medical doctors are increasingly gulled by the lobbying of pharmaceutical salesmen." | Thomas Frank |
 | 2025-07-29 14:28:34 | "I know a man who gave up smoking, drinking, sex, and rich food. He was healthy right up to the day he killed himself." | Johnny Carson |
 | 2025-07-29 22:22:23 | "Every art and every inquiry, and similarly every action and choice, is thought to aim at some good and for this reason the good has rightly been declared to be that at which all things aim." | Aristotle |
+| 2025-07-30 06:23:17 | "A lot of what I'm obsessed with is the relationship and the dynamics between people and the family, particularly brothers and their father." | Martin Scorsese |
