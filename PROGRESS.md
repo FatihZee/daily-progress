@@ -552,3 +552,4 @@
 | 2025-07-28 22:21:38 | "You know, my main reaction to this money thing is that it's humorous, all the attention to it, because it's hardly the most insightful or valuable thing that's happened to me." | Steve Jobs |
 | 2025-07-29 06:24:36 | "Money has transformed every watchdog, every independent authority. Medical doctors are increasingly gulled by the lobbying of pharmaceutical salesmen." | Thomas Frank |
 | 2025-07-29 14:28:34 | "I know a man who gave up smoking, drinking, sex, and rich food. He was healthy right up to the day he killed himself." | Johnny Carson |
+| 2025-07-29 22:22:23 | "Every art and every inquiry, and similarly every action and choice, is thought to aim at some good and for this reason the good has rightly been declared to be that at which all things aim." | Aristotle |
