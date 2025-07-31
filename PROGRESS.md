@@ -557,3 +557,4 @@
 | 2025-07-30 14:29:37 | "Unfortunately, President Obama's failed policies of new regulations, higher taxes, and Obamacare and his anti-business rhetoric have hit Hispanics especially hard. Big government really hurts those who are trying to make it." | Marco Rubio |
 | 2025-07-30 22:21:09 | "In Genesis, it says that it is not good for a man to be alone but sometimes it is a great relief." | John Barrymore |
 | 2025-07-31 06:23:24 | "All objects, all phases of culture are alive. They have voices. They speak of their history and interrelatedness. And they are all talking at once!" | Camille Paglia |
+| 2025-07-31 14:28:13 | "Eloquence, n. The art of orally persuading fools that white is the color that it appears to be. It includes the gift of making any color appear white." | Ambrose Bierce |
