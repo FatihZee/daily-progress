@@ -559,3 +559,4 @@
 | 2025-07-31 06:23:24 | "All objects, all phases of culture are alive. They have voices. They speak of their history and interrelatedness. And they are all talking at once!" | Camille Paglia |
 | 2025-07-31 14:28:13 | "Eloquence, n. The art of orally persuading fools that white is the color that it appears to be. It includes the gift of making any color appear white." | Ambrose Bierce |
 | 2025-07-31 22:20:44 | "What makes a child gifted and talented may not always be good grades in school, but a different way of looking at the world and learning." | Chuck Grassley |
+| 2025-08-01 06:23:07 | "Failure has gone to his head." | Wilson Mizner |
