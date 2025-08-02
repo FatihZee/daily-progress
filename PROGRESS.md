@@ -565,3 +565,4 @@
 | 2025-08-02 06:23:04 | "To love for the sake of being loved is human, but to love for the sake of loving is angelic." | Alphonse de Lamartine |
 | 2025-08-02 14:23:35 | "Life is to be lived. If you have to support yourself, you had bloody well better find some way that is going to be interesting. And you don't do that by sitting around." | Katharine Hepburn |
 | 2025-08-02 22:18:25 | "St. Louis has a lot of weird food customs that you don't see other places - and a lot of great ethnic neighborhoods. There's a German neighborhood. A great old school Italian neighborhood, with toasted ravioli, which seems to be a St. Louis tradition. And they love provolone cheese in St. Louis." | Andy Cohen |
+| 2025-08-03 06:24:03 | "Always do your best." | Miguel Angel Ruiz |
