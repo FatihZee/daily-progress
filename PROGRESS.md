@@ -570,3 +570,4 @@
 | 2025-08-03 22:18:45 | "The important thing is that we recognize our President's leadership, that he is not saying: I am going to walk away from this. He is saying: I am going to do the right thing." | Kay Bailey Hutchison |
 | 2025-08-04 06:23:14 | "The White House is giving George W. Bush intelligence briefings. You know, some of these jokes just write themselves." | David Letterman |
 | 2025-08-04 14:33:45 | "A bachelor is a guy who never made the same mistake once." | Phyllis Diller |
+| 2025-08-04 22:21:45 | "The more easily digestible and refined the carbohydrates, the greater the effect on our health, weight and well-being." | Andrew Weil |
