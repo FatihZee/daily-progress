@@ -579,3 +579,4 @@
 | 2025-08-06 22:22:09 | "I am indeed amazed when I consider how weak my mind is and how prone to error." | Rene Descartes |
 | 2025-08-07 06:23:54 | "Getting divorced just because you don't love a man is almost as silly as getting married just because you do." | Zsa Zsa Gabor |
 | 2025-08-07 14:29:57 | "One small cat changes coming home to an empty house to coming home." | Pam Brown |
+| 2025-08-07 22:22:03 | "Speaking of Twitter, I don't even know if I composed a blog entry in 2009, as I was too busy parceling my every thought into cute 140-character sound bites. I used to only worry about being pithy for a living now some of my best lines are wasted on a free app!" | Diablo Cody |
