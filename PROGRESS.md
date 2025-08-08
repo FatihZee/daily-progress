@@ -581,3 +581,4 @@
 | 2025-08-07 14:29:57 | "One small cat changes coming home to an empty house to coming home." | Pam Brown |
 | 2025-08-07 22:22:03 | "Speaking of Twitter, I don't even know if I composed a blog entry in 2009, as I was too busy parceling my every thought into cute 140-character sound bites. I used to only worry about being pithy for a living now some of my best lines are wasted on a free app!" | Diablo Cody |
 | 2025-08-08 06:23:43 | "Do not fear death so much but rather the inadequate life." | Bertolt Brecht |
+| 2025-08-08 14:29:38 | "I'd definitely be the kind of parent who enabled my child's dreams. I'd just watch and nurture and guide them. I have the blueprints of what not to do... I think I'd be a good parent, actually." | Drew Barrymore |
