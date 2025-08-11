@@ -590,3 +590,4 @@
 | 2025-08-10 14:22:26 | "The Senate is a place filled with goodwill and good intentions, and if the road to hell is paved with them, then it's a pretty good detour." | Hubert H. Humphrey |
 | 2025-08-10 22:17:58 | "For the first time in the history of mankind, one generation literally has the power to destroy the past, the present and the future, the power to bring time to an end." | Hubert H. Humphrey |
 | 2025-08-11 06:21:17 | "You can be a mason and build 50 buildings, but it doesn't mean you can design one." | John Malkovich |
+| 2025-08-11 14:29:18 | "You're working on being a father, so that is something that when you experience it you'll understand the profundity of wanting to protect something dear to you." | Harvey Keitel |
