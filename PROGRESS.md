@@ -595,3 +595,4 @@
 | 2025-08-12 06:20:42 | "I know I'm talented, but I wasn't put here to sing. I was put here to be a wife and a mom and look after my family. I love what I do, but it's not where it begins and ends." | Amy Winehouse |
 | 2025-08-12 14:25:02 | "I have three brothers and they're all into computers. They're all intellects. My mother would pay me a quarter a page to read a book and I couldn't make 50 cents. I just couldn't do it." | Josh Holloway |
 | 2025-08-12 22:20:08 | "Jealousy - that jumble of secret worship and ostensible aversion." | Emile M. Cioran |
+| 2025-08-13 06:21:24 | "The Marine Corps is the Navy's police force and as long as I am President that is what it will remain. They have a propaganda machine that is almost equal to Stalin's." | Harry S. Truman |
