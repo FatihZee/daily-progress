@@ -601,3 +601,4 @@
 | 2025-08-14 06:21:06 | "As a small business owner for the last 15 years, when I think of what truly changed my life, it was my faith, a strong family, my mom did a really, really good job of encouraging me in very clear and discernible ways." | Tim Scott |
 | 2025-08-14 14:25:03 | "Laws control the lesser man... Right conduct controls the greater one." | Mark Twain |
 | 2025-08-14 22:19:52 | "The clash of ideas is the sound of freedom." | Lady Bird Johnson |
+| 2025-08-15 06:21:23 | "I mean, just because you're a musician doesn't mean all your ideas are about music. So every once in a while I get an idea about plumbing, I get an idea about city government, and they come the way they come." | Jerry Garcia |
