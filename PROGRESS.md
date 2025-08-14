@@ -599,3 +599,4 @@
 | 2025-08-13 14:25:27 | "I was a total athlete. I loved sports, but when I realized I wasn't going to be a professional athlete, I realized I wanted to be in movies." | Seann William Scott |
 | 2025-08-13 22:16:58 | "Like charity, I believe glamour should begin at home." | Loretta Young |
 | 2025-08-14 06:21:06 | "As a small business owner for the last 15 years, when I think of what truly changed my life, it was my faith, a strong family, my mom did a really, really good job of encouraging me in very clear and discernible ways." | Tim Scott |
+| 2025-08-14 14:25:03 | "Laws control the lesser man... Right conduct controls the greater one." | Mark Twain |
