@@ -605,3 +605,4 @@
 | 2025-08-15 14:23:37 | "What makes me angry? The education of children. How in God's name can you expect to have a functioning society the way we teach our kids?" | Kathleen Turner |
 | 2025-08-15 22:18:48 | "Going online and asking questions is the best way to learn." | Tom Felton |
 | 2025-08-16 06:20:58 | "I need drama in my life to keep making music." | Eminem |
+| 2025-08-16 14:22:26 | "Every piece of software written today is likely going to infringe on someone else's patent." | Miguel de Icaza |
