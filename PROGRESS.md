@@ -609,3 +609,4 @@
 | 2025-08-16 22:16:48 | "As one digs deeper into the national character of the Americans, one sees that they have sought the value of everything in this world only in the answer to this single question: how much money will it bring in?" | Alexis de Tocqueville |
 | 2025-08-17 06:19:42 | "Our human compassion binds us the one to the other - not in pity or patronizingly, but as human beings who have learnt how to turn our common suffering into hope for the future." | Nelson Mandela |
 | 2025-08-17 14:22:12 | "An atheist may be simply one whose faith and love are concentrated on the impersonal aspects of God." | Simone Weil |
+| 2025-08-17 22:16:55 | "And what I like about it is it makes me happy and I think it makes a lot of people happy to go to the movies and to not think about the problems of the day or the problems of tomorrow or the yesterday and just go on for the ride and have the fun of losing oneself in a fantasy." | Nicolas Cage |
