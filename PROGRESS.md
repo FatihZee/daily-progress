@@ -611,3 +611,4 @@
 | 2025-08-17 14:22:12 | "An atheist may be simply one whose faith and love are concentrated on the impersonal aspects of God." | Simone Weil |
 | 2025-08-17 22:16:55 | "And what I like about it is it makes me happy and I think it makes a lot of people happy to go to the movies and to not think about the problems of the day or the problems of tomorrow or the yesterday and just go on for the ride and have the fun of losing oneself in a fantasy." | Nicolas Cage |
 | 2025-08-18 06:20:54 | "For me, London is and always will be home." | Clive Owen |
+| 2025-08-18 14:26:59 | "The marvel of all history is the patience with which men and women submit to burdens unnecessarily laid upon them by their governments." | George Washington |
