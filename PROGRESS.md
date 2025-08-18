@@ -612,3 +612,4 @@
 | 2025-08-17 22:16:55 | "And what I like about it is it makes me happy and I think it makes a lot of people happy to go to the movies and to not think about the problems of the day or the problems of tomorrow or the yesterday and just go on for the ride and have the fun of losing oneself in a fantasy." | Nicolas Cage |
 | 2025-08-18 06:20:54 | "For me, London is and always will be home." | Clive Owen |
 | 2025-08-18 14:26:59 | "The marvel of all history is the patience with which men and women submit to burdens unnecessarily laid upon them by their governments." | George Washington |
+| 2025-08-18 22:20:15 | "Truth be told, I'm not an easy man. I can be an entertaining one, though it's been my experience that most people don't want to be entertained. They want to be comforted." | Richard Russo |
