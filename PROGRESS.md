@@ -613,3 +613,4 @@
 | 2025-08-18 06:20:54 | "For me, London is and always will be home." | Clive Owen |
 | 2025-08-18 14:26:59 | "The marvel of all history is the patience with which men and women submit to burdens unnecessarily laid upon them by their governments." | George Washington |
 | 2025-08-18 22:20:15 | "Truth be told, I'm not an easy man. I can be an entertaining one, though it's been my experience that most people don't want to be entertained. They want to be comforted." | Richard Russo |
+| 2025-08-19 06:20:06 | "All observers not laboring under hallucinations of the senses are agreed, or can be made to agree, about facts of sensible experience, through evidence toward which the intellect is merely passive, and over which the individual will and character have no control." | Chauncey Wright |
