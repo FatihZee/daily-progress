@@ -615,3 +615,4 @@
 | 2025-08-18 22:20:15 | "Truth be told, I'm not an easy man. I can be an entertaining one, though it's been my experience that most people don't want to be entertained. They want to be comforted." | Richard Russo |
 | 2025-08-19 06:20:06 | "All observers not laboring under hallucinations of the senses are agreed, or can be made to agree, about facts of sensible experience, through evidence toward which the intellect is merely passive, and over which the individual will and character have no control." | Chauncey Wright |
 | 2025-08-19 14:22:41 | "And the attitude of faith is the very opposite of clinging to belief, of holding on." | Alan Watts |
+| 2025-08-19 22:19:20 | "I prefer younger men. In some ways, they are much more open to a woman being stronger and independent then some of the men my age." | Kim Cattrall |
