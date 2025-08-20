@@ -617,3 +617,4 @@
 | 2025-08-19 14:22:41 | "And the attitude of faith is the very opposite of clinging to belief, of holding on." | Alan Watts |
 | 2025-08-19 22:19:20 | "I prefer younger men. In some ways, they are much more open to a woman being stronger and independent then some of the men my age." | Kim Cattrall |
 | 2025-08-20 06:19:41 | "It is well for the world that in most of us, by the age of thirty, the character has set like plaster, and will never soften again." | William James |
+| 2025-08-20 14:23:25 | "Most Americans don't care about gay marriage." | Dan Savage |
