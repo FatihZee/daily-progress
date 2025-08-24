@@ -629,3 +629,4 @@
 | 2025-08-23 14:20:09 | "The greatest joys are found not only in what we do and feel, but also in what we hope for." | Bryant H. McGill |
 | 2025-08-23 22:15:30 | "I think writing really helps you heal yourself. I think if you write long enough, you will be a healthy person. That is, if you write what you need to write, as opposed to what will make money, or what will make fame." | Alice Walker |
 | 2025-08-24 06:19:17 | "The struggle of my life created empathy - I could relate to pain, being abandoned, having people not love me." | Oprah Winfrey |
+| 2025-08-24 14:21:06 | "Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer fear, do not sit home and think about it. Go out and get busy." | Dale Carnegie |
