@@ -638,3 +638,4 @@
 | 2025-08-26 14:23:15 | "Love in marriage should be the accomplishment of a beautiful dream, and not, as it too often is, the end." | Alphonse Karr |
 | 2025-08-26 22:18:47 | "A flower cannot blossom without sunshine, and man cannot live without love." | Max Muller |
 | 2025-08-27 06:18:38 | "I don't need plastic in my body to validate me as a woman." | Courtney Love |
+| 2025-08-27 14:21:46 | "It is ever the invisible that is the object of our profoundest worship.  With the lover it is not the seen but the unseen that he muses upon." | Bovee, Christian Nestell |
