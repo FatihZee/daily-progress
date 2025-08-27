@@ -640,3 +640,4 @@
 | 2025-08-27 06:18:38 | "I don't need plastic in my body to validate me as a woman." | Courtney Love |
 | 2025-08-27 14:21:46 | "It is ever the invisible that is the object of our profoundest worship.  With the lover it is not the seen but the unseen that he muses upon." | Bovee, Christian Nestell |
 | 2025-08-27 22:18:21 | "My dad and my uncles owned a bar outside of Cincinnati. I worked there growing up, mopping floors, waiting tables." | John Boehner |
+| 2025-08-28 06:18:43 | "From year to year, environmental changes are incremental and often barely register in our lives, but from evolutionary or geological perspectives, what is happening is explosive change." | David Suzuki |
