@@ -645,3 +645,4 @@
 | 2025-08-28 22:18:08 | "God is one, but he has innumerable forms. He is the creator of all and He himself takes the human form." | Guru Nanak |
 | 2025-08-29 06:19:22 | "I loved climbing because of the freedom, and having time and space. I remember coming off Everest for the last time, thinking of Dad and wishing that he could have seen what I saw. He would have loved it." | Bear Grylls |
 | 2025-08-29 14:22:09 | "We need to teach the highly educated man that it is not a disgrace to fail and that he must analyze every failure to find its cause. He must learn how to fail intelligently, for failing is one of the greatest arts in the world." | Charles Kettering |
+| 2025-08-29 22:15:21 | "We do not look in our great cities for our best morality." | Jane Austen |
