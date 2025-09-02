@@ -657,3 +657,4 @@
 | 2025-09-01 22:17:10 | "Sometimes, where a complex problem can be illuminated by many tools, one can be forgiven for applying the one he knows best." | Machol, Robert |
 | 2025-09-02 06:18:43 | "I saw Richard Linklater's film 'Slacker' for my twenty-first birthday. That was the moment when it all seemed possible. This guy gave me hope." | Kevin Smith |
 | 2025-09-02 14:22:43 | "Although I get so much fan mail from Great Britain, tell me, am I more famous there than Michael Madsen?" | Tom Sizemore |
+| 2025-09-02 22:18:27 | "My dad takes care of me as a manager and as a dad. That's his job, you know, to take care of me. He has my best interests at heart." | Jessica Simpson |
