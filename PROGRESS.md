@@ -661,3 +661,4 @@
 | 2025-09-03 06:17:43 | "Men must know their limitations." | Clint Eastwood |
 | 2025-09-03 14:21:17 | "You have to keep your sanity as well as know how to distance yourself from it while still holding onto the reins tightly. That is a very difficult thing to do, but I'm learning." | Diahann Carroll |
 | 2025-09-03 22:18:27 | "The best augury of a man's success in his profession is that he thinks it the finest in the world." | George Eliot |
+| 2025-09-04 06:18:07 | "He's a man of great common sense and good taste - meaning thereby a man without originality or moral courage." | George Bernard Shaw |
