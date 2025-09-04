@@ -664,3 +664,4 @@
 | 2025-09-04 06:18:07 | "He's a man of great common sense and good taste - meaning thereby a man without originality or moral courage." | George Bernard Shaw |
 | 2025-09-04 14:21:01 | "Let us not seek the Republican answer or the Democratic answer, but the right answer. Let us not seek to fix the blame for the past. Let us accept our own responsibility for the future." | John F. Kennedy |
 | 2025-09-04 22:17:43 | "I show them the funny part, the silly part, the laughing part, the crazy part and then the really deep, deep part where I'm talking from my heart to these people. Because I've been through everything they've been through." | Richard Simmons |
+| 2025-09-05 06:18:29 | "Walk on a rainbow trail walk on a trail of song, and all about you will be beauty. There is a way out of every dark mist, over a rainbow trail." | Robert Motherwell |
