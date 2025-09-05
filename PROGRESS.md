@@ -665,3 +665,4 @@
 | 2025-09-04 14:21:01 | "Let us not seek the Republican answer or the Democratic answer, but the right answer. Let us not seek to fix the blame for the past. Let us accept our own responsibility for the future." | John F. Kennedy |
 | 2025-09-04 22:17:43 | "I show them the funny part, the silly part, the laughing part, the crazy part and then the really deep, deep part where I'm talking from my heart to these people. Because I've been through everything they've been through." | Richard Simmons |
 | 2025-09-05 06:18:29 | "Walk on a rainbow trail walk on a trail of song, and all about you will be beauty. There is a way out of every dark mist, over a rainbow trail." | Robert Motherwell |
+| 2025-09-05 14:21:19 | "If you want to look at the state of humans, you should look at the state of animals first. People are choosing whether or not they can feed an animal and their family. And every shelter coast-to-coast is stuffed." | Rachael Ray |
