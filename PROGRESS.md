@@ -668,3 +668,4 @@
 | 2025-09-05 14:21:19 | "If you want to look at the state of humans, you should look at the state of animals first. People are choosing whether or not they can feed an animal and their family. And every shelter coast-to-coast is stuffed." | Rachael Ray |
 | 2025-09-05 22:17:34 | "Time after time we're told corporations should have freedom from pesky job safety regulations, environmental protections and labor standards - giving working people the freedom to be crushed in collapsing mines, choke on filthy air and get paid too little to live on." | Richard Trumka |
 | 2025-09-06 06:18:21 | "There's a hell of a lot of freedom in this rock and roll circus... it's where all the freaks go - it's the environment for me." | Brian Molko |
+| 2025-09-06 14:18:46 | "We would make songs, and the producers said we should play it for my dad. I was kind of scared, I didn't know what to think cuz we were just joking around." | Lil' Romeo |
