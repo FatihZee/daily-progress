@@ -670,3 +670,4 @@
 | 2025-09-06 06:18:21 | "There's a hell of a lot of freedom in this rock and roll circus... it's where all the freaks go - it's the environment for me." | Brian Molko |
 | 2025-09-06 14:18:46 | "We would make songs, and the producers said we should play it for my dad. I was kind of scared, I didn't know what to think cuz we were just joking around." | Lil' Romeo |
 | 2025-09-06 22:14:25 | "And that's really what's happening in this country is a violation of the First Commandment. We have become a country entrenched in idolatry, and that idolatry is the dependency upon our government. We're supposed to depend upon God for our protection and our provision and for our daily bread, not for our government." | Sharron Angle |
+| 2025-09-07 06:17:11 | "Men and women of every faith and good people with none at all sincerely strive to do right and lead a purpose-driven life." | Mitt Romney |
