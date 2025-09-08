@@ -675,3 +675,4 @@
 | 2025-09-07 22:14:50 | "I do yoga, I do Bikram and I run, and I eat really healthy." | Lady Gaga |
 | 2025-09-08 06:17:31 | "We in the United States should be all the more thankful for the freedom and religious tolerance we enjoy. And we should always remember the lessons learned from the Holocaust, in hopes we stay vigilant against such inhumanity now and in the future." | Charlie Dent |
 | 2025-09-08 14:22:59 | "There is always some madness in love. But there is also always some reason in madness." | Friedrich Nietzsche |
+| 2025-09-08 22:16:48 | "Anyone who thinks that the vice-president can take a position independent of the president of his administration simply has no knowledge of politics or government. You are his choice in a political marriage, and he expects your absolute loyalty." | Hubert H. Humphrey |
