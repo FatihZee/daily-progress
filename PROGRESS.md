@@ -678,3 +678,4 @@
 | 2025-09-08 22:16:48 | "Anyone who thinks that the vice-president can take a position independent of the president of his administration simply has no knowledge of politics or government. You are his choice in a political marriage, and he expects your absolute loyalty." | Hubert H. Humphrey |
 | 2025-09-09 06:19:40 | "Liberation is not deliverance." | Hugo, Victor |
 | 2025-09-09 14:21:58 | "We are all hungry and thirsty for concrete images. Abstract art will have been good for one thing: to restore its exact virginity to figurative art." | Salvador Dali |
+| 2025-09-09 22:18:55 | ""I told my mom, 'I'm not buying another magazine until I can get past this thought of looking like the girl on the cover'. She said, ""Miley, you are the girl on the cover,' and I was, like, 'I know, but I don't feel like that girl every day.' You can't always feel perfect."" | Miley Cyrus |
