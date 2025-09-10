@@ -682,3 +682,4 @@
 | 2025-09-10 06:18:07 | "I have never been able to grasp the meaning of time. I don't believe it exists. I've felt this again and again, when alone and out in nature. On such occasions, time does not exist. Nor does the future exist." | Thor Heyerdahl |
 | 2025-09-10 14:21:33 | "Sometimes life hits you in the head with a brick. Don't lose faith." | Steve Jobs |
 | 2025-09-10 22:17:28 | "I do other sorts of things. I act in other people's movies. I direct operas. I write books." | Werner Herzog |
+| 2025-09-11 06:18:27 | "For us, holding on to religious rules, and following them, and refraining from what's forbidden, and being diligent with our duties, what do we call that? That's what we call freedom." | Muqtada al Sadr |
