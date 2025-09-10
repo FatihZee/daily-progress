@@ -680,3 +680,4 @@
 | 2025-09-09 14:21:58 | "We are all hungry and thirsty for concrete images. Abstract art will have been good for one thing: to restore its exact virginity to figurative art." | Salvador Dali |
 | 2025-09-09 22:18:55 | ""I told my mom, 'I'm not buying another magazine until I can get past this thought of looking like the girl on the cover'. She said, ""Miley, you are the girl on the cover,' and I was, like, 'I know, but I don't feel like that girl every day.' You can't always feel perfect."" | Miley Cyrus |
 | 2025-09-10 06:18:07 | "I have never been able to grasp the meaning of time. I don't believe it exists. I've felt this again and again, when alone and out in nature. On such occasions, time does not exist. Nor does the future exist." | Thor Heyerdahl |
+| 2025-09-10 14:21:33 | "Sometimes life hits you in the head with a brick. Don't lose faith." | Steve Jobs |
