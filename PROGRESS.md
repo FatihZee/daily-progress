@@ -684,3 +684,4 @@
 | 2025-09-10 22:17:28 | "I do other sorts of things. I act in other people's movies. I direct operas. I write books." | Werner Herzog |
 | 2025-09-11 06:18:27 | "For us, holding on to religious rules, and following them, and refraining from what's forbidden, and being diligent with our duties, what do we call that? That's what we call freedom." | Muqtada al Sadr |
 | 2025-09-11 14:21:48 | "And when I was a kid being an actor was not cool. I'm thirty now and when I was a kid in the 80s that wasn't a cool thing to be." | Vincent Kartheiser |
+| 2025-09-11 22:16:05 | "I was a vegetarian until I started leaning toward the sunlight." | Rita Rudner |
