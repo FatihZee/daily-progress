@@ -699,3 +699,4 @@
 | 2025-09-15 22:18:29 | "The terror of the atom age is not the violence of the new power but the speed of man's adjustment to it, the speed of his acceptance." | E. B. White |
 | 2025-09-16 06:17:33 | "I think if there's any difference between me and a traditional CEO, it's that I've been unwilling to change myself or shape my personality around what's expected." | Andrew Mason |
 | 2025-09-16 14:22:15 | "It's interesting because a lot of my 16-year-old kids' friends know me from 'Wedding Crashers,' and not so much Bond. My kids have a good laugh. I was 20 then. The look I had then was the look that a lot of their friends are assuming now. They think it's cool. What goes around comes around." | Jane Seymour |
+| 2025-09-16 22:18:28 | "The biggest mistakes, early on, involved foreign policy and involved the strategy for health care." | Sidney Blumenthal |
