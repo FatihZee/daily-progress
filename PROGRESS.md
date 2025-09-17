@@ -701,3 +701,4 @@
 | 2025-09-16 14:22:15 | "It's interesting because a lot of my 16-year-old kids' friends know me from 'Wedding Crashers,' and not so much Bond. My kids have a good laugh. I was 20 then. The look I had then was the look that a lot of their friends are assuming now. They think it's cool. What goes around comes around." | Jane Seymour |
 | 2025-09-16 22:18:28 | "The biggest mistakes, early on, involved foreign policy and involved the strategy for health care." | Sidney Blumenthal |
 | 2025-09-17 06:15:00 | "God is looking for people to use, and if you can get usable, he will wear you out. The most dangerous prayer you can pray is this: 'Use me.'" | Rick Warren |
+| 2025-09-17 14:21:06 | "Every artist writes his own autobiography." | Ellis, Havelock |
