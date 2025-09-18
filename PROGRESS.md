@@ -706,3 +706,4 @@
 | 2025-09-18 06:17:39 | "Anger is one of the sinews of the soul." | Thomas Fuller |
 | 2025-09-18 14:21:04 | "I grew up on Bette Davis movies, and Marlene Dietrich, Marilyn Monroe." | Charlize Theron |
 | 2025-09-18 22:17:49 | "I just motor through school in the morning and then go skating." | Ryan Sheckler |
+| 2025-09-19 06:18:14 | "I think you go through a period as a teenager of being quite cool and unaffected by things." | Miranda Otto |
