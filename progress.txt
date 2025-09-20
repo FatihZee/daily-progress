@@ -708,3 +708,4 @@
 2025-09-20 06:17:56 - "I think somehow you need to get to a certain point in your life where the notion of failure is absurd." - Jeff Tweedy
 2025-09-20 14:19:24 - "A good man would prefer to be defeated than to defeat injustice by evil means." - Sallust
 2025-09-20 22:14:42 - "As long as men are free to ask what they must, free to say what they think, free to think what they will, freedom can never be lost and science can never regress." - Marcel Proust
+2025-09-21 06:17:50 - "The ordinary American - as far as I can tell - knows so much less than he did fifty years ago and has such poor work habits compared with fifty years ago that the average multiplicand of knowledge/capabilities is a much smaller number than it was in 1961." - Ben Stein
