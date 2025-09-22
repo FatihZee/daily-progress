@@ -717,3 +717,4 @@
 | 2025-09-21 22:15:14 | "The end of the animal trade would leave more time to trap or beat to death pop star wannabes." | Simon Cowell |
 | 2025-09-22 06:17:56 | "There is a very fine line between loving life and being greedy for it." | Maya Angelou |
 | 2025-09-22 14:23:51 | "I just love movies." | Edward Norton |
+| 2025-09-22 22:18:57 | "Rupert Murdoch is probably the most successful media proprietor and operator in history." | Conrad Black |
