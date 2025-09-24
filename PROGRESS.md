@@ -723,3 +723,4 @@
 | 2025-09-23 22:17:50 | "Rules and models destroy genius and art." | William Hazlitt |
 | 2025-09-24 06:17:48 | "At every turn, when humanity is asked the question, 'Do you want temporary economic gain or long-term environmental loss, which one do you prefer,' we invariably choose the money." | Ethan Hawke |
 | 2025-09-24 14:22:43 | "I had a lot of experience with people smarter than I am." | Gerald R. Ford |
+| 2025-09-24 22:17:59 | "Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands." | Anne Frank |
