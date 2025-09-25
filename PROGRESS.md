@@ -725,3 +725,4 @@
 | 2025-09-24 14:22:43 | "I had a lot of experience with people smarter than I am." | Gerald R. Ford |
 | 2025-09-24 22:17:59 | "Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands." | Anne Frank |
 | 2025-09-25 06:18:58 | "I can tell you that the Canadian intelligence and law enforcement agencies have been providing outstanding co-operation with our intelligence and law enforcement agencies as we work together to track down terrorists here in North America and put them out of commission." | Paul Cellucci |
+| 2025-09-25 14:23:21 | "In a funny way, poems are suited to modern life. They're short, they're intense. Nobody has time to read a 700-page book. People read magazines, and a poem takes less time than an article." | Caroline Kennedy |
