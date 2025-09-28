@@ -735,3 +735,4 @@
 | 2025-09-27 22:14:22 | "Christ would be a national advertiser today, I am sure, as He was a great advertiser in His own day. He thought of His life as business." | Bruce Barton |
 | 2025-09-28 06:17:52 | "Love is an attempt at penetrating another being, but it can only succeed if the surrender is mutual." | Octavio Paz |
 | 2025-09-28 14:18:37 | "Jesus picked up twelve men from the bottom ranks of business and forged them into an organisation that conquered the world." | Bruce Barton |
+| 2025-09-28 22:14:07 | "I think no artist can claim to have any access to the truth, or an authentic version of an event. But obviously they have slightly better means at their disposal because they have their art to energize whatever it is they're trying to write about. They have music." | Thom Yorke |
