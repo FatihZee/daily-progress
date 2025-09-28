@@ -734,3 +734,4 @@
 | 2025-09-27 14:18:10 | "I can only point out a curious fact. Year after year the Nobel Awards bring a moment of happiness not only to the recipients, not only to colleagues and friends of the recipients, but even to strangers." | Alfred Day Hershey |
 | 2025-09-27 22:14:22 | "Christ would be a national advertiser today, I am sure, as He was a great advertiser in His own day. He thought of His life as business." | Bruce Barton |
 | 2025-09-28 06:17:52 | "Love is an attempt at penetrating another being, but it can only succeed if the surrender is mutual." | Octavio Paz |
+| 2025-09-28 14:18:37 | "Jesus picked up twelve men from the bottom ranks of business and forged them into an organisation that conquered the world." | Bruce Barton |
