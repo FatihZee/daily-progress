@@ -739,3 +739,4 @@
 | 2025-09-29 06:18:05 | "Both dreams and myths are important communications from ourselves to ourselves. If we do not understand the language in which they are written, we miss a great deal of what we know and tell ourselves in those hours when we are not busy manipulating the outside world." | Erich Fromm |
 | 2025-09-29 14:23:36 | "The day after the prison was transferred to the military intelligence command, they had an entire battalion - 1,200, 1,500 soldiers - arrive at Abu Ghraib just for force protection alone." | Janis Karpinski |
 | 2025-09-29 22:18:00 | "True art is characterized by an irresistible urge in the creative artist." | Albert Einstein |
+| 2025-09-30 06:18:42 | "An educated person is one who has learned that information almost always turns out to be at best incomplete and very often false, misleading, fictitious, mendacious - just dead wrong." | Russell Baker |
