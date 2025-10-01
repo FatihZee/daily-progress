@@ -744,3 +744,4 @@
 | 2025-09-30 22:16:09 | "The only thing we never get enough of is love and the only thing we never give enough of is love." | Henry Miller |
 | 2025-10-01 06:18:18 | "He that hath wife and children hath given hostages to fortune for they are impediments to great enterprises, either of virtue or mischief." | Francis Bacon |
 | 2025-10-01 14:22:50 | "My aunt had a season ticket for the Friday afternoon concerts, and I would go down for lessons. My lessons were Saturday morning." | Robert Ripley |
+| 2025-10-01 22:17:13 | "Their poverty secured their freedom, since our desires and our possessions are the strongest fetters of despotism." | Edward Gibbon |
