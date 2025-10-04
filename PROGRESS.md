@@ -754,3 +754,4 @@
 | 2025-10-04 06:17:41 | "After all, I long to be in America again, nay, if I can go home to return no more to Europe, it seems to me that I shall ever enjoy more peace of mind, and even Physical comfort than I can meet with in any portion of the world beside." | John James Audubon |
 | 2025-10-04 14:18:27 | "Unfortunately, the Republican leadership in the House right now seems to have been strangled by the tea party." | Debbie Wasserman Schultz |
 | 2025-10-04 22:14:58 | "But it seems that the judging maybe they shouldn't at least see the practices all week long. That can taint the way they go into the judging and the outlook of what's going to happen, instead of just watching those four minutes and judging on those minutes alone." | Nancy Kerrigan |
+| 2025-10-05 06:17:56 | "If I had to live my life again, I'd make the same mistakes, only sooner." | Tallulah Bankhead |
