@@ -756,3 +756,4 @@
 | 2025-10-04 22:14:58 | "But it seems that the judging maybe they shouldn't at least see the practices all week long. That can taint the way they go into the judging and the outlook of what's going to happen, instead of just watching those four minutes and judging on those minutes alone." | Nancy Kerrigan |
 | 2025-10-05 06:17:56 | "If I had to live my life again, I'd make the same mistakes, only sooner." | Tallulah Bankhead |
 | 2025-10-05 14:18:19 | "I like normal stuff people fear - like spiders and heights. I'm frightened by the unknown, by things that are hard to figure out and get a grip on." | Haley Joel Osment |
+| 2025-10-05 22:14:41 | "The properties which differentiate living matter from any kind of inorganic imitation may be instinctively felt, but can hardly be formulated without expert knowledge." | Oliver Joseph Lodge |
