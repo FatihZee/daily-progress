@@ -757,3 +757,4 @@
 | 2025-10-05 06:17:56 | "If I had to live my life again, I'd make the same mistakes, only sooner." | Tallulah Bankhead |
 | 2025-10-05 14:18:19 | "I like normal stuff people fear - like spiders and heights. I'm frightened by the unknown, by things that are hard to figure out and get a grip on." | Haley Joel Osment |
 | 2025-10-05 22:14:41 | "The properties which differentiate living matter from any kind of inorganic imitation may be instinctively felt, but can hardly be formulated without expert knowledge." | Oliver Joseph Lodge |
+| 2025-10-06 06:16:28 | "With people of limited ability modesty is merely honesty. But with those who possess great talent it is hypocrisy." | Arthur Schopenhauer |
