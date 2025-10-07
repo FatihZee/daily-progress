@@ -761,3 +761,4 @@
 | 2025-10-06 14:23:16 | "Art enables us to find ourselves and lose ourselves at the same time." | Thomas Merton |
 | 2025-10-06 22:17:40 | "When I was a kid, I wanted to be serious, like Daniel Day-Lewis. No one really dreams of being a comic actor, do they? Now I realise how stupid that is - and it's because comic acting isn't taken seriously enough. It's a discipline. You know instantly - either you're funny and getting the laughs, or you're not." | Chris O'Dowd |
 | 2025-10-07 06:18:28 | "I spent a lot of my life holding back my cries, and I want to change that because it's not good for me." | Shania Twain |
+| 2025-10-07 14:22:12 | "Thank you, God, for this good life and forgive us if we do not love it enough." | Garrison Keillor |
