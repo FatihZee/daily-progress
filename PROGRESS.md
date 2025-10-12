@@ -776,3 +776,4 @@
 | 2025-10-11 14:18:36 | "It's like you always have to put on a happy face, be the phony baloney, and I'm so not that. I never was that I'll never be that. That is part of the business that I don't like. Maybe that will always keep me an outsider, I don't know. But that's fine." | Chloe Sevigny |
 | 2025-10-11 22:14:32 | "The youth is the hope of our future." | Jose Rizal |
 | 2025-10-12 06:17:47 | "Well, I affirm orthodox Christian faith. I affirm the Nicene Creed. I don't think I'm doing anything terribly new." | Rob Bell |
+| 2025-10-12 14:19:03 | "Wal-Mart doesn't really care about your faith. Wal-Mart cares if you have money to spend, and it is going to be as generic as possible in exploiting the holiday season for every buck it can make." | Richard Roeper |
