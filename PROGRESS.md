@@ -782,3 +782,4 @@
 | 2025-10-13 14:23:42 | "Well, I design costumes because I started with the theater in Chicago, but somehow a few lines just sort of fell to me to do it. And I studied it in school and I always liked it." | John Malkovich |
 | 2025-10-13 22:18:06 | "I spent a college semester in a small town in Italy - and that is where I truly tasted food for the first time." | Alton Brown |
 | 2025-10-14 06:18:36 | "Surely the President can agree with us, that theft from government is not good. I know it's bold. It's out on the edge. I know from a Chicago-Springfield background it's hard to fully grasp that honesty could be part of government." | Newt Gingrich |
+| 2025-10-14 14:23:08 | "If we don't succeed we run the risk of failure." | Dan Quayle |
