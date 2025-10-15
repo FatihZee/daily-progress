@@ -786,3 +786,4 @@
 | 2025-10-14 22:19:57 | "Happiness is a monstrosity! Punished are those who seek it." | Gustave Flaubert |
 | 2025-10-15 06:19:14 | "Downtown, one has less time. But there are in Europe much people who have the faith, in South America, too." | Yannick Noah |
 | 2025-10-15 14:23:45 | "Thus, in accordance with the spirit of the Historical School, knowledge of the principles of the human world falls within that world itself, and the human sciences form an independent system." | Wilhelm Dilthey |
+| 2025-10-15 22:17:19 | "I'm not a very serious person. You know how they say that clowns are very funny in public and are really sad at home? I'm really kind of stupid at home and more serious in public." | Roland Joffe |
