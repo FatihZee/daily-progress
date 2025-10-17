@@ -792,3 +792,4 @@
 | 2025-10-16 22:19:04 | "The big difference between sex for money and sex for free is that sex for money usually costs a lot less." | Brendan Behan |
 | 2025-10-17 06:17:23 | "I'm interested in the theater because I'm interested in communication with audiences. Otherwise I would be in concert music." | Stephen Sondheim |
 | 2025-10-17 14:22:40 | "I get way too much happiness from good food." | Elizabeth Olsen |
+| 2025-10-17 22:17:41 | "Music has always been my protection against the world, from a very young age. I feel safe inside of a jam." | Trey Anastasio |
