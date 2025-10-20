@@ -802,3 +802,4 @@
 | 2025-10-20 06:18:44 | "I remember when I came home from the hospital after having my son, I wore a Narciso Rodriguez black coat. Then, I was using this fragrance that I had created. I walk by that coat, and it still smells like that fragrance. It takes you right there." | Sarah Jessica Parker |
 | 2025-10-20 14:23:55 | "I really unfortunately don't have tons of hilarious Sundance stories, because really I am not the biggest fan of hanging out, but the reason why is because I never go see other people's movies and I think that's the way to do it." | Lizzy Caplan |
 | 2025-10-20 22:18:08 | "A people and their religion must be judged by social standards based on social ethics. No other standard would have any meaning if religion is held to be necessary good for the well-being of the people." | B. R. Ambedkar |
+| 2025-10-21 06:19:05 | "You can't be funny if you don't have good material." | Matt LeBlanc |
