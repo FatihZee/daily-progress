@@ -806,3 +806,4 @@
 | 2025-10-21 14:23:46 | "For me, growing up, the downside of it was that as a kid you don't want to stand out. You don't want to have a famous father let alone get a job because of your famous father, you know? But I'm a product of nepotism. That's how I got my foot in the door, through my dad." | Jeff Bridges |
 | 2025-10-21 22:18:16 | "What we have at present is a system of loss socialism. Whatever goes wrong is shouldered by the general public and anything that works is privatised. Worshippers of market freedom have suspended the most important economic principle: Risk and liability go hand in hand." | Sigmar Gabriel |
 | 2025-10-22 06:20:02 | "All of the biggest technological inventions created by man - the airplane, the automobile, the computer - says little about his intelligence, but speaks volumes about his laziness." | Mark Kennedy |
+| 2025-10-22 14:23:06 | "Prayer does not change God, but it changes him who prays." | Soren Kierkegaard |
