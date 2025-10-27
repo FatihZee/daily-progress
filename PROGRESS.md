@@ -822,3 +822,4 @@
 | 2025-10-26 22:15:44 | "Passion is universal humanity. Without it religion, history, romance and art would be useless." | Honore de Balzac |
 | 2025-10-27 06:19:05 | "My parents did not have a perfect marriage. It was pretty good, but it was not perfect. My marriage is not perfect. My wife is, but I happen to be imperfect. However, that does not discount the fact that the definition of marriage must be defended and protected." | Stockwell Day |
 | 2025-10-27 14:23:25 | "We have our own history, our own language, our own culture. But our destiny is also tied up with the destinies of other people - history has made us all South Africans." | Mangosuthu Buthelezi |
+| 2025-10-27 22:19:14 | "I don't really know a lot of famous people. I've met a lot of famous people. If I ran into Tom Hanks today, I would have to remind him who I was and he would then remember me. But he wouldn't come up to me and say, 'Hi Dave!'" | David Zucker |
