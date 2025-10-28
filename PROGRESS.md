@@ -825,3 +825,4 @@
 | 2025-10-27 22:19:14 | "I don't really know a lot of famous people. I've met a lot of famous people. If I ran into Tom Hanks today, I would have to remind him who I was and he would then remember me. But he wouldn't come up to me and say, 'Hi Dave!'" | David Zucker |
 | 2025-10-28 06:19:13 | "This - the leadership of the mayor is crucial, because it is to the mayor that people will look to provide the vision, the energy, and the sense of confidence in the rebuilding and the recovery." | Marc Morial |
 | 2025-10-28 14:23:09 | "I was very much into buying contemporary art, but I've just decided I want to get rid of it all. Not that it's not great art, but all of a sudden my mood has changed, and I want to go back to seventeenth- and eighteenth-century masters." | Sylvester Stallone |
+| 2025-10-28 22:20:21 | "He's a man of great common sense and good taste - meaning thereby a man without originality or moral courage." | George Bernard Shaw |
