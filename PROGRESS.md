@@ -828,3 +828,4 @@
 | 2025-10-28 22:20:21 | "He's a man of great common sense and good taste - meaning thereby a man without originality or moral courage." | George Bernard Shaw |
 | 2025-10-29 06:19:48 | "Look at the Afghans, during the time of the Soviet invasion. They were among the poorest Muslims in the world, yet they were sustained by their faith in God, and God alone." | Abu Bakar Bashir |
 | 2025-10-29 14:23:30 | "There were times when I had great times with my brothers, pillow fights and things, but I was, used to always cry from loneliness." | Michael Jackson |
+| 2025-10-29 22:20:25 | "But behavior in the human being is sometimes a defense, a way of concealing motives and thoughts, as language can be a way of hiding your thoughts and preventing communication." | Abraham Maslow |
