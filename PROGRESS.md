@@ -832,3 +832,4 @@
 | 2025-10-30 06:20:08 | "Artists working for other artists is all about knowing, learning, unlearning, initiating long-term artistic dialogues, making connections, creating covens, and getting temporary shelter from the storm." | Jerry Saltz |
 | 2025-10-30 14:22:17 | "Politics is the art of controlling your environment." | Hunter S. Thompson |
 | 2025-10-30 22:19:49 | "The best way to keep one's word is not to give it." | Napoleon Bonaparte |
+| 2025-10-31 06:19:17 | "My Brat Pack buddies and I didn't exactly handle celebrity very well. Success at an early age is far more difficult to handle than failure." | Judd Nelson |
