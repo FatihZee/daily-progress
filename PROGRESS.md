@@ -830,3 +830,4 @@
 | 2025-10-29 14:23:30 | "There were times when I had great times with my brothers, pillow fights and things, but I was, used to always cry from loneliness." | Michael Jackson |
 | 2025-10-29 22:20:25 | "But behavior in the human being is sometimes a defense, a way of concealing motives and thoughts, as language can be a way of hiding your thoughts and preventing communication." | Abraham Maslow |
 | 2025-10-30 06:20:08 | "Artists working for other artists is all about knowing, learning, unlearning, initiating long-term artistic dialogues, making connections, creating covens, and getting temporary shelter from the storm." | Jerry Saltz |
+| 2025-10-30 14:22:17 | "Politics is the art of controlling your environment." | Hunter S. Thompson |
