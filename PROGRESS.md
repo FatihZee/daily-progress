@@ -836,3 +836,4 @@
 | 2025-10-31 14:22:22 | "The first requisite for the happiness of the people is the abolition of religion." | Karl Marx |
 | 2025-10-31 22:17:32 | "When you do take the home pregnancy test, it doesn't quite seem real. But when you see the baby and the heartbeat on the ultrasound, it's so incredible." | Danica McKellar |
 | 2025-11-01 06:19:15 | "Beyond reducing individual use, one of our top priorities must be to move from fossil fuels to energy that has fewer detrimental effects on water supplies and fewer environmental impacts overall." | David Suzuki |
+| 2025-11-01 14:19:46 | "Vision gets the dreams started. Dreaming employs your God-given imagination to reinforce the vision. Both are part of something I believe is absolutely necessary to building the life of a champion, a winner, a person of high character who is consistently at the top of whatever game he or she is in." | Emmitt Smith |
