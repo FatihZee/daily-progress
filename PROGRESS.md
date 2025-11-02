@@ -840,3 +840,4 @@
 | 2025-11-01 22:14:55 | "The Beethoven Experience provided the opportunity to solidify the relationship between the Orchestra and me, the Orchestra and me and the public, between all of us and the city of New York, because Beethoven after all is a really amazing point of reference." | Lorin Maazel |
 | 2025-11-02 06:19:10 | "Rome has not seen a modern building in more than half a century. It is a city frozen in time." | Richard Meier |
 | 2025-11-02 14:20:55 | "The most important lesson that I have learned is to trust God in every circumstance. Lots of times we go through different trials and following God's plan seems like it doesn't make any sense at all. God is always in control and he will never leave us." | Allyson Felix |
+| 2025-11-02 22:26:09 | "The terrifying and edible beauty of Art Nouveau architecture." | Salvador Dali |
