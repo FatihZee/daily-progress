@@ -842,3 +842,4 @@
 | 2025-11-02 14:20:55 | "The most important lesson that I have learned is to trust God in every circumstance. Lots of times we go through different trials and following God's plan seems like it doesn't make any sense at all. God is always in control and he will never leave us." | Allyson Felix |
 | 2025-11-02 22:26:09 | "The terrifying and edible beauty of Art Nouveau architecture." | Salvador Dali |
 | 2025-11-03 06:18:45 | "Using these unnamed sources, if done properly, carefully and fairly, provides more accountability in government." | Bob Woodward |
+| 2025-11-03 14:23:51 | "Money is our madness, our vast collective madness." | David Herbert Lawrence |
