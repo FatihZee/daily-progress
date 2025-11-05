@@ -849,3 +849,4 @@
 | 2025-11-04 22:20:13 | "I know this president. And I can tell you that he cares deeply about the next generation of young women in this country - his daughters, and everyone's daughters. President Obama had the courage to stand with Sandra Fluke. Without hesitation, he defended her right to tell her story." | Nancy Keenan |
 | 2025-11-05 06:19:50 | "Art has to move you and design does not, unless it's a good design for a bus." | David Hockney |
 | 2025-11-05 14:23:33 | "I've always wanted to do a family movie." | Adam Sandler |
+| 2025-11-05 22:18:35 | "I deal with my sons like young men. If they have a problem with something, they come to me. I am the type of dad that will drop everything I am doing for them, and always tell them to talk to me about it." | Tracy Morgan |
