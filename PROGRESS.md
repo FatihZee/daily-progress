@@ -851,3 +851,4 @@
 | 2025-11-05 14:23:33 | "I've always wanted to do a family movie." | Adam Sandler |
 | 2025-11-05 22:18:35 | "I deal with my sons like young men. If they have a problem with something, they come to me. I am the type of dad that will drop everything I am doing for them, and always tell them to talk to me about it." | Tracy Morgan |
 | 2025-11-06 06:20:14 | "One whose knowledge is confined to books and whose wealth is in the possession of others, can use neither his knowledge nor wealth when the need for them arises." | Chanakya |
+| 2025-11-06 14:23:16 | "My daily schedule is quite hectic, but I have to put my health first in order to be the best mom and wife I can be." | Ellen Pompeo |
