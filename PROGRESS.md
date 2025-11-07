@@ -856,3 +856,4 @@
 | 2025-11-07 06:19:38 | "I believe that President Clinton considered the legal merits of the arguments for the pardon as he understood them, and he rendered his judgment, wise or unwise, on the merits." | John Podesta |
 | 2025-11-07 14:22:46 | "Democracy... is a charming form of government, full of variety and disorder and dispensing a sort of equality to equals and unequals alike." | Plato |
 | 2025-11-07 22:18:37 | "Daddy was real gentle with kids. That's why I expected so much out of marriage, figuring that all men should be steady and pleasant." | Loretta Lynn |
+| 2025-11-08 06:19:02 | "Waste your money and you're only out of money, but waste your time and you've lost a part of your life." | Michael LeBoeuf |
