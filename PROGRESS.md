@@ -854,3 +854,4 @@
 | 2025-11-06 14:23:16 | "My daily schedule is quite hectic, but I have to put my health first in order to be the best mom and wife I can be." | Ellen Pompeo |
 | 2025-11-06 22:20:10 | "As a brother and sister, our tastes were pretty different growing up. He liked a lot of early hip hop. My dad didn't understand it and would try to talk him out of it." | Taryn Manning |
 | 2025-11-07 06:19:38 | "I believe that President Clinton considered the legal merits of the arguments for the pardon as he understood them, and he rendered his judgment, wise or unwise, on the merits." | John Podesta |
+| 2025-11-07 14:22:46 | "Democracy... is a charming form of government, full of variety and disorder and dispensing a sort of equality to equals and unequals alike." | Plato |
