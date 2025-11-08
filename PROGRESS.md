@@ -857,3 +857,4 @@
 | 2025-11-07 14:22:46 | "Democracy... is a charming form of government, full of variety and disorder and dispensing a sort of equality to equals and unequals alike." | Plato |
 | 2025-11-07 22:18:37 | "Daddy was real gentle with kids. That's why I expected so much out of marriage, figuring that all men should be steady and pleasant." | Loretta Lynn |
 | 2025-11-08 06:19:02 | "Waste your money and you're only out of money, but waste your time and you've lost a part of your life." | Michael LeBoeuf |
+| 2025-11-08 14:20:24 | "Strong, generous, and confident, she has nobly served mankind. Beware how you trifle with your marvellous inheritance, this great land of ordered liberty, for if we stumble and fall freedom and civilization everywhere will go down in ruin." | Henry Cabot Lodge |
