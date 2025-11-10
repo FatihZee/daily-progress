@@ -864,3 +864,4 @@
 | 2025-11-09 22:15:25 | "You know, my life's changed now. I'm starting to experience what people are really supposed to do. You supposed to be married. You're supposed to have a family, kids, treat your wife right." | Mike Epps |
 | 2025-11-10 06:19:08 | "Just as the soul fills the body, so God fills the world. Just as the soul bears the body, so God endures the world. Just as the soul sees but is not seen, so God sees but is not seen. Just as the soul feeds the body, so God gives food to the world." | Marcus Tullius Cicero |
 | 2025-11-10 14:23:35 | "I thought I was gonna be an attorney, so I went to Dartmouth and I was a government major and I minored in environmental policy, and I didn't do anything academically around the arts." | Aisha Tyler |
+| 2025-11-10 22:20:35 | "Spend a lot of time talking to customers face to face. You'd be amazed how many companies don't listen to their customers." | Ross Perot |
