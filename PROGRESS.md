@@ -866,3 +866,4 @@
 | 2025-11-10 14:23:35 | "I thought I was gonna be an attorney, so I went to Dartmouth and I was a government major and I minored in environmental policy, and I didn't do anything academically around the arts." | Aisha Tyler |
 | 2025-11-10 22:20:35 | "Spend a lot of time talking to customers face to face. You'd be amazed how many companies don't listen to their customers." | Ross Perot |
 | 2025-11-11 06:20:46 | "Handmade presents are scary because they reveal that you have too much free time." | Doug Coupland |
+| 2025-11-11 14:24:21 | "If food is poetry, is not poetry also food?" | Joyce Carol Oates |
