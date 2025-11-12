@@ -865,3 +865,4 @@
 2025-11-11 14:24:21 - "If food is poetry, is not poetry also food?" - Joyce Carol Oates
 2025-11-11 22:19:29 - "In business or in life, don't follow the wagon tracks too closely." - H. Jackson Brown, Jr.
 2025-11-12 06:19:44 - "The infinitely little have a pride infinitely great." - Voltaire
+2025-11-12 14:23:52 - "In the free/libre software movement, we develop software that respects users' freedom, so we and you can escape from software that doesn't." - Richard Stallman
