@@ -872,3 +872,4 @@
 | 2025-11-12 14:23:52 | "In the free/libre software movement, we develop software that respects users' freedom, so we and you can escape from software that doesn't." | Richard Stallman |
 | 2025-11-12 22:20:37 | "Don't gamble take all your savings and buy some good stock and hold it till it goes up, then sell it. If it don't go up, don't buy it." | Will Rogers |
 | 2025-11-13 06:21:06 | "I love dogs. They live in the moment and don't care about anything except affection and food. They're loyal and happy. Humans are just too damn complicated." | David Duchovny |
+| 2025-11-13 14:23:48 | "Works of art, in my opinion, are the only objects in the material universe to possess internal order, and that is why, though I don't believe that only art matters, I do believe in Art for Art's sake." | Forster, E.M. |
