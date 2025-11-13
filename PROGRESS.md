@@ -874,3 +874,4 @@
 | 2025-11-13 06:21:06 | "I love dogs. They live in the moment and don't care about anything except affection and food. They're loyal and happy. Humans are just too damn complicated." | David Duchovny |
 | 2025-11-13 14:23:48 | "Works of art, in my opinion, are the only objects in the material universe to possess internal order, and that is why, though I don't believe that only art matters, I do believe in Art for Art's sake." | Forster, E.M. |
 | 2025-11-13 22:21:04 | "Why are people unemployed? Because there is no work. Why is there no work? Because people are not buying products and services. Why are people not buying products and services? Because they have no money. Why do people have no money? Because they are unemployed." | Craig Bruce |
+| 2025-11-14 06:21:02 | "Love and fear. Everything the father of a family says must inspire one or the other." | Joseph Joubert |
