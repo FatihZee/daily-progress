@@ -880,3 +880,4 @@
 | 2025-11-15 06:19:56 | "Before marriage, a girl has to make love to a man to hold him. After marriage, she has to hold him to make love to him." | Marilyn Monroe |
 | 2025-11-15 14:20:30 | "In the original draft I was 27 and Peter was 55 in the script. That's not the same as a guy in his 40s and a dad in the end of his 70s. It's a different point in both our lives." | Paul Reiser |
 | 2025-11-15 22:16:29 | "My family comes first. Maybe that's what makes me different from other guys." | Bobby Darin |
+| 2025-11-16 06:19:15 | "Do not fear death so much but rather the inadequate life." | Bertolt Brecht |
