@@ -891,3 +891,4 @@
 | 2025-11-18 22:20:43 | "We need uniform protection of traditional marriage. You can't have different definitions on something as fundamental as marriage. The Marriage Protection Amendment is the only solution to this problem." | Ernest Istook |
 | 2025-11-19 06:20:07 | "I've done a lot of partying in my time because I didn't want to go home and I didn't know what to do." | Natalie Imbruglia |
 | 2025-11-19 14:23:52 | "Every man feels instinctively that all the beautiful sentiments in the world weigh less than a single lovely action. " | Lowell, James Russell |
+| 2025-11-19 22:20:01 | "I was a mixture of being incredibly old for my age and incredibly backwards. I was born quite old, but then I stopped growing. I lived with my mum and dad till I was 30." | Helena Bonham Carter |
