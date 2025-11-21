@@ -896,3 +896,4 @@
 | 2025-11-20 14:24:05 | "Leadership that exploits and sacrifices young people on the altar of its goals is nothing more than raw, demonic power. Genuine leadership is found in ceaseless efforts to foster young people, to pave the way forward for them." | Daisaku Ikeda |
 | 2025-11-20 22:19:39 | "Events at home, at work, in the street - these are the bases for a story." | Naguib Mahfouz |
 | 2025-11-21 06:20:26 | "Bagel in the morning is the ultimate breakfast for me they're just good." | Lee DeWyze |
+| 2025-11-21 14:24:26 | "In the '80s, I was putting out an album virtually every year, I think mostly based on fear - that if I didn't, people would soon forget about me." | Al Yankovic |
