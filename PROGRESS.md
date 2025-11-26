@@ -911,3 +911,4 @@
 | 2025-11-25 14:24:24 | "From the world wars of Europe to the jungles of the Far East, from the deserts of the Middle East to the African continent, and even here in our own hemisphere, our veterans have made the world a better place and America the great country we are today." | John Hoeven |
 | 2025-11-25 22:20:42 | "Smallness in a great man seems smaller by its disproportion with all the rest." | Victor Hugo |
 | 2025-11-26 06:20:31 | "Knowledge is proud that it knows so much wisdom is humble that it knows no more." | William Cowper |
+| 2025-11-26 14:23:38 | "Tell him he can have my title, but I want it back in the morning." | Jack Dempsey |
