@@ -914,3 +914,4 @@
 | 2025-11-26 14:23:38 | "Tell him he can have my title, but I want it back in the morning." | Jack Dempsey |
 | 2025-11-26 22:17:49 | "As I speak to you today, government censors somewhere are working furiously to erase my words from the records of history. But history itself has already condemned these tactics." | Hillary Clinton |
 | 2025-11-27 06:20:32 | "Whenever I'm having a bad day and have an attitude, I stay home. I keep it at home." | Michael Clarke Duncan |
+| 2025-11-27 14:25:35 | "They seem much rarer now, those auteur films that come out of a director's imagination and are elliptical and hermetic. All those films that got me into independent cinema when I was watching it seem thin on the ground." | Toby Jones |
