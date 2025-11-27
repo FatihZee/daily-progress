@@ -915,3 +915,4 @@
 | 2025-11-26 22:17:49 | "As I speak to you today, government censors somewhere are working furiously to erase my words from the records of history. But history itself has already condemned these tactics." | Hillary Clinton |
 | 2025-11-27 06:20:32 | "Whenever I'm having a bad day and have an attitude, I stay home. I keep it at home." | Michael Clarke Duncan |
 | 2025-11-27 14:25:35 | "They seem much rarer now, those auteur films that come out of a director's imagination and are elliptical and hermetic. All those films that got me into independent cinema when I was watching it seem thin on the ground." | Toby Jones |
+| 2025-11-27 22:19:04 | "You often feel that your prayers scarcely reach the ceiling but, oh, get into this humble spirit by considering how good the Lord is, and how evil you all are, and then prayer will mount on wings of faith to heaven." | Charles Simeon |
