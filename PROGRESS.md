@@ -926,3 +926,4 @@
 | 2025-11-30 22:16:43 | "I deal with postpartum feelings by reaching out to mom friends. I became very close with some of the women in my prenatal yoga class." | Alyssa Milano |
 | 2025-12-01 06:20:34 | "Europe is dying. That is one of the unsayable truths of our time. We are undergoing the moral equivalent of climate change and no one is talking about it." | Jonathan Sacks |
 | 2025-12-01 14:27:21 | "I offer neither pay, nor quarters, nor food I offer only hunger, thirst, forced marches, battles and death. Let him who loves his country with his heart, and not merely with his lips, follow me." | Giuseppe Garibaldi |
+| 2025-12-01 22:20:18 | "I definitely feel more complete than before. There's a void you have when you don't feel you've found the other part of who you are, so I'm in a different place now and that's nice to experience." | Mariah Carey |
