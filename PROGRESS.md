@@ -928,3 +928,4 @@
 | 2025-12-01 14:27:21 | "I offer neither pay, nor quarters, nor food I offer only hunger, thirst, forced marches, battles and death. Let him who loves his country with his heart, and not merely with his lips, follow me." | Giuseppe Garibaldi |
 | 2025-12-01 22:20:18 | "I definitely feel more complete than before. There's a void you have when you don't feel you've found the other part of who you are, so I'm in a different place now and that's nice to experience." | Mariah Carey |
 | 2025-12-02 06:21:38 | "Patience, that blending of moral courage with physical timidity." | Thomas Hardy |
+| 2025-12-02 14:26:31 | "I don't believe that anybody has come to a conclusion on why something is funny. It's funny because it's ridiculous and it's ridiculous for different reasons at different times." | Jackie Mason |
