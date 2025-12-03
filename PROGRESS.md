@@ -933,3 +933,4 @@
 | 2025-12-03 06:20:44 | "Don't let schooling interfere with your education." | Mark Twain |
 | 2025-12-03 14:26:25 | "Get up tomorrow early in the morning, and earlier than you did today, and do the best that you can. Always stay near me, for tomorrow I will have much to do and more than I ever had, and tomorrow blood will leave my body above the breast." | Joan of Arc |
 | 2025-12-03 22:21:13 | "My beloved Mom and Pop always rated tops with each other, and that's the way it will always be." | Ethel Merman |
+| 2025-12-04 06:19:37 | "Success is simply a matter of luck. Ask any failure." | Earl Wilson |
