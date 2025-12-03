@@ -932,3 +932,4 @@
 | 2025-12-02 22:21:12 | "Having come to live in this age is as though one were to have entered another country. Learn its language or risk being left out." | Theodore Bikel |
 | 2025-12-03 06:20:44 | "Don't let schooling interfere with your education." | Mark Twain |
 | 2025-12-03 14:26:25 | "Get up tomorrow early in the morning, and earlier than you did today, and do the best that you can. Always stay near me, for tomorrow I will have much to do and more than I ever had, and tomorrow blood will leave my body above the breast." | Joan of Arc |
+| 2025-12-03 22:21:13 | "My beloved Mom and Pop always rated tops with each other, and that's the way it will always be." | Ethel Merman |
