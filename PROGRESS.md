@@ -948,3 +948,4 @@
 | 2025-12-08 06:19:51 | "It's like kids playing house: 'You play the father, I'll play the mother.' You know, you dress up, you play, they pay, you go home. It's a game - acting's a game." | Robert Duvall |
 | 2025-12-08 14:28:15 | "I've often said that the most important thing you can give your children is wings. Because, you're not gonna always be able to bring food to the nest. You're... sometimes... they're gonna have to be able to fly by themselves." | Elizabeth Edwards |
 | 2025-12-08 22:21:26 | "One great object of the Constitution was to restrain majorities from oppressing minorities or encroaching upon their just rights." | James K. Polk |
+| 2025-12-09 06:22:08 | "People's view of cancer will change when they have their own relationship with cancer, which everyone will, at some point." | Laura Linney |
