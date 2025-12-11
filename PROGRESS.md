@@ -956,3 +956,4 @@
 | 2025-12-10 22:23:11 | "Good books, like good friends, are few and chosen the more select, the more enjoyable." | Louisa May Alcott |
 | 2025-12-11 06:20:14 | "Where is the Life we have lost in living? Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?" | T. S. Eliot |
 | 2025-12-11 14:28:53 | "When I was going for my graduate degree, I decided I was going to make a feature film as my thesis. That's what I was famous for-that I had my thesis film be a feature film, which was 'You're a Big Boy Now.'" | Francis Ford Coppola |
+| 2025-12-11 22:22:49 | "Failure is a great teacher, and I think when you make mistakes and you recover from them and you treat them as valuable learning experiences, then you've got something to share." | Steve Harvey |
