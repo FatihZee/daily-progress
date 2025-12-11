@@ -955,3 +955,4 @@
 | 2025-12-10 14:27:32 | "I would put our legislative and foreign policy accomplishments in our first two years against any president - with the possible exceptions of Johnson, FDR, and Lincoln - just in terms of what we've gotten done in modern history. But, you know, but when it comes to the economy, we've got a lot more work to do. And we're gonna keep on at it." | Barack Obama |
 | 2025-12-10 22:23:11 | "Good books, like good friends, are few and chosen the more select, the more enjoyable." | Louisa May Alcott |
 | 2025-12-11 06:20:14 | "Where is the Life we have lost in living? Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?" | T. S. Eliot |
+| 2025-12-11 14:28:53 | "When I was going for my graduate degree, I decided I was going to make a feature film as my thesis. That's what I was famous for-that I had my thesis film be a feature film, which was 'You're a Big Boy Now.'" | Francis Ford Coppola |
