@@ -958,3 +958,4 @@
 | 2025-12-11 14:28:53 | "When I was going for my graduate degree, I decided I was going to make a feature film as my thesis. That's what I was famous for-that I had my thesis film be a feature film, which was 'You're a Big Boy Now.'" | Francis Ford Coppola |
 | 2025-12-11 22:22:49 | "Failure is a great teacher, and I think when you make mistakes and you recover from them and you treat them as valuable learning experiences, then you've got something to share." | Steve Harvey |
 | 2025-12-12 06:22:27 | "People are surprised at how down-to-earth I am. I like to stay home on Friday nights and listen to 'The Art of Happiness' by the Dalai Lama." | Carmen Electra |
+| 2025-12-12 14:27:07 | "You follow any family around, you're going to see elation, you're going to see disharmony." | Joan Jett |
