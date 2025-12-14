@@ -964,3 +964,4 @@
 | 2025-12-13 14:25:40 | "Tennis was always sort of a - a learning. It was a vehicle for me to discover a lot about myself. And the things that I sort of discovered at times I not only didn't want to see it for myself but I certainly didn't want millions of people to see it." | Andre Agassi |
 | 2025-12-13 22:17:10 | "Work ethic has always been stressed in my family. My dad is going to be 80 years old and he still works part time. My mom just retired a couple years ago and she's in her mid- to late 70s." | Jamie Moyer |
 | 2025-12-14 06:20:47 | "I don't really think of things in terms of legacy or where I stand in the history of Nintendo or anything like that." | Shigeru Miyamoto |
+| 2025-12-14 14:23:19 | "The knowledge that we have about what it is to be human that we have as a child is something we necessarily must lose." | Dennis Potter |
