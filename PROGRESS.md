@@ -968,3 +968,4 @@
 | 2025-12-14 22:17:13 | "Being in America isn't old-hat - it's where we're from - but I get excited to be in other parts of the world like Athens and Croatia, which were quite cool. I'm a sightseer. I go see the sights and museums. I'm into that kind of thing." | Richie Sambora |
 | 2025-12-15 06:20:46 | "The best time I ever had with Joan Crawford was when I pushed her down the stairs in Whatever Happened to Baby Jane?" | Bette Davis |
 | 2025-12-15 14:29:18 | "I saw many people who had advanced heart disease and I was so frustrated because I knew if they just knew how to do the right thing, simple lifestyle and diet steps, that the entire trajectory of their life and health would have been different." | Mehmet Oz |
+| 2025-12-15 22:23:16 | "We forget that what matters begins with the imagination." | Terry Brooks |
