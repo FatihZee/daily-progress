@@ -970,3 +970,4 @@
 | 2025-12-15 14:29:18 | "I saw many people who had advanced heart disease and I was so frustrated because I knew if they just knew how to do the right thing, simple lifestyle and diet steps, that the entire trajectory of their life and health would have been different." | Mehmet Oz |
 | 2025-12-15 22:23:16 | "We forget that what matters begins with the imagination." | Terry Brooks |
 | 2025-12-16 06:22:51 | "If we bestow but a very little attention to the economy of the animal creation, we shall find manifest examples of premeditation, perseverance, resolution, and consumate artifice, in order to effect their purpose." | William Bartram |
+| 2025-12-16 14:27:47 | "The steady expansion of welfare programs can be taken as a measure of the steady disintegration of the Negro family structure over the past generation in the United States." | Daniel Patrick Moynihan |
