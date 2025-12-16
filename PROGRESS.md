@@ -971,3 +971,4 @@
 | 2025-12-15 22:23:16 | "We forget that what matters begins with the imagination." | Terry Brooks |
 | 2025-12-16 06:22:51 | "If we bestow but a very little attention to the economy of the animal creation, we shall find manifest examples of premeditation, perseverance, resolution, and consumate artifice, in order to effect their purpose." | William Bartram |
 | 2025-12-16 14:27:47 | "The steady expansion of welfare programs can be taken as a measure of the steady disintegration of the Negro family structure over the past generation in the United States." | Daniel Patrick Moynihan |
+| 2025-12-16 22:22:49 | "Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible." | Hannah Arendt |
