@@ -976,3 +976,4 @@
 | 2025-12-17 14:27:04 | "Maybe we can show government how to operate better as a result of better architecture. Eventually, I think Chicago will be the most beautiful great city left in the world." | Frank Lloyd Wright |
 | 2025-12-17 22:21:48 | "Let us not be satisfied with just giving money. Money is not enough, money can be got, but they need your hearts to love them. So, spread your love everywhere you go." | Mother Teresa |
 | 2025-12-18 06:22:25 | "Sure, I have friends, plenty of friends, and they all come around wantin' to borrow money. I've always been generous with my friends and family, with money, but selfish with the important stuff like love." | Richard Pryor |
+| 2025-12-18 14:26:55 | "Men's ideas are the most direct emanations of their material state." | Karl Marx |
