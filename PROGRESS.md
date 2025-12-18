@@ -978,3 +978,4 @@
 | 2025-12-18 06:22:25 | "Sure, I have friends, plenty of friends, and they all come around wantin' to borrow money. I've always been generous with my friends and family, with money, but selfish with the important stuff like love." | Richard Pryor |
 | 2025-12-18 14:26:55 | "Men's ideas are the most direct emanations of their material state." | Karl Marx |
 | 2025-12-18 22:21:08 | "Hope is the pillar that holds up the world. Hope is the dream of a waking man." | Pliny the Elder |
+| 2025-12-19 06:22:33 | "006 was such an interesting character and the film really explored his friendship with Bond and how it all went wrong, so it was a very personal journey for both characters." | Sean Bean |
