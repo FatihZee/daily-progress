@@ -980,3 +980,4 @@
 | 2025-12-18 22:21:08 | "Hope is the pillar that holds up the world. Hope is the dream of a waking man." | Pliny the Elder |
 | 2025-12-19 06:22:33 | "006 was such an interesting character and the film really explored his friendship with Bond and how it all went wrong, so it was a very personal journey for both characters." | Sean Bean |
 | 2025-12-19 14:26:16 | "Every time I copy something, I can draw it for the rest of my life. But research is so painful - I mean just opening up a magazine looking for a picture of a car or looking out the window looking for a car is just hard!" | Jaime Hernandez |
+| 2025-12-19 22:20:42 | "The greatest enemy to human souls is the self-righteous spirit which makes men look to themselves for salvation." | Charles Spurgeon |
