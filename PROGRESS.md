@@ -987,3 +987,4 @@
 | 2025-12-21 06:20:46 | "It is time to return to core values, time to get back to basics , to self-discipline and respect for the law, to consideration for the others, to accepting responsibility for yourself and your family - and not shuffling it off on other people and the state." | John Major |
 | 2025-12-21 14:23:29 | "Life should be great rather than long." | B. R. Ambedkar |
 | 2025-12-21 22:17:54 | "When there is state there can be no freedom, but when there is freedom there will be no state." | Vladimir Lenin |
+| 2025-12-22 06:21:02 | "And what is a stage dad, or a stage mom? It's someone who's protective. That's all." | Nigel Lythgoe |
