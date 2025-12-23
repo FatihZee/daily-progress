@@ -991,3 +991,4 @@
 | 2025-12-22 14:28:58 | "It doesn't much signify whom one marries, for one is sure to find next morning that it was someone else." | Samuel Rogers |
 | 2025-12-22 22:20:39 | "The legal system in Afghanistan is very immature and porous." | Lindsey Graham |
 | 2025-12-23 06:22:07 | "In the end, the humanities can only be defended by stressing how indispensable they are and this means insisting on their vital role in the whole business of academic learning, rather than protesting that, like some poor relation, they don't cost much to be housed." | Terry Eagleton |
+| 2025-12-23 14:28:17 | "If you don't like my movies, don't watch them." | Dario Argento |
