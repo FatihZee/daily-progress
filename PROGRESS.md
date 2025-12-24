@@ -996,3 +996,4 @@
 | 2025-12-24 06:21:30 | "It is with an old love as it is with old age a man lives to all the miseries, but is dead to all the pleasures." | Francois de La Rochefoucauld |
 | 2025-12-24 14:27:54 | "A great artist is a great man in a great child." | Victor Hugo |
 | 2025-12-24 22:20:04 | "I do not believe that defending traditional marriage between one man and one woman excludes anybody or usurps anybody's civil rights and denies anybody their civil rights." | Alan Autry |
+| 2025-12-25 06:21:59 | "When his life was ruined, his family killed, his farm destroyed, Job knelt down on the ground and yelled up to the heavens, 'Why god? Why me?' and the thundering voice of God answered, 'There's just something about you that pisses me off.'" | Stephen King |
