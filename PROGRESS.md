@@ -1001,3 +1001,4 @@
 | 2025-12-25 22:19:21 | "I have great hopes that we shall love each other all our lives as much as if we had never married at all. " | Byron, Lord |
 | 2025-12-26 06:22:19 | "Fortunately, somewhere between chance and mystery lies imagination, the only thing that protects our freedom, despite the fact that people keep trying to reduce it or kill it off altogether." | Luis Bunuel |
 | 2025-12-26 14:26:09 | "I got interested in computers and how they could be enslaved to the megalomaniac impulses of a teenager." | Eugene Jarvis |
+| 2025-12-26 22:19:47 | "Those who seek happiness miss it, and those who discuss it, lack it." | Holbrook Jackson |
