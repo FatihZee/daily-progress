@@ -1002,3 +1002,4 @@
 | 2025-12-26 06:22:19 | "Fortunately, somewhere between chance and mystery lies imagination, the only thing that protects our freedom, despite the fact that people keep trying to reduce it or kill it off altogether." | Luis Bunuel |
 | 2025-12-26 14:26:09 | "I got interested in computers and how they could be enslaved to the megalomaniac impulses of a teenager." | Eugene Jarvis |
 | 2025-12-26 22:19:47 | "Those who seek happiness miss it, and those who discuss it, lack it." | Holbrook Jackson |
+| 2025-12-27 06:22:17 | "I'm really happy here. I think anyone who knows me well, and the fans too I hope, they know that I love the area, and the bond that I've had with the fans has been fantastic." | Frank Lampard |
