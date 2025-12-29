@@ -1010,3 +1010,4 @@
 | 2025-12-28 22:18:37 | "Freedom granted only when it is known beforehand that its effects will be beneficial is not freedom." | Friedrich August von Hayek |
 | 2025-12-29 06:22:19 | "We always kept believing in ourselves and our team and the car." | Sebastian Vettel |
 | 2025-12-29 14:30:45 | "We are the only real aristocracy in the world: the aristocracy of money." | George Bernard Shaw |
+| 2025-12-29 22:21:11 | "I grew up in an abusive home and was told on a daily basis by my father that I would never amount to anything and that I looked like a boy." | Janice Dickinson |
