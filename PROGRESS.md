@@ -1012,3 +1012,4 @@
 | 2025-12-29 14:30:45 | "We are the only real aristocracy in the world: the aristocracy of money." | George Bernard Shaw |
 | 2025-12-29 22:21:11 | "I grew up in an abusive home and was told on a daily basis by my father that I would never amount to anything and that I looked like a boy." | Janice Dickinson |
 | 2025-12-30 06:22:15 | "That writer does the most who gives his reader the most knowledge and takes from him the least time." | Charles Caleb Colton |
+| 2025-12-30 14:27:35 | "You have to be there not for the fame and glory and recognition and being a page in a history book, but you have to be there because you believe your talent and ability can be applied effectively to operation of the spacecraft." | Alan Shepard |
