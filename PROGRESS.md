@@ -1022,3 +1022,4 @@
 | 2026-01-01 22:19:55 | "The difference between Marilyn Monroe and the early Pamela Anderson is not that great. What's amazing is that the taste of American men and international tastes in terms of beauty have essentially stayed the same. Styles change, but our view of beauty stays the same." | Hugh Hefner |
 | 2026-01-02 06:22:35 | "I have no requirements for a style of architecture." | Michael Graves |
 | 2026-01-02 14:28:51 | "I like to use 'I Can't Believe it's Not Butter' on my toast in the morning, because sometimes when I eat breakfast, I like to be incredulous. How was breakfast? Unbelievable." | Demetri Martin |
+| 2026-01-02 22:20:23 | "Suicide is man's way of telling God, 'You can't fire me - I quit.'" | Bill Maher |
