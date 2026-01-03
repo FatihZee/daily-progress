@@ -1026,3 +1026,4 @@
 | 2026-01-03 06:21:38 | "I've developed a huge regard for Toyota for its environmental awareness, for its immense commitment to research and development in this field, and for its leadership in developing hybrids which others are now following." | Maurice Strong |
 | 2026-01-03 14:23:44 | "I have the same attitude with work - I like to go to work, I like to work really hard I, like to give everything my all, I like to try things that are new, you know." | Rosie Huntington-Whiteley |
 | 2026-01-03 22:18:17 | "The art which we may call generally art of the wayside, as opposed to that which is the business of men's lives, is, in the best sense of the word, Grotesque." | John Ruskin |
+| 2026-01-04 06:22:08 | "The general who advances without coveting fame and retreats without fearing disgrace, whose only thought is to protect his country and do good service for his sovereign, is the jewel of the kingdom." | Sun Tzu |
