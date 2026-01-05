@@ -1030,3 +1030,4 @@
 | 2026-01-04 14:26:02 | "Information and inspiration are everywhere... history, art, architecture, everything an illustrator needs. Europe is, after all, the land that has generated most of the enduring myths and legends of Western culture." | John Howe |
 | 2026-01-04 22:17:56 | "The practice of forgiveness is our most important contribution to the healing of the world." | Marianne Williamson |
 | 2026-01-05 06:22:17 | "When you focus on being a blessing, God makes sure that you are always blessed in abundance." | Joel Osteen |
+| 2026-01-05 14:33:19 | "Imagination is the one weapon in the war against reality. " | de Gaultier, Jules |
