@@ -1032,3 +1032,4 @@
 | 2026-01-05 06:22:17 | "When you focus on being a blessing, God makes sure that you are always blessed in abundance." | Joel Osteen |
 | 2026-01-05 14:33:19 | "Imagination is the one weapon in the war against reality. " | de Gaultier, Jules |
 | 2026-01-05 22:22:35 | "The reason most people don't express their individuality and actually deny it, is not fear of what prime ministers think of us or the head of the federal reserve, It's what their families and their friends down at the bar are going to think of them." | David Icke |
+| 2026-01-06 06:23:29 | "Everything seems fine until you're about 40. Then something is definitely beginning to go wrong. And you look in the mirror with your old habit of thinking, 'While I accept that everyone grows old and dies, it's a funny thing, but I'm an exception to that rule.'" | Martin Amis |
