@@ -1035,3 +1035,4 @@
 | 2026-01-06 06:23:29 | "Everything seems fine until you're about 40. Then something is definitely beginning to go wrong. And you look in the mirror with your old habit of thinking, 'While I accept that everyone grows old and dies, it's a funny thing, but I'm an exception to that rule.'" | Martin Amis |
 | 2026-01-06 14:30:52 | "To keep your marriage brimming, With love in the loving cup, Whenever you're wrong, admit it Whenever you're right, shut up." | Ogden Nash |
 | 2026-01-06 22:21:41 | "Why would I retire? Sit at home and watch TV? No thanks. I'd rather be out playing." | Paul McCartney |
+| 2026-01-07 06:23:55 | "When you step on the brakes your life is in your foot's hands." | George Carlin |
