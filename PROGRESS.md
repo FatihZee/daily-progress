@@ -1036,3 +1036,4 @@
 | 2026-01-06 14:30:52 | "To keep your marriage brimming, With love in the loving cup, Whenever you're wrong, admit it Whenever you're right, shut up." | Ogden Nash |
 | 2026-01-06 22:21:41 | "Why would I retire? Sit at home and watch TV? No thanks. I'd rather be out playing." | Paul McCartney |
 | 2026-01-07 06:23:55 | "When you step on the brakes your life is in your foot's hands." | George Carlin |
+| 2026-01-07 14:30:01 | "Any architectural project we do takes at least four or five years, so increasingly there is a discrepancy between the acceleration of culture and the continuing slowness of architecture." | Rem Koolhaas |
