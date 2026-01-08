@@ -1040,3 +1040,4 @@
 | 2026-01-07 22:23:56 | "I wanted to escape Small Town U.S.A. To dismiss the boundaries, to explore. My life experience came from watching movies, TV, and reading books and magazines. When your culture comes from watching TV everyday, you're bombarded with images of things that seem cool, places that seem interesting, people who have jobs and careers and opportunities." | Trent Reznor |
 | 2026-01-08 06:23:59 | "When I was younger I used to pick things just to face the fear." | Vincent D'Onofrio |
 | 2026-01-08 14:29:24 | "It is very easy to love alone." | Gertrude Stein |
+| 2026-01-08 22:24:32 | "When I'm bored or tired of being blonde, I'll throw on a wig. It's a lot less of a permanent way to change your look, and I have about 10 - all different colors, shapes, bobs, long hair, short, feathered." | Sara Blakely |
