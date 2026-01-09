@@ -1044,3 +1044,4 @@
 | 2026-01-09 06:20:47 | "The main facts in human life are five: birth, food, sleep, love and death." | E. M. Forster |
 | 2026-01-09 14:30:10 | "Perhaps more than any other, the food industry is very sensitive to consumer demand." | Michael Pollan |
 | 2026-01-09 22:22:27 | "The best government is that which teaches us to govern ourselves." | Johann Wolfgang von Goethe |
+| 2026-01-10 06:23:25 | "Does art have a future? Performance genres like opera, theater, music and dance are thriving all over the world, but the visual arts have been in slow decline for nearly 40 years. No major figure of profound influence has emerged in painting or sculpture since the waning of Pop Art and the birth of Minimalism in the early 1970s." | Camille Paglia |
