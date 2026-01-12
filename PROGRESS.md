@@ -1051,3 +1051,4 @@
 | 2026-01-11 14:25:34 | "If you want to be thought a liar, always tell the truth." | Logan P. Smith |
 | 2026-01-11 22:18:44 | "I'm a dad, and I no longer see a way for my kids to even inherit the money that I'm making, let alone go out there, have an idea, and create it in their own lifetime." | Glenn Beck |
 | 2026-01-12 06:22:10 | "My mother was passionate. She was stubborn, the dominant one in the family. She dominated my father." | Hugh Leonard |
+| 2026-01-12 14:32:16 | "It is in the admission of ignorance and the admission of uncertainty that there is a hope for the continuous motion of human beings in some direction that doesn't get confined, permanently blocked, as it has so many times before in various periods in the history of man." | Richard P. Feynman |
