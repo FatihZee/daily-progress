@@ -1058,3 +1058,4 @@
 | 2026-01-13 22:23:41 | "If fear is cultivated it will become stronger, if faith is cultivated it will achieve mastery." | John Paul Jones |
 | 2026-01-14 06:22:07 | "And I just think that we're at a point in our economic life here in our state - and - and, candidly, across the country, where increased taxes is just the wrong way to go. The people of our state are not convinced that state government, county government, local government has done all they can with the money we already give them, rather than the money that we have before." | Chris Christie |
 | 2026-01-14 14:30:32 | "Change is the end result of all true learning." | Leo Buscaglia |
+| 2026-01-14 22:24:29 | "A fellow oughtn't to let his family property go to pieces." | Anthony Trollope |
