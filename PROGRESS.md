@@ -1068,3 +1068,4 @@
 | 2026-01-17 06:23:12 | "Happiness is a ball after which we run wherever it rolls, and we push it with our feet when it stops." | Johann Wolfgang von Goethe |
 | 2026-01-17 14:23:47 | "The general who advances without coveting fame and retreats without fearing disgrace, whose only thought is to protect his country and do good service for his sovereign, is the jewel of the kingdom." | Sun Tzu |
 | 2026-01-17 22:18:18 | "Men of age object too much, consult too long, adventure too little, repent too soon, and seldom drive business home to the full period, but content themselves with a mediocrity of success." | Dale Carnegie |
+| 2026-01-18 06:21:54 | "For everything I do, I think about a 6-year-old girl and her mom that I saw at my concert last night. I think about what those two individuals would think if I were at a club last night. I never want to be arrested, and I never want to get a DUI, those are my moral values." | Taylor Swift |
