@@ -1067,3 +1067,4 @@
 | 2026-01-16 22:22:23 | "Well, I just said that Jesus and I were both Jewish and that neither of us ever had a job, we never had a home, we never married and we traveled around the countryside irritating people." | Kinky Friedman |
 | 2026-01-17 06:23:12 | "Happiness is a ball after which we run wherever it rolls, and we push it with our feet when it stops." | Johann Wolfgang von Goethe |
 | 2026-01-17 14:23:47 | "The general who advances without coveting fame and retreats without fearing disgrace, whose only thought is to protect his country and do good service for his sovereign, is the jewel of the kingdom." | Sun Tzu |
+| 2026-01-17 22:18:18 | "Men of age object too much, consult too long, adventure too little, repent too soon, and seldom drive business home to the full period, but content themselves with a mediocrity of success." | Dale Carnegie |
