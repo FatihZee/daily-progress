@@ -1071,3 +1071,4 @@
 | 2026-01-18 06:21:54 | "For everything I do, I think about a 6-year-old girl and her mom that I saw at my concert last night. I think about what those two individuals would think if I were at a club last night. I never want to be arrested, and I never want to get a DUI, those are my moral values." | Taylor Swift |
 | 2026-01-18 14:24:48 | "Every man judges his own happiness and satisfaction with life in terms of his possession or lack of possession of those things that he considers worthwhile and valuable." | Meir Kahane |
 | 2026-01-18 22:17:56 | "It's funny - I read that women look to chiseled-faced guys for one-night stands, and to round-faced guys for marriage. When I'm rounder in the face, I like to say, 'This is my long-term look.' Or 'This is my wife-and-kids look right here.'" | Garrett Hedlund |
+| 2026-01-19 06:22:32 | "As men get older, the toys get more expensive." | Marvin Davis |
