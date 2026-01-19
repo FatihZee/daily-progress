@@ -1073,3 +1073,4 @@
 | 2026-01-18 22:17:56 | "It's funny - I read that women look to chiseled-faced guys for one-night stands, and to round-faced guys for marriage. When I'm rounder in the face, I like to say, 'This is my long-term look.' Or 'This is my wife-and-kids look right here.'" | Garrett Hedlund |
 | 2026-01-19 06:22:32 | "As men get older, the toys get more expensive." | Marvin Davis |
 | 2026-01-19 14:33:58 | "So Indian policy has become institutionalized and the result has been that American people have become more dependent on government and that the American people have become more dependent on corporations." | Russell Means |
+| 2026-01-19 22:25:12 | "Courage is what preserves our liberty, safety, life, and our homes and parents, our country and children. Courage comprises all things." | Plautus |
