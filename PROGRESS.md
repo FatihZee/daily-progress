@@ -1078,3 +1078,4 @@
 | 2026-01-20 14:33:24 | "There are half a billion people that listen to music online and the vast majority are doing so illegally. But if we bring those people over to the legal side and Spotify, what is going to happen is we are going to double the music industry and that will lead to more artists creating great new music." | Daniel Ek |
 | 2026-01-20 22:29:09 | "I grew up in a family that was multifaceted, sexually oriented, and pretty much open to everything. And because I was working, my friends were all adults. I had a tough time going to different schools because people knew me from films and I was the fat child who got beaten up every day." | Drew Barrymore |
 | 2026-01-21 06:26:03 | "I remember things that happened sixty years ago, but if you ask me where I left my car keys five minutes ago, that's sometimes a problem." | Lou Thesz |
+| 2026-01-21 14:34:17 | "Knowledge is knowing that we cannot know." | Ralph Waldo Emerson |
