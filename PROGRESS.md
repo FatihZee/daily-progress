@@ -1082,3 +1082,4 @@
 | 2026-01-21 22:30:18 | "Dating is kind of hard. Like dinner or something like that. Like a forced awkward situation is very strange. Especially for me, for some reason." | Zac Efron |
 | 2026-01-22 06:29:06 | "I'm strongly for a patient Bill of Rights. Decisions ought to be made by doctors, not accountants." | Charles Schumer |
 | 2026-01-22 14:32:33 | "Wishing to be friends is quick work, but friendship is a slow ripening fruit." | Aristotle |
+| 2026-01-22 22:29:32 | "I mean, no one asks beauty secrets of me, or 'What size do you wear?' or 'Who's your couturier?' They ask me about really deep things and I love that." | Shirley MacLaine |
