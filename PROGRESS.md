@@ -1084,3 +1084,4 @@
 | 2026-01-22 14:32:33 | "Wishing to be friends is quick work, but friendship is a slow ripening fruit." | Aristotle |
 | 2026-01-22 22:29:32 | "I mean, no one asks beauty secrets of me, or 'What size do you wear?' or 'Who's your couturier?' They ask me about really deep things and I love that." | Shirley MacLaine |
 | 2026-01-23 06:25:06 | "The car has become the carapace, the protective and aggressive shell, of urban and suburban man." | Marshall McLuhan |
+| 2026-01-23 14:30:41 | "Pakistan needs to have decentralisation and a good local government system." | Imran Khan |
