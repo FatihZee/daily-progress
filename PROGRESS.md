@@ -1086,3 +1086,4 @@
 | 2026-01-23 06:25:06 | "The car has become the carapace, the protective and aggressive shell, of urban and suburban man." | Marshall McLuhan |
 | 2026-01-23 14:30:41 | "Pakistan needs to have decentralisation and a good local government system." | Imran Khan |
 | 2026-01-23 22:24:06 | "When I gave birth to my fourth child, I suffered from post partum hemorrhaging. I almost lost my life. I was lucky to be under the care of trained health care personnel. I started wondering then what was happening to women in rural villages." | Joyce Banda |
+| 2026-01-24 06:24:23 | "But to sustain a marriage for 50 years, you have to get real a little bit and find someone who is understanding and who you can grow with. My mom always says, 'Marry the man who loves you a millimeter more.'" | Ali Larter |
