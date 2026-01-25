@@ -1091,3 +1091,4 @@
 | 2026-01-24 22:19:20 | "In the state of Wisconsin it's mandated that teachers in the social sciences and hard sciences have to start giving environmental education by the first grade, through high school." | Gaylord Nelson |
 | 2026-01-25 06:22:42 | "You get moments all the time that kind of make you pinch yourself, some of them make you quite emotional. Winning a BRIT was a big moment because we were just so excited to be at the awards in the first place. Selling out Madison Square Garden was pretty amazing too. Then we woke to the news that our UK tour was sold out. It was crazy." | Harry Styles |
 | 2026-01-25 14:26:17 | "To reach something good it is very useful to have gone astray, and thus acquire experience." | Saint Teresa of Avila |
+| 2026-01-25 22:19:14 | "You know that family is going to be there for you no matter what. My dad gave me a freakin' kidney!" | Sarah Hyland |
