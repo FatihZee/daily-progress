@@ -1118,3 +1118,4 @@
 | 2026-02-02 22:36:23 | "Friendship is Love without his wings!" | Lord Byron |
 | 2026-02-03 06:31:34 | "If you go and talk to most people, they mean well but they don't have much of a breadth on education, of knowledge of understanding what the real issues are and therefore they listen to pundits on television who tell them what they are supposed to think and they keep repeating that until pretty soon they say, 'Oh, well that must be true.'" | Benjamin Carson |
 | 2026-02-03 14:46:19 | "Most men are very attached to the idea of being male, and usually experience a lot of fear and insecurity around the idea of being a man. Most women are very identified with their gender, and also experience a tremendous amount of fear and insecurity." | Andrew Cohen |
+| 2026-02-03 22:48:50 | "We learn from experience that men never learn anything from experience." | George Bernard Shaw |
