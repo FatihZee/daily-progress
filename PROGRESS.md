@@ -1120,3 +1120,4 @@
 | 2026-02-03 14:46:19 | "Most men are very attached to the idea of being male, and usually experience a lot of fear and insecurity around the idea of being a man. Most women are very identified with their gender, and also experience a tremendous amount of fear and insecurity." | Andrew Cohen |
 | 2026-02-03 22:48:50 | "We learn from experience that men never learn anything from experience." | George Bernard Shaw |
 | 2026-02-04 06:31:19 | "It lies in human nature that where you experience your first laughs, you also remember the age kindly." | Vaclav Havel |
+| 2026-02-04 14:48:16 | "You know it's going to hell when the best rapper out there is white and the best golfer is black." | Charles Barkley |
