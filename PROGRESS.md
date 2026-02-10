@@ -1139,3 +1139,4 @@
 | 2026-02-09 22:54:54 | "We can never, ever say it enough: every woman - especially every young woman-has to take charge of her health... and do what's right for her!" | Debbie Wasserman Schultz |
 | 2026-02-10 06:39:47 | "Bad news isn't wine. It doesn't improve with age." | Colin Powell |
 | 2026-02-10 15:00:22 | "Patrick Henry did not say, 'Give me absolutely safety or give me death.' America is supposed to be about freedom." | John Stossel |
+| 2026-02-10 23:05:17 | "Anything that isn't opposed by about 40 percent of humanity is either an evil business or so unimportant that it simply doesn't matter." | Russell Baker |
