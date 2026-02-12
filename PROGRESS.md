@@ -1146,3 +1146,4 @@
 | 2026-02-12 06:35:36 | "I remember my wife and I used to get on plane and see everybody else with their babies. They'd be putting strollers and car seats up above, and we'd think: Oh, please Lord, don't make us go through that." | Paul Reiser |
 | 2026-02-12 14:55:31 | "No one can arrive from being talented alone, work transforms talent into genius." | Anna Pavlova |
 | 2026-02-12 22:51:52 | "Never build your emotional life on the weaknesses of others." | George Santayana |
+| 2026-02-13 06:33:03 | "Making a movie requires 20 to 500 people to make and a lot of money and the stakes are a lot higher." | Alanis Morissette |
