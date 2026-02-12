@@ -1144,3 +1144,4 @@
 | 2026-02-11 14:56:59 | "I think most Americans understand that we went through a period in which American leadership was judged quite critically internationally." | Susan Rice |
 | 2026-02-11 22:59:56 | "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose." | Charles Eames |
 | 2026-02-12 06:35:36 | "I remember my wife and I used to get on plane and see everybody else with their babies. They'd be putting strollers and car seats up above, and we'd think: Oh, please Lord, don't make us go through that." | Paul Reiser |
+| 2026-02-12 14:55:31 | "No one can arrive from being talented alone, work transforms talent into genius." | Anna Pavlova |
