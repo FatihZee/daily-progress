@@ -1147,3 +1147,4 @@
 | 2026-02-12 14:55:31 | "No one can arrive from being talented alone, work transforms talent into genius." | Anna Pavlova |
 | 2026-02-12 22:51:52 | "Never build your emotional life on the weaknesses of others." | George Santayana |
 | 2026-02-13 06:33:03 | "Making a movie requires 20 to 500 people to make and a lot of money and the stakes are a lot higher." | Alanis Morissette |
+| 2026-02-13 14:52:36 | "The Islam of the 18th, 19th and first half of the 20th century was a poor thing. Nobody bothered about it. Islam was that funny sort of pure system of beliefs that depressed people in the Middle East held as their religion." | John Keegan |
