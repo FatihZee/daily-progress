@@ -1168,3 +1168,4 @@
 | 2026-02-19 14:52:09 | "A woman may very well form a friendship with a man, but for this to endure, it must be assisted by a little physical antipathy." | Friedrich Nietzsche |
 | 2026-02-19 22:46:46 | "Why does anybody want to be famous? You know what's important to me? Having lunch! Pasta! Seeing my friends! Is that so crazy?" | Sherry Stringfield |
 | 2026-02-20 06:33:24 | "To keep your marriage brimming, With love in the loving cup, Whenever you're wrong, admit it Whenever you're right, shut up." | Ogden Nash |
+| 2026-02-20 14:50:26 | "The greatest failure is that although we have created institutions, we have not created a civil society." | Paddy Ashdown |
