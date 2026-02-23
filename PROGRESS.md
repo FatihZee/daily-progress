@@ -1177,3 +1177,4 @@
 | 2026-02-22 14:38:45 | "I really do love Diana Ross I grew up listening to her records. I grew up in a little town in Mexico, so while we got the music, we never got the experience of watching her." | Salma Hayek |
 | 2026-02-22 22:23:24 | "I started cooking when I was about 10. I have memories like when I was 6 or 7 with my mom, and when I was 12 I started getting real serious about cooking." | Emeril Lagasse |
 | 2026-02-23 06:29:54 | "The problem is when that fun stuff becomes the habit. And I think that's what's happened in our culture. Fast food has become the everyday meal." | Michelle Obama |
+| 2026-02-23 14:57:37 | "I was getting to bed about 10 P.M. so wound up and not getting to sleep by 11, and because I was putting the prosthetics on for five hours, I had to be up at 3 in the morning." | Gerard Butler |
