@@ -1184,3 +1184,4 @@
 | 2026-02-24 22:56:44 | "So the Marine Corps really did teach me to conquer fear, and then to go for higher causes, higher purposes." | Robert Kiyosaki |
 | 2026-02-25 06:35:39 | "What is there that money will not do?" | Anthony Trollope |
 | 2026-02-25 14:55:18 | "The children have been a wonderful gift to me, and I'm thankful to have once again seen our world through their eyes. They restore my faith in the family's future." | Jackie Kennedy |
+| 2026-02-25 23:00:56 | "The person that made me want to make movies, and the reason I do films, is Bruce Lee. He was an incredible actor, and he had a lot of charisma. Handsome, action, you know, everything was there. I loved Bruce Lee." | LL Cool J |
