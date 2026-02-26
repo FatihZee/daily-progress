@@ -1187,3 +1187,4 @@
 | 2026-02-25 23:00:56 | "The person that made me want to make movies, and the reason I do films, is Bruce Lee. He was an incredible actor, and he had a lot of charisma. Handsome, action, you know, everything was there. I loved Bruce Lee." | LL Cool J |
 | 2026-02-26 06:30:23 | "Almost any film that you do is an opportunity to open you up and make you more aware of an area that you might not be thinking about. That's what is kind of cool, or one of the cool things about this profession." | Joan Allen |
 | 2026-02-26 14:53:20 | "Man becomes great exactly in the degree in which he works for the welfare of his fellow-men." | Mahatma Gandhi |
+| 2026-02-26 22:52:10 | "Not ignorance, but ignorance of ignorance, is the death of knowledge." | Alfred North Whitehead |
