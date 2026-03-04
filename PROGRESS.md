@@ -1204,3 +1204,4 @@
 | 2026-03-03 14:45:24 | "I talked to the players and tried to make them aware of what was good and bad, but I didn't try to run their lives." | John Wooden |
 | 2026-03-03 22:44:56 | "Fast sex, like fast food, is cheap, but it doesn't nourish the body - or the soul." | Suzanne Fields |
 | 2026-03-04 06:30:49 | "This is the artist, then, life's hungry man, the glutton of eternity, beauty's miser, glory's slave." | Tom Wolfe |
+| 2026-03-04 14:40:21 | "The myth of the liberal media empowers conservatives to control debate in the United States to the point where liberals cannot even hope for a fair shake anymore." | Eric Alterman |
