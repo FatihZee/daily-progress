@@ -1209,3 +1209,4 @@
 | 2026-03-05 06:33:39 | "That's the way I got along in life. I don't ever remember being particularly jealous of anybody, because I figured if I can't do it myself, I don't deserve to get it." | Clyde Tombaugh |
 | 2026-03-05 14:45:13 | "The greatest mistake you can make in life is continually fearing that you'll make one." | Elbert Hubbard |
 | 2026-03-05 22:49:15 | "I have great hopes that we shall love each other all our lives as much as if we had never married at all. " | Byron, Lord |
+| 2026-03-06 06:52:53 | "A Conservative is a fellow who is standing athwart history yelling 'Stop!'" | William F. Buckley, Jr. |
