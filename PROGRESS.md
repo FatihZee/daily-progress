@@ -1211,3 +1211,4 @@
 | 2026-03-05 22:49:15 | "I have great hopes that we shall love each other all our lives as much as if we had never married at all. " | Byron, Lord |
 | 2026-03-06 06:52:53 | "A Conservative is a fellow who is standing athwart history yelling 'Stop!'" | William F. Buckley, Jr. |
 | 2026-03-06 14:40:55 | "Most of the things worth doing in the world had been declared impossible before they were done." | Louis D. Brandeis |
+| 2026-03-06 22:35:41 | "How can you look at the Texas legislature and still believe in intelligent design?" | Kinky Friedman |
