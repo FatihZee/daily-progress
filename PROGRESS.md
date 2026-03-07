@@ -1214,3 +1214,4 @@
 | 2026-03-06 22:35:41 | "How can you look at the Texas legislature and still believe in intelligent design?" | Kinky Friedman |
 | 2026-03-07 06:30:37 | "When I graduated from high school, it was during the Depression and we had no money." | Ray Bradbury |
 | 2026-03-07 14:33:31 | "Like many of you, I've always been slightly obsessed with vampires, dating back to the prime-time series 'Dark Shadows,' which I followed avidly as a kid." | Bill Condon |
+| 2026-03-07 22:21:57 | "Have an earnestness for death and you will have life." | Abu Bakr |
