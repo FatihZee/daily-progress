@@ -1217,3 +1217,4 @@
 | 2026-03-07 22:21:57 | "Have an earnestness for death and you will have life." | Abu Bakr |
 | 2026-03-08 06:26:37 | "A man who has never gone to school may steal from a freight car but if he has a university education, he may steal the whole railroad." | Theodore Roosevelt |
 | 2026-03-08 14:34:25 | "This is what I wanted. They tell me that London is the best field in history. I wanted to be part of that. Because everyone will be there it will be a wonderful challenge for me. You can see the best runners, how they look, how they run. For me to beat the best is what counts." | Haile Gebrselassie |
+| 2026-03-08 22:22:27 | "In a sacred ground like marriage, you find yourself out of it at certain times for reasons unknown that can be destructive. There could be a demon that kind of comes out and overtakes you." | David Boreanaz |
