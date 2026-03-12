@@ -1228,3 +1228,4 @@
 | 2026-03-11 14:46:49 | "I've always believed that there are funny people everywhere, but they're just not comedians. In fact, some of my best comedic inspirations were not professional entertainers." | Steve Martin |
 | 2026-03-11 22:47:01 | "My notion of a wife at 40 is that a man should be able to change her, like a bank note, for two 20s." | Warren Beatty |
 | 2026-03-12 06:29:33 | "In the military, I learned that 'leadership' means raising your hand and volunteering for the tough, important assignments." | Tulsi Gabbard |
+| 2026-03-12 14:49:01 | "The dream was not to put one black family in the White House, the dream was to make everything equal in everybody's house." | Al Sharpton |
