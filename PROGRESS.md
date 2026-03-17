@@ -1243,3 +1243,4 @@
 | 2026-03-16 15:10:16 | "The most boring scenes are the scenes where a character is alone." | Chuck Palahniuk |
 | 2026-03-16 23:03:21 | "Some people call it global warming some people call it climate change. What is the difference?" | Frank Luntz |
 | 2026-03-17 06:34:45 | "I liked the name Frog Brigade because it lent itself to a lot of cool imagery with the whole frog thing." | Les Claypool |
+| 2026-03-17 14:56:11 | "I gave a funny speech at my wife's birthday party, and I'm thinking, 'Hey, I've still got it.'" | Larry David |
