@@ -1245,3 +1245,4 @@
 | 2026-03-17 06:34:45 | "I liked the name Frog Brigade because it lent itself to a lot of cool imagery with the whole frog thing." | Les Claypool |
 | 2026-03-17 14:56:11 | "I gave a funny speech at my wife's birthday party, and I'm thinking, 'Hey, I've still got it.'" | Larry David |
 | 2026-03-17 23:04:46 | "I feel like I'm working on an oil rig right now. I'm away from home a lot." | Hugh Laurie |
+| 2026-03-18 06:35:30 | "At first I could not believe what I was reading. I got up from my seat and walked away, talking to myself that I may have found my mom." | Reese Hoffa |
