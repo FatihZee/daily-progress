@@ -1247,3 +1247,4 @@
 | 2026-03-17 23:04:46 | "I feel like I'm working on an oil rig right now. I'm away from home a lot." | Hugh Laurie |
 | 2026-03-18 06:35:30 | "At first I could not believe what I was reading. I got up from my seat and walked away, talking to myself that I may have found my mom." | Reese Hoffa |
 | 2026-03-18 14:56:18 | "I'm into being a dad, that's where my focus is most of the time. I'm an actor that's my job, but it's not my life. I have a lot of other interests too." | Paul Walker |
+| 2026-03-18 23:06:42 | "The problem with leaderless uprisings taking over is that you don't always know what you get at the other end. If you are not careful you could replace a bad government with one much worse!" | Chinua Achebe |
