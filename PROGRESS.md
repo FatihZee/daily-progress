@@ -1256,3 +1256,4 @@
 | 2026-03-20 22:41:04 | "He is the best sailor who can steer within fewest points of the wind, and exact a motive power out of the greatest obstacles." | Walter Scott |
 | 2026-03-21 06:32:25 | "The token gay character is always so funny and so fantastic. That's happened a lot. Or they're often purely victims." | Ezra Miller |
 | 2026-03-21 14:36:25 | "Surely all art is the result of one's having been in danger, of having gone through an experience all the way to the end, where no one can go any further." | Rainer Maria Rilke |
+| 2026-03-21 22:24:26 | "Lots of people I know have bootlegged tapes of performances and if they play it I will be transported back sometimes with happiness, sometimes with horror." | Chris Bailey |
