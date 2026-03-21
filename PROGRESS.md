@@ -1255,3 +1255,4 @@
 | 2026-03-20 14:49:11 | "I hear the way people talk about the children of famous people. They're not treated very well. The presumptions are usually quite awful. So I tried to establish myself with a couple of movies. After 'Juno' I thought: 'I think I've defined myself enough as my own director that I'd love to work with my father.'" | Jason Reitman |
 | 2026-03-20 22:41:04 | "He is the best sailor who can steer within fewest points of the wind, and exact a motive power out of the greatest obstacles." | Walter Scott |
 | 2026-03-21 06:32:25 | "The token gay character is always so funny and so fantastic. That's happened a lot. Or they're often purely victims." | Ezra Miller |
+| 2026-03-21 14:36:25 | "Surely all art is the result of one's having been in danger, of having gone through an experience all the way to the end, where no one can go any further." | Rainer Maria Rilke |
