@@ -1265,3 +1265,4 @@
 | 2026-03-23 22:58:30 | "The dogmas of the quiet past are inadequate to the stormy present. The occasion is piled high with difficulty, and we mustrise with the occasion. As our case is new, so we must think anew and act anew." | Lincoln, Abraham |
 | 2026-03-24 06:35:49 | "Friendship is the marriage of the soul, and this marriage is liable to divorce." | Voltaire |
 | 2026-03-24 14:56:49 | "Presumption should never make us neglect that which appears easy to us, nor despair make us lose courage at the sight of difficulties." | Benjamin Banneker |
+| 2026-03-24 23:05:05 | "An important consequence of freeing oneself from the fear of death is a radical opening to spirituality of a universal and non-denominational type." | Stanislav Grof |
