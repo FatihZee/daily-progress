@@ -1283,3 +1283,4 @@
 | 2026-03-29 22:31:39 | "There will never be great architects or great architecture without great patrons." | Edwin Lutyens |
 | 2026-03-30 06:36:40 | "We continue to shape our personality all our life. If we knew ourselves perfectly, we should die." | Albert Camus |
 | 2026-03-30 15:22:25 | "I don't think I could live without hair, makeup and styling, let alone be the performer I am. I am a glamour girl through and through. I believe in the glamorous life and I live one." | Lady Gaga |
+| 2026-03-30 23:04:51 | "You wrestle one night, get up the next morning and fly out to the next city. You try to work out, you try to get some food into you and, lo and behold, you have to go work again. You are living out of a suitcase." | Bill Goldberg |
