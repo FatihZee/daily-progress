@@ -1303,3 +1303,4 @@
 | 2026-04-05 14:56:29 | "I fantasize about going back to high school with the knowledge I have now. I would shine. I would have a good time, I would have a girlfriend. I think that's where a lot of my pain comes from. I think I never had any teenage years to go back to." | Spalding Gray |
 | 2026-04-05 22:31:19 | "She gave up beauty in her tender youth, gave all her hope and joy and pleasant ways she covered up her eyes lest they should gaze on vanity, and chose the bitter truth." | Christina Rossetti |
 | 2026-04-06 06:37:10 | "The age in which we live, this non-stop distraction, is making it more impossible for the young generation to ever have the curiosity or discipline... because you need to be alone to find out anything." | Vivienne Westwood |
+| 2026-04-06 15:23:19 | "It's that I don't like white paper backgrounds. A woman does not live in front of white paper. She lives on the street, in a motor car, in a hotel room." | Helmut Newton |
