@@ -1310,3 +1310,4 @@
 | 2026-04-07 23:08:44 | "I do think sometimes there's danger in guest appearance mania. I've seen too many examples that sound cool on paper, like 'Oh, get that guy to sing the hook on that guy's song,' and then that's all it is. It's a cool idea that sounds good on paper." | Ezra Koenig |
 | 2026-04-08 06:39:51 | "There is not enough love and goodness in the world to permit giving any of it away to imaginary beings." | Friedrich Nietzsche |
 | 2026-04-08 15:14:33 | "We also have to make sure our children know the history of women. Tell them the rotten truth: It wasn't always possible for women to become doctors or managers or insurance people. Let them be armed with a true picture of the way we want it to be." | Anne Roiphe |
+| 2026-04-08 23:13:06 | "The most boring scenes are the scenes where a character is alone." | Chuck Palahniuk |
