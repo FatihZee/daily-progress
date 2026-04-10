@@ -1316,3 +1316,4 @@
 | 2026-04-09 23:16:41 | "The time comes upon every public man when it is best for him to keep his lips closed." | Abraham Lincoln |
 | 2026-04-10 06:39:18 | "I don't enjoy movies in 3D. I find I can't engage with the story as well." | Guy Pearce |
 | 2026-04-10 15:22:29 | "Home is a name, a word, it is a strong one stronger than magician ever spoke, or spirit ever answered to, in the strongest conjuration." | Charles Dickens |
+| 2026-04-10 22:51:58 | "I think a certain amount of anger has been a fuel of mine, if you want - but also some sort of sadness, and plain mischief, of course." | Siouxsie Sioux |
