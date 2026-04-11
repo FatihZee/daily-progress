@@ -1320,3 +1320,4 @@
 | 2026-04-11 06:38:37 | "You have to visualize a second or two ahead of your car what line you are taking, what you are going to do, before you get there because it comes too fast." | Emerson Fittipaldi |
 | 2026-04-11 14:53:33 | "If you only design menus that are essentially junk or fast food, the whole infrastructure supports junk." | Jamie Oliver |
 | 2026-04-11 22:32:10 | "I don't really talk about my personal life. It's a strange and funny and weird thing. Sometimes you have a conversation with someone and the paparazzi snaps a picture of you and people decide you're dating. If I try to answer everything people say, I would be up all night." | Tracee Ellis Ross |
+| 2026-04-12 06:38:17 | "Failure is what we're all running from, we're always running toward success with failure at our back." | Natalie Goldberg |
