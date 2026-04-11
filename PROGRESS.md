@@ -1318,3 +1318,4 @@
 | 2026-04-10 15:22:29 | "Home is a name, a word, it is a strong one stronger than magician ever spoke, or spirit ever answered to, in the strongest conjuration." | Charles Dickens |
 | 2026-04-10 22:51:58 | "I think a certain amount of anger has been a fuel of mine, if you want - but also some sort of sadness, and plain mischief, of course." | Siouxsie Sioux |
 | 2026-04-11 06:38:37 | "You have to visualize a second or two ahead of your car what line you are taking, what you are going to do, before you get there because it comes too fast." | Emerson Fittipaldi |
+| 2026-04-11 14:53:33 | "If you only design menus that are essentially junk or fast food, the whole infrastructure supports junk." | Jamie Oliver |
