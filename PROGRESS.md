@@ -1323,3 +1323,4 @@
 | 2026-04-12 06:38:17 | "Failure is what we're all running from, we're always running toward success with failure at our back." | Natalie Goldberg |
 | 2026-04-12 15:04:52 | "If a man is dumb, someone is going to get the best of him, so why not you? If you don't, you're as dumb as he is." | Arnold Rothstein |
 | 2026-04-12 22:34:32 | "My father would take me to the playground, and put me on mood swings." | Jay London |
+| 2026-04-13 06:39:09 | "Talking isn't doing. It is a kind of good deed to say well and yet words are not deeds." | William Shakespeare |
