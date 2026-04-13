@@ -1325,3 +1325,4 @@
 | 2026-04-12 22:34:32 | "My father would take me to the playground, and put me on mood swings." | Jay London |
 | 2026-04-13 06:39:09 | "Talking isn't doing. It is a kind of good deed to say well and yet words are not deeds." | William Shakespeare |
 | 2026-04-13 16:03:32 | "Love is a better teacher than duty." | Albert Einstein |
+| 2026-04-13 23:10:53 | "Both my husband and I give a lot of ourselves in what we do because that is our public lives but in my private life, I have an intrinsic right to be left alone." | Ashley Judd |
