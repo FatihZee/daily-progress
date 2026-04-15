@@ -1330,3 +1330,4 @@
 | 2026-04-14 15:45:25 | "When I'm home, the heart and soul of our family is in the kitchen. Growing up, my parents both worked, so dinnertime was for family - the TV was off. I think it's important to grab that time and really make it special, even after a tough day." | Cat Cora |
 | 2026-04-14 23:05:39 | "Success is not built on success. It's built on failure. It's built on frustration. Sometimes its built on catastrophe." | Sumner Redstone |
 | 2026-04-15 06:45:15 | "So I can't show you how, exactly, health care is a basic human right. But what I can argue is that no one should have to die of a disease that is treatable." | Paul Farmer |
+| 2026-04-15 15:47:01 | "My mom and my dad were married 56 years, and the fact that I reconciled with my dad I think made their marriage a little bit better as well." | Larry Elder |
