@@ -1341,3 +1341,4 @@
 | 2026-04-18 06:41:48 | "I love playing a dad. It's hard to find family dramas that are genuinely funny." | Peter Gallagher |
 | 2026-04-18 15:01:02 | "If you're bored with life - you don't get up every morning with a burning desire to do things - you don't have enough goals." | Lou Holtz |
 | 2026-04-18 22:35:59 | "I know it may seem surprising to people, but learning dialog that has a conversational flow to it is not that difficult." | Deidre Hall |
+| 2026-04-19 06:38:30 | "I've always been into guitars... we want to put keyboards on, but keyboard players don't look cool onstage, they just keep their heads down. There has never been a cool keyboard player, apart from Elton John." | Noel Gallagher |
