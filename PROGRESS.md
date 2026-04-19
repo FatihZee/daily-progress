@@ -1344,3 +1344,4 @@
 | 2026-04-19 06:38:30 | "I've always been into guitars... we want to put keyboards on, but keyboard players don't look cool onstage, they just keep their heads down. There has never been a cool keyboard player, apart from Elton John." | Noel Gallagher |
 | 2026-04-19 15:08:29 | "When I saw all those other drivers, I realized that they wanted to win that money just as much as I did. But I didn't have to worry. A tire came off my car and I was lucky I got it off the track." | Buck Baker |
 | 2026-04-19 22:36:18 | "I've generally got a good eye for design and proportion." | Bruce Oldfield |
+| 2026-04-20 06:40:05 | "Things done well and with a care, exempt themselves from fear." | William Shakespeare |
