@@ -1345,3 +1345,4 @@
 | 2026-04-19 15:08:29 | "When I saw all those other drivers, I realized that they wanted to win that money just as much as I did. But I didn't have to worry. A tire came off my car and I was lucky I got it off the track." | Buck Baker |
 | 2026-04-19 22:36:18 | "I've generally got a good eye for design and proportion." | Bruce Oldfield |
 | 2026-04-20 06:40:05 | "Things done well and with a care, exempt themselves from fear." | William Shakespeare |
+| 2026-04-20 16:09:29 | "With a lot of films, people are sitting on the outside looking in, but I want the audience to get a bit more intimately involved with what's going on, so that they maybe can experience it a little bit more intensely." | Andrea Arnold |
