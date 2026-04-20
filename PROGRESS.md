@@ -1346,3 +1346,4 @@
 | 2026-04-19 22:36:18 | "I've generally got a good eye for design and proportion." | Bruce Oldfield |
 | 2026-04-20 06:40:05 | "Things done well and with a care, exempt themselves from fear." | William Shakespeare |
 | 2026-04-20 16:09:29 | "With a lot of films, people are sitting on the outside looking in, but I want the audience to get a bit more intimately involved with what's going on, so that they maybe can experience it a little bit more intensely." | Andrea Arnold |
+| 2026-04-20 23:07:21 | "The carrying out of the Potsdam Agreement has, however, been obstructed by the failure of the Allied Control Council to take the necessary steps to enable the German economy to function as an economic unit." | James F. Byrnes |
