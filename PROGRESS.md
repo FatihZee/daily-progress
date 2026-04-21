@@ -1349,3 +1349,4 @@
 | 2026-04-20 23:07:21 | "The carrying out of the Potsdam Agreement has, however, been obstructed by the failure of the Allied Control Council to take the necessary steps to enable the German economy to function as an economic unit." | James F. Byrnes |
 | 2026-04-21 06:47:13 | "I think that if I had grown up and had been in show business and the movies twenty five, thirty years earlier, I think I would have made a lot more musical movies." | Christopher Walken |
 | 2026-04-21 15:54:12 | "Someone has to stay on the line and say, no, we can do this by cutting spending and reducing the size of government. That's what I was committed to doing." | Chris Christie |
+| 2026-04-21 23:09:11 | "Don't get the impression that you arouse my anger. You see, one can only be angry with those he respects." | Richard M. Nixon |
