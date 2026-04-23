@@ -1354,3 +1354,4 @@
 | 2026-04-22 15:50:23 | "We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone." | Orson Welles |
 | 2026-04-22 23:07:37 | "There are no greater treasures than the highest human qualities such as compassion, courage and hope. Not even tragic accident or disaster can destroy such treasures of the heart." | Daisaku Ikeda |
 | 2026-04-23 06:49:21 | "Dodi got a lot of criticism when he began dating Princess Diana. No one seemed to think he was good enough for her." | Lorna Luft |
+| 2026-04-23 15:55:17 | "Everyone I know who used to be in the intelligence community is moving into the corporate world." | Tony Gilroy |
