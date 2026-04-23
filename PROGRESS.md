@@ -1356,3 +1356,4 @@
 | 2026-04-23 06:49:21 | "Dodi got a lot of criticism when he began dating Princess Diana. No one seemed to think he was good enough for her." | Lorna Luft |
 | 2026-04-23 15:55:17 | "Everyone I know who used to be in the intelligence community is moving into the corporate world." | Tony Gilroy |
 | 2026-04-23 23:27:23 | "It was 100 feet of 16 mm black-and-white film of a car coming to a stop sign, and driving off. I had to decide how to frame and light it. It was magic. There was a sense of mystery." | Conrad Hall |
+| 2026-04-24 06:51:00 | "Leaving home in a sense involves a kind of second birth in which we give birth to ourselves." | Robert Neelly Bellah |
