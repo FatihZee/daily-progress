@@ -1359,3 +1359,4 @@
 | 2026-04-24 06:51:00 | "Leaving home in a sense involves a kind of second birth in which we give birth to ourselves." | Robert Neelly Bellah |
 | 2026-04-24 16:02:59 | "In our civilization, and under our republican form of government, intelligence is so highly honored that it is rewarded by exemption from the cares of office." | Ambrose Bierce |
 | 2026-04-24 23:03:17 | "The public has lost faith in the ability of Social Security and Medicare to provide for old age. They've lost faith in the banking system and in conventional medical insurance." | Ron Chernow |
+| 2026-04-25 06:42:11 | "I tell people I'm too stupid to know what's impossible. I have ridiculously large dreams, and half the time they come true." | Debi Thomas |
