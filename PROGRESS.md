@@ -1362,3 +1362,4 @@
 | 2026-04-25 06:42:11 | "I tell people I'm too stupid to know what's impossible. I have ridiculously large dreams, and half the time they come true." | Debi Thomas |
 | 2026-04-25 15:07:06 | "A sincere and steadfast co-operation in promoting such a reconstruction of our political system as would provide for the permanent liberty and happiness of the United States." | James Madison |
 | 2026-04-25 22:38:05 | "One morning, about four o'clock, I was driving my car just about as fast as I could. I thought, Why am I out this time of night? I was miserable, and it came to me: I'm falling in love with somebody I have no right to fall in love with." | June Carter Cash |
+| 2026-04-26 06:41:12 | "But, if you observe children learning in their first few years of life, you can see that they can and do learn on their own - we leave them alone to crawl, walk, talk, and gain control over their bodies. It happens without much help from parents." | Daniel Greenberg |
