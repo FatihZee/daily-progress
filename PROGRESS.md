@@ -1365,3 +1365,4 @@
 | 2026-04-26 06:41:12 | "But, if you observe children learning in their first few years of life, you can see that they can and do learn on their own - we leave them alone to crawl, walk, talk, and gain control over their bodies. It happens without much help from parents." | Daniel Greenberg |
 | 2026-04-26 15:17:45 | "Do it no matter what. If you believe in it, it is something very honorable. If somebody around you or your family does not understand it, then that's their problem. But if you do have a passion, an honest passion, just do it." | Mario Andretti |
 | 2026-04-26 22:40:03 | "There's only two people in your life you should lie to... the police and your girlfriend." | Jack Nicholson |
+| 2026-04-27 06:42:16 | "Logic is neither an art nor a science but a dodge." | Stendhal |
