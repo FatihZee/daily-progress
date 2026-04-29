@@ -1373,3 +1373,4 @@
 | 2026-04-28 23:49:41 | "Last time I spoke to my mom she called me from a pay phone, and we didn't have the best talk. Ever since my stepdad passed away three years ago, she has been very depressed and hasn't been herself at all." | Eric West |
 | 2026-04-29 06:56:46 | "In friendship as well as love, ignorance very often contributes more to our happiness than knowledge." | Francois de La Rochefoucauld |
 | 2026-04-29 16:12:48 | "I fantasize about going back to high school with the knowledge I have now. I would shine. I would have a good time, I would have a girlfriend. I think that's where a lot of my pain comes from. I think I never had any teenage years to go back to." | Spalding Gray |
+| 2026-04-29 23:26:02 | "But now I feel off the grid. I feel that I am not part of the culture. And because I don't have a car I don't really go anywhere to buy things. In fact, I have been in a slow process of selling and giving away everything I own." | Vincent Kartheiser |
