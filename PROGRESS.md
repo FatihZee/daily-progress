@@ -1378,3 +1378,4 @@
 | 2026-04-30 16:19:17 | "The beautiful thing about learning is nobody can take it away from you." | B. B. King |
 | 2026-04-30 23:17:55 | "I consider myself a product of Alaska. The love and the debt that I feel to my home state, you always want your hometown to be the proudest of you." | Jewel |
 | 2026-05-01 06:54:38 | "I can't say it's not painful being estranged from most of my family. I wish it could be otherwise." | LaToya Jackson |
+| 2026-05-01 16:04:11 | "Societies have always been shaped more by the nature of the media by which men communicate than by the content of the communication." | Marshall McLuhan |
