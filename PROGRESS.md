@@ -1386,3 +1386,4 @@
 | 2026-05-03 06:49:29 | "My family went through divorces and remarriages and the later, blended home - and then watched that home explode, too." | Jeffrey Kluger |
 | 2026-05-03 15:50:06 | "My fitness trainer's English, my physio's English, some of my friends are English. I don't have a problem with English people at all." | Andy Murray |
 | 2026-05-03 22:45:15 | "Mum loves me being famous! She is so excited and proud, as she had me so young and couldn't support me, so I am living her dream, it's sweeter for both of us. It's her 40th birthday soon and I'm going to buy her 40 presents." | Adele |
+| 2026-05-04 06:51:19 | "I hope that my government can help change Italian mentality." | Mario Monti |
