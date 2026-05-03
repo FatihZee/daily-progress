@@ -1384,3 +1384,4 @@
 | 2026-05-02 15:22:57 | "Laws too gentle are seldom obeyed too severe, seldom executed." | Benjamin Franklin |
 | 2026-05-02 22:43:22 | "In the long history of humankind (and animal kind, too) those who learned to collaborate and improvise most effectively have prevailed." | Charles Darwin |
 | 2026-05-03 06:49:29 | "My family went through divorces and remarriages and the later, blended home - and then watched that home explode, too." | Jeffrey Kluger |
+| 2026-05-03 15:50:06 | "My fitness trainer's English, my physio's English, some of my friends are English. I don't have a problem with English people at all." | Andy Murray |
