@@ -1389,3 +1389,4 @@
 | 2026-05-04 06:51:19 | "I hope that my government can help change Italian mentality." | Mario Monti |
 | 2026-05-04 16:25:13 | "Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world." | Harriet Tubman |
 | 2026-05-04 23:43:59 | "Joy is a net of love by which you can catch souls." | Mother Teresa |
+| 2026-05-05 06:56:28 | "I woke up one morning to find I was famous. I bought a white Rolls-Royce and drove down Sunset Boulevard, wearing dark specs and a white suit, waving like the Queen Mum." | Peter O'Toole |
