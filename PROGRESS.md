@@ -1392,3 +1392,4 @@
 | 2026-05-05 06:56:28 | "I woke up one morning to find I was famous. I bought a white Rolls-Royce and drove down Sunset Boulevard, wearing dark specs and a white suit, waving like the Queen Mum." | Peter O'Toole |
 | 2026-05-05 16:09:57 | "I like a very dry wit, not the big kind of humor like Robin Williams. I don't think I'm capable of that." | Chris Cooper |
 | 2026-05-05 23:22:55 | "In Thailand's history there have been dissensions from time to time, but in general, unity has prevailed." | Bhumibol Adulyadej |
+| 2026-05-06 06:50:44 | "My friends ask me why I still live with my family, but I feel comfortable there. We've all been through so much together." | Shaun White |
