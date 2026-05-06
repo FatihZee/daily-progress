@@ -1394,3 +1394,4 @@
 | 2026-05-05 23:22:55 | "In Thailand's history there have been dissensions from time to time, but in general, unity has prevailed." | Bhumibol Adulyadej |
 | 2026-05-06 06:50:44 | "My friends ask me why I still live with my family, but I feel comfortable there. We've all been through so much together." | Shaun White |
 | 2026-05-06 16:27:59 | "When you are through changing, you are through." | Bruce Barton |
+| 2026-05-06 23:25:59 | "Mark Ruffalo, aka the Incredible Hulk, is the natural gas industry's worst nightmare: a serious, committed activist who is determined to use his star power as a superhero in the hottest movie of the moment to draw attention the environmental and public health risks of fracking." | Jeff Goodell |
