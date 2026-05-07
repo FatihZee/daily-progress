@@ -1397,3 +1397,4 @@
 | 2026-05-06 23:25:59 | "Mark Ruffalo, aka the Incredible Hulk, is the natural gas industry's worst nightmare: a serious, committed activist who is determined to use his star power as a superhero in the hottest movie of the moment to draw attention the environmental and public health risks of fracking." | Jeff Goodell |
 | 2026-05-07 06:53:22 | "Courage is the greatest of all virtues, because if you haven't courage, you may not have an opportunity to use any of the others." | Samuel Johnson |
 | 2026-05-07 16:37:53 | "There's a freedom to being young that is harder to come by as time goes on." | Dave Matthews |
+| 2026-05-07 23:48:02 | "I can find God in nature, in animals, in birds and the environment." | Pat Buckley |
