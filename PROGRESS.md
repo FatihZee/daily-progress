@@ -1399,3 +1399,4 @@
 | 2026-05-07 16:37:53 | "There's a freedom to being young that is harder to come by as time goes on." | Dave Matthews |
 | 2026-05-07 23:48:02 | "I can find God in nature, in animals, in birds and the environment." | Pat Buckley |
 | 2026-05-08 06:54:49 | "Success is not built on success. It's built on failure. It's built on frustration. Sometimes its built on catastrophe." | Sumner Redstone |
+| 2026-05-08 15:23:19 | "The desire to write grows with writing." | Desiderius Erasmus |
