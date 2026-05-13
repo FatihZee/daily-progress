@@ -1414,3 +1414,4 @@
 | 2026-05-12 16:43:16 | "My idea of education is to unsettle the minds of the young and inflame their intellects." | Robert M. Hutchins |
 | 2026-05-13 00:08:53 | "I'm afraid that if you look at a thing long enough, it loses all of its meaning." | Andy Warhol |
 | 2026-05-13 07:02:14 | "If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?" | Confucius |
+| 2026-05-13 16:47:11 | "Leadership comes in small acts as well as bold strokes." | Carly Fiorina |
