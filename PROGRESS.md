@@ -1416,3 +1416,4 @@
 | 2026-05-13 07:02:14 | "If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?" | Confucius |
 | 2026-05-13 16:47:11 | "Leadership comes in small acts as well as bold strokes." | Carly Fiorina |
 | 2026-05-14 00:15:04 | "Fear has many eyes and can see things underground." | Miguel de Cervantes |
+| 2026-05-14 07:03:02 | "I have bad reflexes. I was once run over by a car being pushed by two guys." | Woody Allen |
