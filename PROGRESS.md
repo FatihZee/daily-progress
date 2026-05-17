@@ -1428,3 +1428,4 @@
 | 2026-05-17 06:55:47 | "Marriage made more sense when it was indissoluble. It's the woman trying to cope with the strains of a one-parent family who will suffer most from the relaxation of the divorce laws." | Germaine Greer |
 | 2026-05-17 16:08:31 | "There is something good in all seeming failures. You are not to see that now. Time will reveal it. Be patient." | Sivananda |
 | 2026-05-17 22:57:29 | "When a novel has 200,000 words, then it is possible for the reader to experience 200,000 delights, and to turn back to the first page of the book and experience them all over again, perhaps more intensely." | Jane Smiley |
+| 2026-05-18 06:59:00 | "True terror is to wake up one morning and discover that your high school class is running the country." | Kurt Vonnegut |
