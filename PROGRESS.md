@@ -1431,3 +1431,4 @@
 | 2026-05-18 06:59:00 | "True terror is to wake up one morning and discover that your high school class is running the country." | Kurt Vonnegut |
 | 2026-05-18 18:08:39 | "I feel audiences are not given enough credit for their intelligence." | Tony Goldwyn |
 | 2026-05-19 00:28:15 | "It's been such a deep and amazing journey for me, getting close to John Keats, and also I love Shelley and Byron. I mean, the thing about the Romantic poets is that they've got the epitaph of romantic posthumously. They all died really young, and Keats, the youngest of them all." | Jane Campion |
+| 2026-05-19 07:10:28 | "Plant and your spouse plants with you weed and you weed alone." | Jean-Jacques Rousseau |
