@@ -1434,3 +1434,9 @@
 | 2026-05-19 07:10:28 | "Plant and your spouse plants with you weed and you weed alone." | Jean-Jacques Rousseau |
 | 2026-05-19 17:38:21 | "I need drama in my life to keep making music." | Eminem |
 | 2026-05-20 00:36:55 | "I'm glad you asked that question, because of any musical situation I've been in, the communication feels great here with Russell. He really pays close attention to what I'm doing because he cares." | Benny Green |
+| 2026-05-20 07:09:10 | "Ludacris' is something that I made up. It just kind of describes me. Sometimes I have like a split personality. Sometimes I'm cool, calm, and collected, and other times I'm beyond crazy.;Ludacris;cool
+11046;Everyone hooks up with George Clooney. He's a genuinely cool guy. He's using his powers for good.;William H. Macy;cool
+11047;I never saw music in terms of men and women or black and white. There was just cool and uncool.;Bonnie Raitt;cool
+11048;New York had a big influence on me growing up, and I was really part of the club scene - the Mudd Club and Studio 54. When you're living in New York, you are just bombarded with style, trying to figure out how to be cool and how to feel relaxed at the same time.;Dylan McDermott;cool
+11049;My dad was kind of a pool shark and had a Frank Sinatra, Dean Martin thing going on. I've always been fascinated by the fifties because of him. There was a hip, cool, anything-goes atmosphere back then, but looking good was still a priority.;Dylan McDermott;cool
+11050;Style is innate to who I am. My father gave me a picture the other day. I must have been about seven, and I had on wing-tip shoes and some cool pants. I thought, 'Wow!" | Dylan McDermott |
