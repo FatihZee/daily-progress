@@ -1441,3 +1441,4 @@
 11049;My dad was kind of a pool shark and had a Frank Sinatra, Dean Martin thing going on. I've always been fascinated by the fifties because of him. There was a hip, cool, anything-goes atmosphere back then, but looking good was still a priority.;Dylan McDermott;cool
 11050;Style is innate to who I am. My father gave me a picture the other day. I must have been about seven, and I had on wing-tip shoes and some cool pants. I thought, 'Wow!" | Dylan McDermott |
 | 2026-05-20 17:25:56 | "If future generations are to remember us more with gratitude than sorrow, we must achieve more than just the miracles of technology. We must also leave them a glimpse of the world as it was created, not just as it looked when we got through with it." | Lyndon B. Johnson |
+| 2026-05-21 00:52:58 | "A day without sunshine is like, you know, night." | Steve Martin |
