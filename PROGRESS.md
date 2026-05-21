@@ -1443,3 +1443,4 @@
 | 2026-05-20 17:25:56 | "If future generations are to remember us more with gratitude than sorrow, we must achieve more than just the miracles of technology. We must also leave them a glimpse of the world as it was created, not just as it looked when we got through with it." | Lyndon B. Johnson |
 | 2026-05-21 00:52:58 | "A day without sunshine is like, you know, night." | Steve Martin |
 | 2026-05-21 07:09:15 | "Happiness is ideal, it is the work of the imagination." | Marquis de Sade |
+| 2026-05-21 17:41:07 | "In the beginning, we had a great deal of freedom, and Jerry wrote completely out of his imagination - very, very freely. We even had no editorial supervision to speak of, because they were in such a rush to get the thing in before deadline. But later on we were restricted." | Joe Shuster |
