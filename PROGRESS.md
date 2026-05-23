@@ -1448,3 +1448,4 @@
 | 2026-05-22 07:05:09 | "It's really easy to figure out why I love what I love, the holidays and food. I know the difference between having them and not having them." | Sandra Lee |
 | 2026-05-22 17:25:26 | "I think being a wealthy member of the establishment is the antithesis of cool. Being a countercultural revolutionary is cool. So to the extent that you've made a billion dollars, you've probably become uncool." | Sean Parker |
 | 2026-05-23 00:06:36 | "Talking about music is like dancing about architecture." | Steve Martin |
+| 2026-05-23 07:09:23 | "People used what they called a telephone because they hated being close together and they were scared of being alone." | Chuck Palahniuk |
