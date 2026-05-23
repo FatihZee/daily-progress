@@ -1449,3 +1449,4 @@
 | 2026-05-22 17:25:26 | "I think being a wealthy member of the establishment is the antithesis of cool. Being a countercultural revolutionary is cool. So to the extent that you've made a billion dollars, you've probably become uncool." | Sean Parker |
 | 2026-05-23 00:06:36 | "Talking about music is like dancing about architecture." | Steve Martin |
 | 2026-05-23 07:09:23 | "People used what they called a telephone because they hated being close together and they were scared of being alone." | Chuck Palahniuk |
+| 2026-05-23 16:04:48 | "We must make it an imperative duty of our government to protect the gifts which Nature has bestowed on America and to insure the maintenance of a clean, healthy, wholesome environment for our people." | George Lincoln Rockwell |
