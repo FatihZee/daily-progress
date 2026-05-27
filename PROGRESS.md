@@ -1461,3 +1461,4 @@
 | 2026-05-27 00:54:35 | "If you put all your strength and faith and vigor into a job and try to do the best you can, the money will come." | Lawrence Welk |
 | 2026-05-27 07:09:20 | "Because most people are not sufficiently employed in themselves, they run about loose, hungering for employment, and satisfy themselves in various supererogatory occupations. The easiest of these occupations, which have all to do with making things already made, is the making of people: it is called the art of friendship." | Laura Riding |
 | 2026-05-27 17:57:29 | "I don't really believe in diets. I love food... If I deprive myself, I'm going to want it more. I snack on yogurt, raw cashews and cherry tomatoes." | Nicole Scherzinger |
+| 2026-05-28 00:55:57 | "I wanna make a jigsaw puzzle that's 40,000 pieces. And when you finish it, it says 'go outside.'" | Demetri Martin |
