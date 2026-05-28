@@ -1462,3 +1462,4 @@
 | 2026-05-27 07:09:20 | "Because most people are not sufficiently employed in themselves, they run about loose, hungering for employment, and satisfy themselves in various supererogatory occupations. The easiest of these occupations, which have all to do with making things already made, is the making of people: it is called the art of friendship." | Laura Riding |
 | 2026-05-27 17:57:29 | "I don't really believe in diets. I love food... If I deprive myself, I'm going to want it more. I snack on yogurt, raw cashews and cherry tomatoes." | Nicole Scherzinger |
 | 2026-05-28 00:55:57 | "I wanna make a jigsaw puzzle that's 40,000 pieces. And when you finish it, it says 'go outside.'" | Demetri Martin |
+| 2026-05-28 07:01:17 | "There's a need for accepting responsibility - for a person's life and making choices that are not just ones for immediate short-term comfort. You need to make an investment, and the investment is in health and education." | Buzz Aldrin |
