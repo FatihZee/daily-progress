@@ -1470,3 +1470,4 @@
 | 2026-05-30 01:10:41 | "But no one has yet succeeded in reducing the size or scope of the federal government." | James Q. Wilson |
 | 2026-05-30 07:10:18 | "I probably have an earlier curfew than anyone. My mom wants to keep me really safe and my dad's not overly protective, but he's a dad no matter what." | Miley Cyrus |
 | 2026-05-30 16:22:03 | "Love is the answer, and you know that for sure Love is a flower, you've got to let it grow." | John Lennon |
+| 2026-05-30 23:03:00 | "One of the scary things is that, when you're a kid, you look at your dad as the man who has no fear. When you're an adult, you realize your father had fear, and that you have it, too." | David Duchovny |
