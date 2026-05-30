@@ -1468,3 +1468,4 @@
 | 2026-05-29 07:12:58 | "I'm an enormous fan of people who have had a lot of faith in themselves, and been on a tremendous journey." | Joanna Trollope |
 | 2026-05-29 17:50:15 | "When I was in New York, I was making a living. We had a summer house and a car that I could put in a garage. That's something for a stage actor." | William H. Macy |
 | 2026-05-30 01:10:41 | "But no one has yet succeeded in reducing the size or scope of the federal government." | James Q. Wilson |
+| 2026-05-30 07:10:18 | "I probably have an earlier curfew than anyone. My mom wants to keep me really safe and my dad's not overly protective, but he's a dad no matter what." | Miley Cyrus |
