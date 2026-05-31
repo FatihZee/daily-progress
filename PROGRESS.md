@@ -1472,3 +1472,4 @@
 | 2026-05-30 16:22:03 | "Love is the answer, and you know that for sure Love is a flower, you've got to let it grow." | John Lennon |
 | 2026-05-30 23:03:00 | "One of the scary things is that, when you're a kid, you look at your dad as the man who has no fear. When you're an adult, you realize your father had fear, and that you have it, too." | David Duchovny |
 | 2026-05-31 07:02:57 | "My hope is that countries like Morocco will have investment to create work, so people don't have to leave." | Tahar Ben Jelloun |
+| 2026-05-31 16:48:11 | "Thousands of years and many civilizations have defined a marriage as the union between one man and one woman. With few exceptions, those civilizations that did not follow that perished." | Randy Neugebauer |
