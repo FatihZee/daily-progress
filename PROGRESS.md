@@ -1476,3 +1476,4 @@
 | 2026-05-31 23:06:14 | "Well, we didn't have our original drummer on our last record. And most of that album was not played as a band in the studio. It was mostly the world of computers and overdubs. There was very few things played live or worked out as a band." | James Iha |
 | 2026-06-01 07:09:10 | "I like to have a massage therapist come to my house, get a massage, take a bath, go to bed. That's a perfect night alone for me." | Stacy Keibler |
 | 2026-06-01 19:41:24 | "My mom would be leaving the house and she'd say, 'Don't you pull out all of the old dresses in the attic and put on a show again!' And the door would close, and that's exactly what I'd do. The show was calling me!" | Michael Patrick King |
+| 2026-06-02 02:54:05 | "Sometimes when you're trying to do a record too close to home, you can get really distracted." | Norah Jones |
