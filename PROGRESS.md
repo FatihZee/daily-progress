@@ -1481,3 +1481,4 @@
 | 2026-06-02 18:20:58 | "If you share a common ancestor with somebody, you're related to them. It doesn't mean that you're going to invite them to the family reunion, but it means that you share DNA." | Henry Louis Gates |
 | 2026-06-03 01:37:45 | "There is no time for cut-and-dried monotony. There is time for work. And time for love. That leaves no other time!" | Coco Chanel |
 | 2026-06-03 08:40:43 | "I also find it interesting that a lot of people in their 30s are not married and don't have kids. There are a lot of people in this age bracket that are out there dating and trying to find love. And I never thought that at my age I would be." | John Stamos |
+| 2026-06-03 18:58:39 | "Just because you liked something as a youngster doesn't mean you have to like it as an adult. You can change your taste a little bit on the sweets and things like that." | Mike Ditka |
