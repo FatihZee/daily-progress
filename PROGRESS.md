@@ -1491,3 +1491,4 @@
 | 2026-06-06 00:13:07 | "The public history of modern art is the story of conventional people not knowing what they are dealing with." | Golda Meir |
 | 2026-06-06 07:09:24 | "You never know what movie I will be in next, but let's just hope it's sells (for my sake at least)!" | Cameron Diaz |
 | 2026-06-06 16:27:48 | "My mother's incredibly giving, almost too giving at times. And, my dad is a real logical person. He's got logic for every situation. They've been married for 24 years, so there was that stability, also. I really learned to think on my own at a very young age." | Brian Austin Green |
+| 2026-06-06 23:04:23 | "Imagine if the pension funds and endowments that own much of the equity in our financial services companies demanded that those companies revisit the way mortgages were marketed to those without adequate skills to understand the products they were being sold. Management would have to change the way things were done." | Eliot Spitzer |
