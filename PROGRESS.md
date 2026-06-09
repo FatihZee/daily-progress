@@ -1498,3 +1498,4 @@
 | 2026-06-08 07:11:33 | "The thirst for powerful sensations takes the upper hand both over fear and over compassion for the grief of others." | Anton Chekhov |
 | 2026-06-08 19:01:43 | "The future is something which everyone reaches at the rate of 60 minutes an hour, whatever he does, whoever he is." | C. S. Lewis |
 | 2026-06-09 00:50:49 | "I learned never to empty the well of my writing, but always to stop when there was still something there in the deep part of the well, and let it refill at night from the springs that fed it." | Ernest Hemingway |
+| 2026-06-09 07:08:22 | "I have a family." | Philip Seymour Hoffman |
