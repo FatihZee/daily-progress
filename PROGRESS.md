@@ -1500,3 +1500,4 @@
 | 2026-06-09 00:50:49 | "I learned never to empty the well of my writing, but always to stop when there was still something there in the deep part of the well, and let it refill at night from the springs that fed it." | Ernest Hemingway |
 | 2026-06-09 07:08:22 | "I have a family." | Philip Seymour Hoffman |
 | 2026-06-09 17:35:50 | "We always deceive ourselves twice about the people we love - first to their advantage, then to their disadvantage." | Albert Camus |
+| 2026-06-10 00:23:22 | "The civil rights movement was based on faith. Many of us who were participants in this movement saw our involvement as an extension of our faith. We saw ourselves doing the work of the Almighty. Segregation and racial discrimination were not in keeping with our faith, so we had to do something." | John Lewis |
