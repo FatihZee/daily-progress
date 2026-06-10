@@ -1502,3 +1502,4 @@
 | 2026-06-09 17:35:50 | "We always deceive ourselves twice about the people we love - first to their advantage, then to their disadvantage." | Albert Camus |
 | 2026-06-10 00:23:22 | "The civil rights movement was based on faith. Many of us who were participants in this movement saw our involvement as an extension of our faith. We saw ourselves doing the work of the Almighty. Segregation and racial discrimination were not in keeping with our faith, so we had to do something." | John Lewis |
 | 2026-06-10 07:17:29 | "I was a hyper kid in school and the teacher suggested to my mom she needed to do something with me." | Devon Sawa |
+| 2026-06-10 17:58:31 | "Anyone who really studies Catholicism deeply is aware of the mystical nature of our faith. Even references to Christ's mystical body has connections to that principle." | Dennis Kucinich |
