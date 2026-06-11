@@ -1505,3 +1505,4 @@
 | 2026-06-10 17:58:31 | "Anyone who really studies Catholicism deeply is aware of the mystical nature of our faith. Even references to Christ's mystical body has connections to that principle." | Dennis Kucinich |
 | 2026-06-11 00:55:50 | "We can be tired, weary and emotionally distraught, but after spending time alone with God, we find that He injects into our bodies energy, power and strength." | Charles Stanley |
 | 2026-06-11 07:18:10 | "It's funny, because when you're younger you're in a rush to be 18 or 21 or whatever. But then you hit 30. And now, the days go by like hours. You think, 40, man, this could be the halfway point. It could be the three-quarters point, you know? Who knows?" | Mark Wahlberg |
+| 2026-06-11 18:24:19 | "I believe that one defines oneself by reinvention. To not be like your parents. To not be like your friends. To be yourself. To cut yourself out of stone." | Henry Rollins |
