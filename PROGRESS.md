@@ -1508,3 +1508,4 @@
 | 2026-06-11 18:24:19 | "I believe that one defines oneself by reinvention. To not be like your parents. To not be like your friends. To be yourself. To cut yourself out of stone." | Henry Rollins |
 | 2026-06-12 01:10:34 | "Obviously, in dealing with a relationship, sexuality has to be involved, and jealousy and emotions like that. And I don't know, I've always been intrigued by those emotions." | Adrian Lyne |
 | 2026-06-12 07:19:56 | "Freedom. Freedom of religion. Freedom to speak their mind. Freedom to build a life. And yes, freedom to build a business. With their own hands. This is the essence of the American experience." | Mitt Romney |
+| 2026-06-12 18:03:55 | "For all of higher civilization's recorded history, becoming a man was defined overwhelmingly as taking responsibility for a family." | Dennis Prager |
