@@ -1517,3 +1517,4 @@
 | 2026-06-14 17:27:13 | "Sex at age 90 is like trying to shoot pool with a rope." | George Burns |
 | 2026-06-14 23:19:37 | "The purely agitation attitude is not good enough for a detailed consideration of a subject." | Michael Korda |
 | 2026-06-15 07:14:19 | "May you live all the days of your life." | Jonathan Swift |
+| 2026-06-15 20:19:58 | "The underlying message of the Lancet article is that if you want to understand aggressive behaviour in children, look to the social and emotional environment in which they are growing up, and the values they bring to the viewing experience." | Hugh Mackay |
