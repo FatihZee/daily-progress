@@ -1523,3 +1523,4 @@
 | 2026-06-16 19:13:35 | "I'm trying to knock the medical profession into accepting its responsibilities, and those responsibilities include assisting their patients with death." | Jack Kevorkian |
 | 2026-06-17 01:53:42 | "But constant experience shows us that every man invested with power is apt to abuse it, and to carry his authority as far as it will go." | Charles de Secondat |
 | 2026-06-17 07:19:26 | "Leadership must be established from the top down." | Sam Nunn |
+| 2026-06-17 18:53:13 | "God is a metaphor for that which transcends all levels of intellectual thought. It's as simple as that." | Joseph Campbell |
