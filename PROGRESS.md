@@ -1532,3 +1532,4 @@
 | 2026-06-19 18:26:07 | "Laurence Olivier said in an interview once that when he plays a tragedy he always aims for the funny parts, and the other way around. Because in a comedy you look for what's serious. I think that's true. Sometimes things are really funny if you're absolutely earnest. If you're really serious, it's hilarious." | Christopher Walken |
 | 2026-06-20 00:17:31 | "Leadership is unlocking people's potential to become better." | Bill Bradley |
 | 2026-06-20 07:11:33 | "Never get married in college it's hard to get a start if a prospective employer finds you've already made one mistake." | Elbert Hubbard |
+| 2026-06-20 17:10:12 | "Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable." | John Wooden |
