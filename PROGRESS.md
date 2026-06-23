@@ -1541,3 +1541,4 @@
 | 2026-06-22 19:52:15 | "Half the states have stopped making civics and government a requirement for high school. Half." | Sandra Day O'Connor |
 | 2026-06-23 01:44:35 | "I am invariably late for appointments - sometimes as much as two hours. I've tried to change my ways but the things that make me late are too strong, and too pleasing." | Marilyn Monroe |
 | 2026-06-23 07:09:00 | "Cauliflower is nothing but cabbage with a college education." | Mark Twain |
+| 2026-06-23 17:37:51 | "Christ would be a national advertiser today, I am sure, as He was a great advertiser in His own day. He thought of His life as business." | Bruce Barton |
