@@ -1545,3 +1545,4 @@
 | 2026-06-24 00:16:01 | "On the same line of reasoning, if Australians were to be Australians, or rather if Australians were as separate from any other nation as Australia from any other land, there would be no jealousy between them on England's account." | Henry Lawson |
 | 2026-06-24 07:00:41 | "When the sun comes up, I have morals again." | Elayne Boosler |
 | 2026-06-24 17:24:33 | "If you started in New York you were dealing with the biggest guys in the world. You're dealing with Charlie Parker and all the big bands and everything. We got more experience working in Seattle." | Quincy Jones |
+| 2026-06-25 00:02:35 | "Joy is what happens to us when we allow ourselves to recognize how good things really are." | Marianne Williamson |
