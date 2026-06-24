@@ -1544,3 +1544,4 @@
 | 2026-06-23 17:37:51 | "Christ would be a national advertiser today, I am sure, as He was a great advertiser in His own day. He thought of His life as business." | Bruce Barton |
 | 2026-06-24 00:16:01 | "On the same line of reasoning, if Australians were to be Australians, or rather if Australians were as separate from any other nation as Australia from any other land, there would be no jealousy between them on England's account." | Henry Lawson |
 | 2026-06-24 07:00:41 | "When the sun comes up, I have morals again." | Elayne Boosler |
+| 2026-06-24 17:24:33 | "If you started in New York you were dealing with the biggest guys in the world. You're dealing with Charlie Parker and all the big bands and everything. We got more experience working in Seattle." | Quincy Jones |
