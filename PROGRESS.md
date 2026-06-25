@@ -1548,3 +1548,4 @@
 | 2026-06-25 00:02:35 | "Joy is what happens to us when we allow ourselves to recognize how good things really are." | Marianne Williamson |
 | 2026-06-25 07:15:14 | "Every man judges his own happiness and satisfaction with life in terms of his possession or lack of possession of those things that he considers worthwhile and valuable." | Meir Kahane |
 | 2026-06-25 17:16:51 | "Men make history and not the other way around. In periods where there is no leadership, society stands still. Progress occurs when courageous, skillful leaders seize the opportunity to change things for the better." | Harry S. Truman |
+| 2026-06-26 00:10:54 | "The readers are the ones who let us live our dreams. I try to write books which are really compelling - that you'd take on vacation and rather than going out, you'd read in your hotel room because you had to find out what happened. Hopefully that's what readers are responding to." | Harlan Coben |
