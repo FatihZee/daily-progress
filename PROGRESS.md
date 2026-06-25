@@ -1546,3 +1546,4 @@
 | 2026-06-24 07:00:41 | "When the sun comes up, I have morals again." | Elayne Boosler |
 | 2026-06-24 17:24:33 | "If you started in New York you were dealing with the biggest guys in the world. You're dealing with Charlie Parker and all the big bands and everything. We got more experience working in Seattle." | Quincy Jones |
 | 2026-06-25 00:02:35 | "Joy is what happens to us when we allow ourselves to recognize how good things really are." | Marianne Williamson |
+| 2026-06-25 07:15:14 | "Every man judges his own happiness and satisfaction with life in terms of his possession or lack of possession of those things that he considers worthwhile and valuable." | Meir Kahane |
