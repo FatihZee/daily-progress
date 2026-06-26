@@ -1550,3 +1550,4 @@
 | 2026-06-25 17:16:51 | "Men make history and not the other way around. In periods where there is no leadership, society stands still. Progress occurs when courageous, skillful leaders seize the opportunity to change things for the better." | Harry S. Truman |
 | 2026-06-26 00:10:54 | "The readers are the ones who let us live our dreams. I try to write books which are really compelling - that you'd take on vacation and rather than going out, you'd read in your hotel room because you had to find out what happened. Hopefully that's what readers are responding to." | Harlan Coben |
 | 2026-06-26 07:12:02 | "If knowledge and foresight are too penetrating and deep, unify them with ease and sincerity." | Xun Zi |
+| 2026-06-26 17:24:45 | "It's interesting because people assume that because I'm famous I know all famous people." | Daniel Radcliffe |
