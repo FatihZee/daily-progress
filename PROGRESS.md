@@ -1554,3 +1554,4 @@
 | 2026-06-26 23:59:30 | "Vampires are so old that they don't need to impress anyone anymore. They're comfortable in their own skin. It's this enigmatic strength that's very romantic and old-fashioned. I think it goes back to something of a Victorian attitude of finding a strong man who's going to look after his woman." | Stephen Moyer |
 | 2026-06-27 07:11:01 | "Time is like money, the less we have of it to spare the further we make it go." | Josh Billings |
 | 2026-06-27 16:30:59 | "If money is your hope for independence you will never have it. The only real security that a man will have in this world is a reserve of knowledge, experience, and ability." | Henry Ford |
+| 2026-06-27 23:03:21 | "I think more than writers, the major influences on me have been European movies, jazz, and Abstract Expressionism." | Don DeLillo |
