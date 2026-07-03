@@ -1572,3 +1572,4 @@
 | 2026-07-02 23:47:34 | "Hemingway seems to be in a funny position. People nowadays can't identify with him closely as a member of their own generation, and he isn't yet historical." | Leslie Fiedler |
 | 2026-07-03 07:08:39 | "But my most favourite pursuit, after my daily exertions at the Foundry, was Astronomy. There were frequently clear nights when the glorious objects in the Heavens were seen in most attractive beauty and brilliancy." | James Nasmyth |
 | 2026-07-03 17:07:38 | "To reduce deficit spending and our enormous debt, you reign in spending. You cut the budget. You don't take more from the private sector and grow government with it. And that's exactly what Obama has in mind with this expiration of Bush tax cuts proposal of his." | Sarah Palin |
+| 2026-07-03 23:22:48 | "While most Americans have access to the best oral health care in the world, low-income children suffer disproportionately from oral disease." | Michael K. Simpson |
