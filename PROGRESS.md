@@ -1576,3 +1576,4 @@
 | 2026-07-04 07:06:54 | "One of the hardest questions I have been asked is 'How will you manage the army if you are having menstrual cramps?' I have also been asked if I will have the courage to face criminals. My answer is that courage is not a matter of gender." | Josefina Vazquez Mota |
 | 2026-07-04 16:25:58 | "I know not why there is such a melancholy feeling attached to the remembrance of past happiness, except that we fear that the future can have nothing so bright as the past." | Julia Ward Howe |
 | 2026-07-04 23:00:22 | "Men are not great or small because of their material possessions. They are great or small because of what they are." | James Cash Penney |
+| 2026-07-05 07:03:37 | "Working on the 'Ice Age' movies, I'm really proud to be in them." | Seann William Scott |
