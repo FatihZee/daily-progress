@@ -1577,3 +1577,4 @@
 | 2026-07-04 16:25:58 | "I know not why there is such a melancholy feeling attached to the remembrance of past happiness, except that we fear that the future can have nothing so bright as the past." | Julia Ward Howe |
 | 2026-07-04 23:00:22 | "Men are not great or small because of their material possessions. They are great or small because of what they are." | James Cash Penney |
 | 2026-07-05 07:03:37 | "Working on the 'Ice Age' movies, I'm really proud to be in them." | Seann William Scott |
+| 2026-07-05 16:43:51 | "The improver of natural knowledge absolutely refuses to acknowledge authority, as such. For him, skepticism is the highest of duties blind faith the one unpardonable sin." | Thomas Huxley |
