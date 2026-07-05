@@ -1578,3 +1578,4 @@
 | 2026-07-04 23:00:22 | "Men are not great or small because of their material possessions. They are great or small because of what they are." | James Cash Penney |
 | 2026-07-05 07:03:37 | "Working on the 'Ice Age' movies, I'm really proud to be in them." | Seann William Scott |
 | 2026-07-05 16:43:51 | "The improver of natural knowledge absolutely refuses to acknowledge authority, as such. For him, skepticism is the highest of duties blind faith the one unpardonable sin." | Thomas Huxley |
+| 2026-07-05 23:06:42 | "I don't know if I believe in marriage. I believe in family, love and children." | Penelope Cruz |
