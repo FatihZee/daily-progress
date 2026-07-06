@@ -1580,3 +1580,4 @@
 | 2026-07-05 16:43:51 | "The improver of natural knowledge absolutely refuses to acknowledge authority, as such. For him, skepticism is the highest of duties blind faith the one unpardonable sin." | Thomas Huxley |
 | 2026-07-05 23:06:42 | "I don't know if I believe in marriage. I believe in family, love and children." | Penelope Cruz |
 | 2026-07-06 07:08:55 | "You have no idea how humiliating it was, as a boy, to suddenly have all your clothes, your toys, snatched by the bailiff. I mean we were a middle-class family, it's not as if it was happening up and down the street. It made me ashamed, I felt dirty." | John le Carre |
+| 2026-07-06 18:39:42 | "Throughout the country, I see the same design problems and solutions over and over." | Douglas Wilson |
