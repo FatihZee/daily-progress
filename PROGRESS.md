@@ -1592,3 +1592,4 @@
 | 2026-07-09 17:27:02 | "If you have not chosen the Kingdom of God first, it will in the end make no difference what you have chosen instead." | William Law |
 | 2026-07-10 00:21:27 | "The one exclusive sign of thorough knowledge is the power of teaching." | Aristotle |
 | 2026-07-10 07:07:10 | "It looks good when you see someone kicking at the age of 51 with no double. It's kinda cool for people to know that past 50 we can keep flexible." | Jean Claude Van Damme |
+| 2026-07-10 17:25:35 | "I think working with Johnny Depp was very intimidating. It was my fault though. I mean he's a total cool nice, nice guy, but I was just so, I don't know, overpowered by his presence. Like he's a very mystic person. He's older so I never really warmed up around him. I was so stiff." | Franka Potente |
