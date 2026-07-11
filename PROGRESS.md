@@ -1597,3 +1597,4 @@
 | 2026-07-11 07:00:11 | "More than fantasy or even science fiction, Ray Bradbury wrote horror, and like so many great horror writers he was himself utterly without fear, of anything. He wasn't afraid of looking uncool - he wasn't scared to openly love innocence, or to be optimistic, or to write sentimentally when he felt that way." | Lev Grossman |
 | 2026-07-11 15:50:09 | "The whole kiss-and-tell thing is a negative approach that often happens in a World Cup. We will see negative stories about the players and it can affect their confidence and the overall performance of the national team on the pitch, let alone the bid to actually stage the competition." | Gary Lineker |
 | 2026-07-11 22:54:02 | "The best way to be boring is to leave nothing out." | Voltaire |
+| 2026-07-12 06:57:40 | "Put the uncommon effort into the common task... make it large by doing it in a great way." | Orison Swett Marden |
