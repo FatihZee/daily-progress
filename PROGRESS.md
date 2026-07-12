@@ -1598,3 +1598,4 @@
 | 2026-07-11 15:50:09 | "The whole kiss-and-tell thing is a negative approach that often happens in a World Cup. We will see negative stories about the players and it can affect their confidence and the overall performance of the national team on the pitch, let alone the bid to actually stage the competition." | Gary Lineker |
 | 2026-07-11 22:54:02 | "The best way to be boring is to leave nothing out." | Voltaire |
 | 2026-07-12 06:57:40 | "Put the uncommon effort into the common task... make it large by doing it in a great way." | Orison Swett Marden |
+| 2026-07-12 16:05:53 | "I had seen movies before that that had made me laugh, but I had never seen anything even remotely close to as funny as Richard Pryor was, just standing there talking." | Joe Rogan |
