@@ -1599,3 +1599,4 @@
 | 2026-07-11 22:54:02 | "The best way to be boring is to leave nothing out." | Voltaire |
 | 2026-07-12 06:57:40 | "Put the uncommon effort into the common task... make it large by doing it in a great way." | Orison Swett Marden |
 | 2026-07-12 16:05:53 | "I had seen movies before that that had made me laugh, but I had never seen anything even remotely close to as funny as Richard Pryor was, just standing there talking." | Joe Rogan |
+| 2026-07-12 22:58:10 | "I was determined that no British government should be brought down by the action of two tarts." | Harold MacMillan |
