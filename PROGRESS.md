@@ -1603,3 +1603,4 @@
 | 2026-07-13 06:57:20 | "I'm not squeamish at all. As a child I dragged a dead squirrel home on my skateboard and cut it open and tried to look at its brain." | Jessica Biel |
 | 2026-07-13 17:30:50 | "Nothing is as dangerous in architecture as dealing with separated problems. If we split life into separated problems we split the possibilities to make good building art." | Alvar Aalto |
 | 2026-07-14 00:11:02 | "My grandmother is this amazingly theatrical woman. She acted like a movie star, as far as looks and attitude, kind of like Susan Hayward." | Parker Posey |
+| 2026-07-14 06:55:32 | "It seems sensible to me that we should look to the medical profession, that over the centuries has helped us to live longer and healthier lives, to help us die peacefully among our loved ones in our own home without a long stay in God's waiting room." | Terry Pratchett |
