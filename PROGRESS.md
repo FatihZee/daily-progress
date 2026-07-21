@@ -1625,3 +1625,4 @@
 | 2026-07-20 17:15:46 | "If you haven't read you don't have the voice. The lack of voice eliminates experience." | George Saunders |
 | 2026-07-20 23:22:10 | "God's mercy and grace give me hope - for myself, and for our world." | Billy Graham |
 | 2026-07-21 06:57:50 | "The main thing is to make history, not to write it." | Otto von Bismarck |
+| 2026-07-21 16:30:40 | "At her birthday, my seven-year-old daughter will say that she wants these big cakes and certain expensive toys as presents, and I can't say no to her. It would just break my heart. But when I was little, for birthdays we just played outside and we were happy if we got any cake." | Goran Ivanisevic |
