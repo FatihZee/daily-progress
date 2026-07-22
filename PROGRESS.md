@@ -1628,3 +1628,4 @@
 | 2026-07-21 16:30:40 | "At her birthday, my seven-year-old daughter will say that she wants these big cakes and certain expensive toys as presents, and I can't say no to her. It would just break my heart. But when I was little, for birthdays we just played outside and we were happy if we got any cake." | Goran Ivanisevic |
 | 2026-07-21 23:21:25 | "The thing about death is that it's honest." | Laura Linney |
 | 2026-07-22 06:56:51 | "My heart has been heavy and I have deliberated within my own conscience, knowing that my decision should not come out of my initial emotion of anger toward the President for such reckless behavior, but should be based on the facts." | Blanche Lincoln |
+| 2026-07-22 16:29:34 | "If you ever find happiness by hunting for it, you will find it, as the old woman did her lost spectacles, safe on her own nose all the time." | Josh Billings |
