@@ -1629,3 +1629,4 @@
 | 2026-07-21 23:21:25 | "The thing about death is that it's honest." | Laura Linney |
 | 2026-07-22 06:56:51 | "My heart has been heavy and I have deliberated within my own conscience, knowing that my decision should not come out of my initial emotion of anger toward the President for such reckless behavior, but should be based on the facts." | Blanche Lincoln |
 | 2026-07-22 16:29:34 | "If you ever find happiness by hunting for it, you will find it, as the old woman did her lost spectacles, safe on her own nose all the time." | Josh Billings |
+| 2026-07-22 23:18:36 | "It is a great mystery that though the human heart longs for Truth, in which alone it finds liberation and delight, the first reaction of human beings to Truth is one of hostility and fear!" | Anthony de Mello |
