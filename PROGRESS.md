@@ -1641,3 +1641,4 @@
 | 2026-07-25 23:02:22 | "I had a very happy childhood, but I wasn't that happy a child. I liked being alone and creating characters and voices. I think that's when your creativity is developed, when you're young. I liked the world of the imagination because it was an easy place to go to." | David Walliams |
 | 2026-07-26 07:01:48 | "My children are the reason I laugh, smile and want to get up every morning." | Gena Lee Nolin |
 | 2026-07-26 16:18:16 | "Redemption just means you just make a change in your life and you try to do right, versus what you were doing, which was wrong." | Ice T |
+| 2026-07-26 22:59:11 | "In a sense, words are encyclopedias of ignorance because they freeze perceptions at one moment in history and then insist we continue to use these frozen perceptions when we should be doing better." | Edward de Bono |
