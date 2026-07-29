@@ -1650,3 +1650,4 @@
 | 2026-07-28 23:39:12 | "What was past was past. I suppose that was the general attitude." | V. S. Naipaul |
 | 2026-07-29 06:59:00 | "I see a lot of movies. I love films as a spectator, and that's never obscured by the part of me that does the work myself. I just love going to the movies." | Daniel Day-Lewis |
 | 2026-07-29 16:40:13 | "Better understanding of the natural world not only enhances all of us as human beings, but can also be harnessed for the better good, leading to improved health and quality of life." | Paul Nurse |
+| 2026-07-29 23:19:49 | "A gun can be dangerous. But a gun can protect you, you can hunt for food with it - you know, the tool itself is a tool. The intention of the party using the tool is a part of the process, right? You know: the knife cuts the steak, stabs the person, saves somebody from danger, cuts somebody out of a car." | Peter Guber |
