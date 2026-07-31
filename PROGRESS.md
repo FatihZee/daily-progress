@@ -1654,3 +1654,4 @@
 | 2026-07-30 07:01:59 | "I have three kids who like Harry Potter so I was sort of aware of it. You can't really move from it: it's on buses, in stores, it's everywhere. One of my kids has read the books the other two are too small but they like the movies." | Gary Oldman |
 | 2026-07-30 16:32:50 | "What harsh judges fathers are to all young men!" | Terence |
 | 2026-07-30 23:24:25 | "I know what real courage is, and I understand true compassion." | Mo Yan |
+| 2026-07-31 07:03:47 | "Data is not information, information is not knowledge, knowledge is not understanding, understanding is not wisdom." | Clifford Stoll |
