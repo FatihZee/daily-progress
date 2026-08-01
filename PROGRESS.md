@@ -1657,3 +1657,4 @@
 | 2026-07-31 07:03:47 | "Data is not information, information is not knowledge, knowledge is not understanding, understanding is not wisdom." | Clifford Stoll |
 | 2026-07-31 16:48:09 | "I am much more open to plural marriage than I was before, and I now support it in certain situations. I do believe it is right for some people. But our example in America today is gross abuse - I can't support it in fundamentalist compounds." | Ginnifer Goodwin |
 | 2026-07-31 23:43:43 | "It's not common for a woman on television, especially if she's the mom of the family, to be funny. She's usually a straight man or foil." | Martha Plimpton |
+| 2026-08-01 07:02:59 | "I gambled and I lost. I failed in securing my options for this choice for myself, but I succeeded in verifying the Dark Age is still with us." | Jack Kevorkian |
