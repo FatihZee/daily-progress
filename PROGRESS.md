@@ -1665,3 +1665,4 @@
 | 2026-08-02 22:58:43 | "Oh, I don't think Tom Sowell would tell anybody to join the administration. That's not his style. But I think his attitude has always been if it had to be done he'd prefer me to do it than somebody else." | Clarence Thomas |
 | 2026-08-03 06:59:53 | "Over the years Woodstock got glorified and romanticised and became the event that symbolised Utopia. It's the last page of our collective memory of the age of innocence. Then things turned ugly and would never be the same again." | Ang Lee |
 | 2026-08-03 17:47:25 | "For those that are working part time, in small businesses, or who are unemployed and do not currently have health insurance, we want to make sure that you are covered." | Valerie Jarrett |
+| 2026-08-04 00:07:17 | "Every great man, every successful man, no matter what the field of endeavor, has known the magic that lies in these words: every adversity has the seed of an equivalent or greater benefit." | W. Clement Stone |
