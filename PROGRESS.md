@@ -1668,3 +1668,4 @@
 | 2026-08-04 00:07:17 | "Every great man, every successful man, no matter what the field of endeavor, has known the magic that lies in these words: every adversity has the seed of an equivalent or greater benefit." | W. Clement Stone |
 | 2026-08-04 07:10:41 | "Failure in the theater is more dramatic and uglier than any other form of writing. It costs so much, you feel so guilty." | Lillian Hellman |
 | 2026-08-04 16:40:10 | "Marriage, even the best marriages are tough." | Jayne Meadows |
+| 2026-08-04 23:49:37 | "The crucial task of old age is balance: keeping just well enough, just brave enough, just gay and interested and starkly honest enough to remain a sentient human being." | Florida Scott-Maxwell |
