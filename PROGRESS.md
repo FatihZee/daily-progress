@@ -1676,3 +1676,4 @@
 | 2026-08-06 16:42:00 | "There is always something left to love. And if you ain't learned that, you ain't learned nothing." | Lorraine Hansberry |
 | 2026-08-07 08:41:32 | "It is folly for an eminent man to think of escaping censure, and a weakness to be affected with it. All the illustrious persons of antiquity, and indeed of every age in the world, have passed through this fiery persecution." | Joseph Addison |
 | 2026-08-07 15:16:41 | "Woman must have her freedom, the fundamental freedom of choosing whether or not she will be a mother and how many children she will have. Regardless of what man's attitude may be, that problem is hers - and before it can be his, it is hers alone." | Margaret Sanger |
+| 2026-08-07 22:53:32 | "When I was first learning songs, I'd have a favorite song, and I'd take the chords and twist them around. I'd learn the chords and then play them backward. That was my first experimenting with writing a song." | Alicia Keys |
