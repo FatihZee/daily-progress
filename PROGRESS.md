@@ -1683,3 +1683,4 @@
 | 2026-08-09 06:31:11 | "The age thing really bugs me. Do people have more of a right to not like what I say because I'm 19?" | Fiona Apple |
 | 2026-08-09 14:54:55 | "It was also my idea that the advisory committees of the Academy should replace the legal committees of the German Reichstag, which was gradually fading into the background in the Reich." | Hans Frank |
 | 2026-08-09 22:28:48 | "Since I was seventeen I thought I might be a star. I'd think about all my heroes, Charlie Parker, Jimi Hendrix... I had a romantic feeling about how these people became famous." | Jean-Michel Basquiat |
+| 2026-08-10 06:33:07 | "Courage stands halfway between cowardice and rashness, one of which is a lack, the other an excess of courage." | Plutarch |
