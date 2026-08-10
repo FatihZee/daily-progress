@@ -1685,3 +1685,4 @@
 | 2026-08-09 22:28:48 | "Since I was seventeen I thought I might be a star. I'd think about all my heroes, Charlie Parker, Jimi Hendrix... I had a romantic feeling about how these people became famous." | Jean-Michel Basquiat |
 | 2026-08-10 06:33:07 | "Courage stands halfway between cowardice and rashness, one of which is a lack, the other an excess of courage." | Plutarch |
 | 2026-08-10 15:42:17 | "There's only one requirement of any of us, and that is to be courageous. Because courage, as you might know, defines all other human behavior. And, I believe - because I've done a little of this myself - pretending to be courageous is just as good as the real thing." | David Letterman |
+| 2026-08-10 22:57:56 | "No cause is left but the most ancient of all, the one, in fact, that from the beginning of our history has determined the very existence of politics, the cause of freedom versus tyranny." | Hannah Arendt |
