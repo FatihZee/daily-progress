@@ -1706,3 +1706,4 @@
 | 2026-08-16 22:18:49 | "Life is like playing a violin solo in public and learning the instrument as one goes on." | Samuel Butler |
 | 2026-08-17 06:21:34 | "I just want to have a great relationship with my child and have a great family dynamic." | Tori Spelling |
 | 2026-08-17 14:54:49 | "Doing films in Latin America is like an act of faith. I mean, you really have to believe in what you're doing because if not, you feel like it's a waste of time because you might as well be doing something that at least pays you the rent." | Gael Garcia Bernal |
+| 2026-08-17 22:23:11 | "Yes, people pull the trigger - but guns are the instrument of death. Gun control is necessary, and delay means more death and horror." | Eliot Spitzer |
