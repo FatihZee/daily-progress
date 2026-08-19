@@ -1711,3 +1711,4 @@
 | 2026-08-18 14:41:53 | "I think that's become passe, but if you can surround yourself with a kind of monument to yourself and your family - a statement - and you can afford it, then that's a noble project." | Sylvester Stallone |
 | 2026-08-18 22:28:58 | "There has never been an intelligent person of the age of sixty who would consent to live his life over again. His or anyone else" | Twain, Mark |
 | 2026-08-19 06:24:05 | "My mother is a beauty." | Mary-Louise Parker |
+| 2026-08-19 14:41:44 | "To love for the sake of being loved is human, but to love for the sake of loving is angelic." | Alphonse de Lamartine |
