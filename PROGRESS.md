@@ -1723,3 +1723,4 @@
 | 2026-08-22 14:34:56 | "Hussein has chosen to spend his money on building weapons of mass destruction and palaces for his cronies." | Madeleine Albright |
 | 2026-08-22 22:17:57 | "When I launched the development of the GNU system, I explicitly said the purpose of developing this system is so we can use our computers and have freedom, thus if you use some other free system instead but you have freedom, then it's a success. It's not popularity for our code but it's success for our goal." | Richard Stallman |
 | 2026-08-23 06:22:28 | "The energy of the crowd is insane. Twenty thousand people. It's the biggest jolt of adrenaline. It's very hard to explain. You know the old story about the woman lifting the car off her kid? It's in that realm. You can actually hurt yourself and not know it." | Tom Petty |
+| 2026-08-23 14:36:40 | "My work in the House of Representatives, at this time in my life, is completed. It is time to return home." | J. C. Watts |
