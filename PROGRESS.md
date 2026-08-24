@@ -1728,3 +1728,4 @@
 | 2026-08-24 06:22:54 | "If you were successful, somebody along the line gave you some help... Somebody helped to create this unbelievable American system that we have that allowed you to thrive. Somebody invested in roads and bridges. If you've got a business - you didn't build that. Somebody else made that happen." | Barack Obama |
 | 2026-08-24 14:59:16 | "The foundation stones for a balanced success are honesty, character, integrity, faith, love and loyalty." | Zig Ziglar |
 | 2026-08-24 22:36:27 | "I think women should start to embrace their age. What's the alternative to getting older? You die. I can't change the day I was born. But I can take care of my skin, my body, my mind, and try to live my life and be happy." | Olivia Munn |
+| 2026-08-25 06:23:49 | "There are only three things that can kill a farmer: lightning, rolling over in a tractor, and old age." | Bill Bryson |
