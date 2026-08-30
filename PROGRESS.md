@@ -1745,3 +1745,4 @@
 | 2026-08-30 01:10:07 | "The record business is dangerous to the health of bands and individuals, which is something I'm just now learning. But it's not dangerous in any of the ways people think it's not that they try to make you compromise your art. That's not the problem." | T-Bone Burnett |
 | 2026-08-30 08:08:52 | "Analysis gave me great freedom of emotions and fantastic confidence. I felt I had served my time as a puppet." | Hedy Lamarr |
 | 2026-08-30 19:41:33 | "Men's magazines often feature pictures of naked ladies. Women's magazines also often feature pictures of naked ladies. This is because the female body is a beautiful work of art, while the male body is hairy and lumpy and should not be seen by the light of day." | Richard Roeper |
+| 2026-08-31 01:24:17 | "I got up with my wife, I sat down at the computer when she went to work, and I didn't stop until she got home." | George Stephen |
