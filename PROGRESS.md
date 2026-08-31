@@ -1747,3 +1747,4 @@
 | 2026-08-30 19:41:33 | "Men's magazines often feature pictures of naked ladies. Women's magazines also often feature pictures of naked ladies. This is because the female body is a beautiful work of art, while the male body is hairy and lumpy and should not be seen by the light of day." | Richard Roeper |
 | 2026-08-31 01:24:17 | "I got up with my wife, I sat down at the computer when she went to work, and I didn't stop until she got home." | George Stephen |
 | 2026-08-31 08:11:18 | "I think I am missing a gene that most people have to enable them to feel happiness about success and these kind of things." | Bennett Miller |
+| 2026-08-31 21:57:23 | "You always pass failure on your way to success." | Mickey Rooney |
