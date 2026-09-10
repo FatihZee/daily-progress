@@ -1777,3 +1777,4 @@
 | 2026-09-09 19:13:41 | "No lying knight or lying priest ever prospered in any age, but especially not in the dark ones. Men prospered then only in following an openly declared purpose, and preaching candidly beloved and trusted creeds." | John Ruskin |
 | 2026-09-10 01:18:12 | "The first one, obviously, was walking into my office at eight o'clock in the morning on Wednesday, and being told there was a telephone call saying that there was an incident at Three Mile Island, and that it had shut down and that beyond that we didn't know." | William Scranton |
 | 2026-09-10 07:54:15 | "Don't walk in front of me, I may not follow. Don't walk behind me, I may not lead. There is only one happiness in life, to love and be loved." | George Sand |
+| 2026-09-10 19:07:49 | "I am more afraid of my own heart than of the pope and all his cardinals. I have within me the great pope, Self." | Martin Luther |
