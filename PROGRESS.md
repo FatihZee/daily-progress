@@ -1780,3 +1780,4 @@
 | 2026-09-10 19:07:49 | "I am more afraid of my own heart than of the pope and all his cardinals. I have within me the great pope, Self." | Martin Luther |
 | 2026-09-11 01:05:40 | "I remember, when I was an up-and-coming comic, how annoyed I would be when the famous guys would show up and just take everyone's spots." | Seth Rogen |
 | 2026-09-11 07:51:38 | "A man is called selfish not for pursuing his own good, but for neglecting his neighbor's." | Richard Whately |
+| 2026-09-11 19:06:12 | "More than 1.1 million taxpayers in Pennsylvania will enjoy a lower tax rate, more than 1.4 million married couples will benefit from the reduction in the marriage penalty, and more than 1.1 million parents will have the advantage of an increased child tax credit." | Tim Murphy |
