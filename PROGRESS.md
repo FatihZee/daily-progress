@@ -1779,3 +1779,4 @@
 | 2026-09-10 07:54:15 | "Don't walk in front of me, I may not follow. Don't walk behind me, I may not lead. There is only one happiness in life, to love and be loved." | George Sand |
 | 2026-09-10 19:07:49 | "I am more afraid of my own heart than of the pope and all his cardinals. I have within me the great pope, Self." | Martin Luther |
 | 2026-09-11 01:05:40 | "I remember, when I was an up-and-coming comic, how annoyed I would be when the famous guys would show up and just take everyone's spots." | Seth Rogen |
+| 2026-09-11 07:51:38 | "A man is called selfish not for pursuing his own good, but for neglecting his neighbor's." | Richard Whately |
