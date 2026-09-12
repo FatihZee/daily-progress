@@ -1784,3 +1784,4 @@
 | 2026-09-12 01:10:08 | "Being in America isn't old-hat - it's where we're from - but I get excited to be in other parts of the world like Athens and Croatia, which were quite cool. I'm a sightseer. I go see the sights and museums. I'm into that kind of thing." | Richie Sambora |
 | 2026-09-12 07:56:47 | "Civilization has given us enormous successes: going to the moon, technology. But then this is the civilisation that took us to debt, environmental crisis, every single crisis. We need a civilization where we say goodbye to these things." | Muhammad Yunus |
 | 2026-09-12 18:32:25 | "Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it." | James M. Barrie |
+| 2026-09-13 00:40:39 | "I think more dating stuff is scheduling. It's needing people who understand your work schedule." | Jennifer Love Hewitt |
