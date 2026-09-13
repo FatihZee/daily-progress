@@ -1786,3 +1786,4 @@
 | 2026-09-12 18:32:25 | "Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it." | James M. Barrie |
 | 2026-09-13 00:40:39 | "I think more dating stuff is scheduling. It's needing people who understand your work schedule." | Jennifer Love Hewitt |
 | 2026-09-13 07:39:54 | "The morning after my high-school graduation found me up early job hunting. The dream of college I put on the back burner." | Martha Reeves |
+| 2026-09-13 19:38:21 | "But I believe in fair trade, and I will tell you, I have many, many friends heading up corporations, and people that do just business in China, they say it's virtually impossible. It's very, very hard to come into China. And yet, we welcome them with open arms." | Donald Trump |
