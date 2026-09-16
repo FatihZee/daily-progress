@@ -1795,3 +1795,4 @@
 | 2026-09-15 19:33:04 | "The little trouble in the world that is not due to love is due to friendship." | E. W. Howe |
 | 2026-09-16 01:42:18 | "Beauty seen is never lost, God's colors all are fast." | John Greenleaf Whittier |
 | 2026-09-16 08:09:31 | "For me, food is all about balance. If you eat plenty of fruits, vegetables, and an appropriate amount of poultry, fish, and red meat that are sourced from good places, you're doing well. It's important to make sure that the meat you're consuming is hormone-free." | Curtis Stone |
+| 2026-09-16 19:30:20 | "Under no stretch of imagination can war be regarded as an ethical process yet war, force, terror, and propaganda were the evolutionary means employed to weld the German people into a tribal whole." | Arthur Keith |
