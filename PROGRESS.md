@@ -1797,3 +1797,4 @@
 | 2026-09-16 08:09:31 | "For me, food is all about balance. If you eat plenty of fruits, vegetables, and an appropriate amount of poultry, fish, and red meat that are sourced from good places, you're doing well. It's important to make sure that the meat you're consuming is hormone-free." | Curtis Stone |
 | 2026-09-16 19:30:20 | "Under no stretch of imagination can war be regarded as an ethical process yet war, force, terror, and propaganda were the evolutionary means employed to weld the German people into a tribal whole." | Arthur Keith |
 | 2026-09-17 01:39:03 | "It is funny that men who are supposed to be scientific cannot get themselves to realise the basic principle of physics, that action and reaction are equal and opposite, that when you persecute people you always rouse them to be strong and stronger." | Gertrude Stein |
+| 2026-09-17 08:09:35 | "My perfect guy wears converse, is totally laid back, and doesn't worry about being cool." | Selena Gomez |
