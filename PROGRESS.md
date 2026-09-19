@@ -1805,3 +1805,4 @@
 | 2026-09-19 01:04:24 | "Everything is the product of one universal creative effort.  There is nothing dead in Nature.  Everything is organic and living, and therefore the whole world appears to be a living organism." | Seneca |
 | 2026-09-19 08:01:04 | "I think a lot comes from having the experience of doing stand-up comedy. It allows you to figure out the psychology of an audience what things are funny and not." | Keenen Ivory Wayans |
 | 2026-09-19 18:51:48 | "Beginning today, treat everyone you meet as if they were going to be dead by midnight. Extend to them all the care, kindness and understanding you can muster, and do it with no thought of any reward. Your life will never be the same again." | Og Mandino |
+| 2026-09-20 00:46:29 | "I love the freedom that the narrative form provides." | Sidney Sheldon |
