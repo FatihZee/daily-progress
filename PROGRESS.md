@@ -1815,3 +1815,4 @@
 | 2026-09-22 08:29:13 | "Only that thing is free which exists by the necessities of its own nature, and is determined in its actions by itself alone." | Baruch Spinoza |
 | 2026-09-22 19:29:09 | "The best way to obtain truth and wisdom is not to ask from books, but to go to God in prayer, and obtain divine teaching." | Joseph Smith, Jr. |
 | 2026-09-23 01:29:42 | "You cannot be President of the United States if you don't have faith. Remember Lincoln, going to his knees in times of trial in the Civil War and all that stuff." | George H. W. Bush |
+| 2026-09-23 08:18:59 | "You learn timing on the road. You learn structure and how to read an audience. You learn so much about the business of laughter that you can't learn on a set, because it's all on you. Sometimes you bomb, and you know not to tell that joke again... You just hope people find the humor in the awkwardness." | Marlon Wayans |
