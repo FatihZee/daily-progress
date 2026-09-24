@@ -1819,3 +1819,4 @@
 | 2026-09-23 19:39:40 | "I wanted to experience New York, to look up and see buildings." | Haile Gebrselassie |
 | 2026-09-24 01:50:41 | "Interest in business ethics courses has surged, and student activities at leading business schools are more focused than ever before on making business serve long-term social values." | Peter Singer |
 | 2026-09-24 08:13:31 | "My mom grew up in poverty in Oklahoma - like Dust Bowl, nine people in one room kind of place - and the way she got out of poverty was through education. My dad grew up without a dad, with very little and he also made his way out through education." | Jennifer Garner |
+| 2026-09-24 19:38:11 | "I have no doubt but that the misery of the lower classes will be found to abate whenever the Government assumes a freer aspect and the laws favor a subdivision of Property." | James Madison |
