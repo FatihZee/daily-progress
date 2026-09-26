@@ -1825,3 +1825,4 @@
 | 2026-09-25 19:39:45 | "The best way to navigate through life is to give up all of our controls." | Gerald Jampolsky |
 | 2026-09-26 02:07:21 | "Art is the concrete representation of our most subtle feelings." | Agnes Martin |
 | 2026-09-26 08:16:31 | "We're in this entertainment business really to give the audience what they want." | Ice Cube |
+| 2026-09-26 19:07:37 | "Fear not and the God of mercies grant a full gale and a fair entry into His kingdom, which may carry sweetly and swiftly over the bar, that you find not the rub of death." | Donald Cargill |
