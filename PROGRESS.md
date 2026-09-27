@@ -1828,3 +1828,4 @@
 | 2026-09-26 19:07:37 | "Fear not and the God of mercies grant a full gale and a fair entry into His kingdom, which may carry sweetly and swiftly over the bar, that you find not the rub of death." | Donald Cargill |
 | 2026-09-27 01:20:08 | "My doctor asked me if I smoked, and I said only when I'm working, golfing, or drinking. Then I realized the only time I don't smoke is when I'm home. I didn't even realize I'd become a smoker." | Dennis Franz |
 | 2026-09-27 08:10:03 | "I never have plans for the future as you never know how things will turn out." | Nigella Lawson |
+| 2026-09-27 19:52:52 | "Men will confess to treason, murder, arson, false teeth, or a wig. How many of them will own up to a lack of humor?" | Frank Moore Colby |
