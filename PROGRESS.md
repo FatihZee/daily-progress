@@ -1830,3 +1830,4 @@
 | 2026-09-27 08:10:03 | "I never have plans for the future as you never know how things will turn out." | Nigella Lawson |
 | 2026-09-27 19:52:52 | "Men will confess to treason, murder, arson, false teeth, or a wig. How many of them will own up to a lack of humor?" | Frank Moore Colby |
 | 2026-09-28 01:53:34 | "But, I think it's great to be able to work with established directors, and then also first-timers. I feel like you learn from both of them, but then you can go and share your knowledge with each of them. That's really fantastic!" | Juno Temple |
+| 2026-09-28 08:27:11 | "I loved logic, math, computer programming. I loved systems and logic approaches. And so I just figured architecture is this perfect combination." | Maya Lin |
