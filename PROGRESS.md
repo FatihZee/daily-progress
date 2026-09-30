@@ -1836,3 +1836,126 @@
 | 2026-09-29 09:30:33 | "The thought came to me that all one loves in art becomes beautiful. Beauty is nothing but the expression of the fact that something is being loved. Only thus could she be defined." | Robert Musil |
 | 2026-09-29 20:53:28 | "More people on unemployment benefits is not success in America, fewer people on not because we kicked them off but because they have been able to get a job in the private sector, because government got out of the way." | Scott Walker |
 | 2026-09-30 02:46:53 | "I spent a lot of money on booze, birds and fast cars. The rest I just squandered." | George Best |
+| 2026-09-30 08:53:08 | "Til the infallibility of human judgements shall have been proved to me, I shall demand the abolition of the penalty of death.;Marquis de Sade;death
+13787;An insatiable appetite for glory leads to sacrifice and death, but innate instinct leads to self-preservation and life.;Jose Marti;death
+13788;Nothing in life is promised except death.;Kanye West;death
+13789;Salman Rushdie, indeed any writer who abuses the prophet or indeed any prophet under Islamic law, the sentence for that is actually death.;Cat Stevens;death
+13790;Don't be afraid of death so much as an inadequate life.;Bertolt Brecht;death
+13791;Of emotions, of love, of breakup, of love and hate and death and dying, mama, apple pie, and the whole thing. It covers a lot of territory, country music does.;Johnny Cash;death
+13792;The ideal death, I think, is what was the ideal Victorian death, you know, with your grandchildren around you, a bit of sobbing. And you say goodbye to your loved ones, making certain that one of them has been left behind to look after the shop.;Terry Pratchett;death
+13793;I'll keep peace at all cost, even if I choke to death on my tongue.;Paula Deen;death
+13794;It is natural to indulge in the illusions of hope. We are apt to shut our eyes to that siren until she allures us to our death.;Gertrude Stein;death
+13795;Just as I shall select my ship when I am about to go on a voyage, or my house when I propose to take a residence, so I shall choose my death when I am about to depart from life.;Seneca;death
+13796;Days will prove that the assassination policy will not finish the Hamas. Hamas leaders wish to be martyrs and are not scared of death. Jihad will continue and the resistance will continue until we have victory, or we will be martyrs.;Ahmed Yassin;death
+13797;Death is the great hope of all life the desire to expend itself to be used and consumed by its own longing for itself.;Bryant H. McGill;death
+13798;Our criminal justice system is fallible. We know it, even though we don't like to admit it. It is fallible despite the best efforts of most within it to do justice. And this fallibility is, at the end of the day, the most compelling, persuasive, and winning argument against a death penalty.;Eliot Spitzer;death
+13799;Death is the golden key that opens the palace of eternity.;John Milton;death
+13800;Long hair is an unpardonable offense which should be punishable by death.;Steven Morrissey;death
+13801;The kids out there want something they can relate to, something that's real most of that whiny stuff isn't real. The cheesy pop songs just bore me to death.;Jonathan Davis;death
+13802;I was brought up by very witty people who were dealing with quite difficult things: disease and death... I was brought up by people who tended to giggle at funerals.;Emma Thompson;death
+13803;Life without idealism is empty indeed. We just hope or starve to death.;Pearl S. Buck;death
+13804;Everything tends to make us believe that there exists a certain point of the mind at which life and death, the real and the imagined, past and future, the communicable and the incommunicable, high and low, cease to be perceived as contradictions.;Andre Breton;death
+13805;I have no fear of death. More important, I don't fear life.;Steven Seagal;death
+13806;O Death, rock me asleep, bring me to quiet rest, let pass my weary guiltless ghost out of my careful breast.;Anne Boleyn;death
+13807;Death comes in a flash, and that's the truth of it, the person's gone in less than 24 frames of film.;Martin Scorsese;death
+13808;At the moment of death I hope to be surprised.;Ivan Illich;death
+13809;I was court-martial in my absence, and sentenced to death in my absence, so I said they could shoot me in my absence.;Thomas Hardy;death
+13810;Inactivity is death.;Benito Mussolini;death
+13811;You've never seen death? Look in the mirror every day and you will see it like bees working in a glass hive.;Jean Cocteau;death
+13812;After the writer's death, reading his journal is like receiving a long letter.;Jean Cocteau;death
+13813;The day of my birth, my death began its walk. It is walking toward me, without hurrying.;Jean Cocteau;death
+13814;Everybody is entertained to death.;Brian Eno;death
+13815;Talk to people in their own language. If you do it well, they'll say, 'God, he said exactly what I was thinking.' And when they begin to respect you, they'll follow you to the death.;Lee Iacocca;death
+13816;I was very sad to hear of the death of Ronnie Barker, who was such a warm, friendly and encouraging presence to have when I started in television. He was also a great comic actor to learn from.;John Cleese;death
+13817;The world is put back by the death of every one who has to sacrifice the development of his or her peculiar gifts to conventionality.;Florence Nightingale;death
+13818;I am not the born how can there be either birth or death for me?;Guru Nanak;death
+13819;The desire to die was my one and only concern to it I have sacrificed everything, even death.;Emile M. Cioran;death
+13820;Life inspires more dread than death - it is life which is the great unknown.;Emile M. Cioran;death
+13821;Buddhas move freely through birth and death, appearing and disappearing at will.;Bodhidharma;death
+13822;We were aware of the fact that death walks hand in hand with struggle.;Stokely Carmichael;death
+13823;It is not tolerable, it is not possible, that from so much death, so much sacrifice and ruin, so much heroism, a greater and better humanity shall not emerge.;Charles de Gaulle;death
+13824;If your best friend has stolen your girlfriend, it does become life and death.;Ben Kingsley;death
+13825;I'm possibly a very morbid person but I think about death a lot.;Daniel Radcliffe;death
+13826;Quarreling over food and drink, having neither scruples nor shame, not knowing right from wrong, not trying to avoid death or injury, not fearful of greater strength or of greater numbers, greedily aware only of food and drink - such is the bravery of the dog and boar.;Xun Zi;death
+13827;I grew up in the suburbs and basically associate the suburbs with cultural death.;Billy Corgan;death
+13828;You know Americans are obsessed with life and death and rebirth, that's the American Cycle. You know, awakening, tragic, horrible death and then Phoenix rising from the ashes. That's the American story, again and again.;Billy Corgan;death
+13829;I was fantasising about my own death, I started thinking what my funeral would be like and what music would be played, I was at that level of insanity.;Billy Corgan;death
+13830;Andrew Wood's death changed things for a few weeks. I probably got even heavier into drugs after that.;Layne Staley;death
+13831;Only in death will I relinquish my belts.;Manny Pacquiao;death
+13832;Benjamin Franklin said there were only two things certain in life: death and taxes. But I'd like to add a third certainty: trash. And while some in this room might want to discuss reducing taxes, I want to talk about reducing trash.;Ruth Ann Minner;death
+13833;When you break up, your whole identity is shattered. It's like death.;Dennis Quaid;death
+13834;Deep down, no one really believes they have a right to live. But this death sentence generally stays tucked away, hidden beneath the difficulty of living. If that difficulty is removed from time to time, death is suddenly there, unintelligibly.;Jean Baudrillard;death
+13835;Nothing endears so much a friend as sorrow for his death. The pleasure of his company has not so powerful an influence.;David Hume;death
+13836;I saw also that there was an ocean of darkness and death, but an infinite ocean of light and love, which flowed over the ocean of darkness.;George Fox;death
+13837;There is something about poverty that smells like death.;Zora Neale Hurston;death
+13838;As long as you don't make waves, ripples, life seems easy. But that's condemning yourself to impotence and death before you are dead.;Jeanne Moreau;death
+13839;If Shaw and Einstein couldn't beat death, what chance have I got? Practically none.;Mel Brooks;death
+13840;If some persons died, and others did not die, death would be a terrible affliction.;Jean de la Bruyere;death
+13841;The passion of hatred is so long lived and so obstinate a malady that the surest sign of death in a sick person is their desire for reconciliation.;Jean de la Bruyere;death
+13842;There are only three events in a man's life birth, life, and death he is not conscious of being born, he dies in pain, and he forgets to live.;Jean de la Bruyere;death
+13843;Old age, calm, expanded, broad with the haughty breadth of the universe, old age flowing free with the delicious near-by freedom of death.;Edith Wharton;death
+13844;Everything one does in life, even love, occurs in an express train racing toward death. To smoke opium is to get out of the train while it is still moving. It is to concern oneself with something other than life or death.;Jean Cocteau;death
+13845;People praise virtue, but they hate it, they run away from it. It freezes you to death, and in this world you've got to keep your feet warm.;Denis Diderot;death
+13846;Families survive, one way or another. You have a tie, a connection that exists long after death, through many lifetimes.;Jessica Lange;death
+13847;See, I have set before you this day life and good, death and evil... I have set before you life and death, blessing and curse therefore choose life.;Moses;death
+13848;Death in itself is nothing but we fear to be we know not what, we know not where.;John Dryden;death
+13849;For those who live neither with religious consolations about death nor with a sense of death (or of anything else) as natural, death is the obscene mystery, the ultimate affront, the thing that cannot be controlled. It can only be denied.;Susan Sontag;death
+13850;Death is with you all the time you get deeper in it as you move towards it, but it's not unfamiliar to you. It's always been there, so what becomes unfamiliar to you when you pass away from the moment is really life.;Bell Hooks;death
+13851;People think celebrities don't have to worry about human things like sickness and death and rent. It's like you've traveled to this Land of Celebrity, this other country. They want you to tell about what you saw.;David Duchovny;death
+13852;The essence of the Hebrew Bible, transmitted by Christianity, is separation: between life and death, nature and God, good and evil, man and woman, and the holy and the profane.;Dennis Prager;death
+13853;When I listen to music, I don't want to hear about flowers. I like death and destruction.;Jonathan Davis;death
+13854;In the last analysis, it is our conception of death which decides our answers to all the questions that life puts to us.;Dag Hammarskjold;death
+13855;The compact which exists between the North and the South is a covenant with death and an agreement with hell.;William Lloyd Garrison;death
+13856;His death was the first time that Ed Wynn ever made anyone sad.;Red Skelton;death
+13857;But I was very, very lucky, and it was a wake up call as far as motorbikes are concerned. I never flirted with death on the bike, but now I'm totally convinced they're death machines.;Liam Neeson;death
+13858;To be honest, I'm scared to death of rollercoaster rides.;Liam Neeson;death
+13859;There is no fundamental difference between the preparation for death and the practice of dying, and spiritual practice leading to enlightenment.;Stanislav Grof;death
+13860;I was blessed with a birth and a death, and I guess I just want some say in between.;Ani DiFranco;death
+13861;All those vitamins aren't to keep death at bay, they're to keep deterioration at bay.;Jeanne Moreau;death
+13862;No one else can take risks for us, or face our losses on our behalf, or give us self-esteem. No one can spare us from life's slings and arrows, and when death comes, we meet it alone.;Martha Beck;death
+13863;My mortal foe can no ways wish me a greater harm than England's hate neither should death be less welcome unto me than such a mishap betide me.;Elizabeth I;death
+13864;The meaning of life is not to be discovered only after death in some hidden, mysterious realm on the contrary, it can be found by eating the succulent fruit of the Tree of Life and by living in the here and now as fully and creatively as we can.;Paul Kurtz;death
+13865;Death is not more certainly a separation of our souls from our bodies than the Christian life is a separation of our souls from worldly tempers, vain indulgences, and unnecessary cares.;William Law;death
+13866;I don't think kids have a problem with death. It's us older ones who are nearer to it, that start being frightened.;Helena Bonham Carter;death
+13867;The great fear that hung over the business community in the 1970s was death by regulation, and the great goal of the conservative movement, as it rose to triumph in the 1980s, was to remove that threat - to keep OSHA, the EPA, and the FTC from choking off entrepreneurship with their infernal meddling in the marketplace.;Thomas Frank;death
+13868;Life is doubt, and faith without doubt is nothing but death.;Miguel de Unamuno;death
+13869;The death of Pope John Paul II led many of different faiths and of no faith to acknowledge their debt to the Roman Catholic Church for holding on to absolutes that the rest of us can measure ourselves against.;Suzanne Fields;death
+13870;You don't have people chanting 'Death to America' in Israel.;Benjamin Netanyahu;death
+13871;The earth is rocky and full of roots it's clay, and it seems doomed and polluted, but you dig little holes for the ugly shriveled bulbs, throw in a handful of poppy seeds, and cover it all over, and you know you'll never see it again - it's death and clay and shrivel, and your hands are nicked from the rocks, your nails black with soil.;Anne Lamott;death
+13872;The death of any man aged 56 is very sad for his widow and family. And no one would deny that Steve Jobs was a brilliant and highly innovative technician, with great business flair and marketing ability.;A. N. Wilson;death
+13873;I'm scared to death of being poor. It's like a fat girl who loses 500 pounds but is always fat inside. I grew up poor and will always feel poor inside. It's my pet paranoia.;Cher;death
+13874;Your body must become familiar with its death - in all its possible forms and degrees - as a self-evident, imminent, and emotionally neutral step on the way towards the goal you have found worthy of your life.;Dag Hammarskjold;death
+13875;Death is a billion-dollar business. They can't even pass a law where it takes seven days to get a gun. Why don't you have to go through the same kind of screening you do to get a driver's license? It's totally insane.;John Cusack;death
+13876;As a kid, all I thought about was death. But you can't tell your parents that.;Maurice Sendak;death
+13877;The death penalty is becoming a way of life in this country.;Dennis Miller;death
+13878;I mean, I'm 48 years old and I've been through a lot in my life - you know, loss, whether it be death, illness, separation. I mean, the failed expectations... We all have dreams.;Annie Lennox;death
+13879;Death comes not to the living soul, nor age to the loving heart.;Phoebe Cary;death
+13880;I'm working myself to death.;Alan Ladd;death
+13881;At the New York Athletic Club they serve amazing food. People go there, get healthy, and then eat themselves to death - which is, I suppose, the right way to do it.;Oliver Reed;death
+13882;Property is unstable, and youth perishes in a moment. Life itself is held in the grinning fangs of Death, Yet men delay to obtain release from the world. Alas, the conduct of mankind is surprising.;Plautus;death
+13883;Well, there's a remedy for all things but death, which will be sure to lay us flat one time or other.;Miguel de Cervantes;death
+13884;Old age is always wakeful as if, the longer linked with life, the less man has to do with aught that looks like death.;Herman Melville;death
+13885;Life and death. They are somehow sweetly and beautifully mixed, but I don't know how.;Gloria Swanson;death
+13886;Doing linear scans over an associative array is like trying to club someone to death with a loaded Uzi.;Larry Wall;death
+13887;I'm sick to death of famous people standing up and using their celebrity to promote a cause. If I see a particular need, I do try to help. But there's a lot that can be achieved by putting a check in the right place and shutting up about it.;Russell Crowe;death
+13888;Life is a predicament which precedes death.;Henry James;death
+13889;Death is the easiest of all things after it, and the hardest of all things before it.;Abu Bakr;death
+13890;Death is inevitable, but Life - that's the tricky bit where things happen.;Simon Travaglia;death
+13891;She looks like a warrior. I mean, Bellatrix does mean warrior. And she's also a bit of a fatale. She's the right hand of Voldemort, and the only woman death eater.;Helena Bonham Carter;death
+13892;People think celebrities don't have to worry about human things like sickness and death and rent. It's like you've traveled to this Land of Celebrity, this other country.;David Duchovny;death
+13893;For the sake of goodness and love, man shall let death have no sovereignty over his thoughts.;Thomas Mann;death
+13894;I can't turn on the television without seeing me, or open the newspaper without seeing me and, honestly, I'm sick to death of me.;Elizabeth Edwards;death
+13895;He who does not fear death cares naught for threats.;Pierre Corneille;death
+13896;To die for one's country is such a worthy fate that all compete for so beautiful a death.;Pierre Corneille;death
+13897;Each instant of life is a step toward death.;Pierre Corneille;death
+13898;You always think that 70 is the end of the road: 'Somebody died when they were 73 good life'. You're closer to death, and you better make sure you don't waste too much of your time doing things you don't want to do. No point in saying things you don't believe in.;Ian Mckellen;death
+13899;When I'm lying in my bed I think about life and I think about death and neither one particularly appeals to me.;Steven Morrissey;death
+13900;Science without conscience is the death of the soul.;Francois Rabelais;death
+13901;Had it not been for slavery, the death penalty would have likely been abolished in America. Slavery became a haven for the death penalty.;Angela Davis;death
+13902;So much of motion, is so much of life, and so much of joy, and to stand still, or get on but slowly, is death and the devil.;Laurence Sterne;death
+13903;Death is the mother of Beauty hence from her, alone, shall come fulfillment to our dreams and our desires.;Wallace Stevens;death
+13904;In Sleep we lie all naked and alone, in Sleep we are united at the heart of night and darkness, and we are strange and beautiful asleep for we are dying the darkness and we know no death.;Thomas Wolfe;death
+13905;If efforts to do social work are couched in selfish motives, then they will die a premature death. Why would my efforts get politicised? I have values I inherited from my father. He helped many. Anyone, even a postman knocking on our door would get a glass of water and some sweets.;Sachin Tendulkar;death
+13906;But I have been in some very beautiful churches, then I've looked outside and seen people starving to death.;Don Van Vliet;death
+13907;For tis not in mere death that men die most.;Elizabeth Barrett Browning;death
+13908;The Greeks said grandly in their tragic phrase, 'Let no one be called happy till his death' to which I would add, 'Let no one, till his death, be called unhappy." | Elizabeth Barrett Browning |
