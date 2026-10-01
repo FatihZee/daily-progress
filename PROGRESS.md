@@ -1962,3 +1962,4 @@
 | 2026-09-30 20:29:19 | "We have three generations at home, including my father-in-law. I keep a very low profile, and a lot of things I do are very much with the family in mind. I have actually made films with the family around me." | Mira Nair |
 | 2026-10-01 02:50:10 | "It's funny, but you get to a time in your life when you think you have all the friends you will ever have." | Liam Neeson |
 | 2026-10-01 08:51:56 | "The big difference between sex for money and sex for free is that sex for money usually costs a lot less." | Brendan Behan |
+| 2026-10-01 21:20:14 | "You've got certain guys that just want to be famous and then you've got the real musicians that just love playing music." | Zakk Wylde |
