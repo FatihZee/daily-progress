@@ -1965,3 +1965,4 @@
 | 2026-10-01 21:20:14 | "You've got certain guys that just want to be famous and then you've got the real musicians that just love playing music." | Zakk Wylde |
 | 2026-10-02 03:05:57 | "I drank some boiling water because I wanted to whistle." | Mitch Hedberg |
 | 2026-10-02 09:03:04 | "You have succeeded in life when all you really want is only what you really need." | Vernon Howard |
+| 2026-10-02 20:42:21 | "When you are getting ready to become a mom, being in love with someone just isn't enough. You need to think about whether he would be a good parent and raise your children with similar beliefs." | Cindy Crawford |
