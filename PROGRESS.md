@@ -1972,3 +1972,4 @@
 | 2026-10-04 01:32:19 | "To be able to endure odium is the first art to be learned by those who aspire to power." | Lucius Annaeus Seneca |
 | 2026-10-04 09:26:53 | "A good character is the best tombstone. Those who loved you and were helped by you will remember you when forget-me-nots have withered. Carve your name on hearts, not on marble." | Charles Spurgeon |
 | 2026-10-04 20:05:49 | "All the characters in my films are fighting these problems, needing freedom, trying to find a way to cut themselves loose, but failing to rid themselves of conscience, a sense of sin, the whole bag of tricks." | Michelangelo Antonioni |
+| 2026-10-05 01:31:50 | "It is eerie being all but alone in Westminster Abbey. Without the tourists, there are only the dead, many of them kings and queens. They speak powerfully and put my thoughts into vivid perspective." | A. N. Wilson |
