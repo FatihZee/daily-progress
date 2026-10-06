@@ -1978,3 +1978,4 @@
 | 2026-10-06 04:49:01 | "I can be in 20 movies. But I'll never be an actor." | Jon Stewart |
 | 2026-10-06 09:44:56 | "I take it that the good of mankind means the attainment, by every man, of all the happiness which he can enjoy without diminishing the happiness of his fellow men." | Thomas Huxley |
 | 2026-10-06 21:02:14 | "Same-sex marriage would eliminate entirely in law the basic idea of a mother and a father for every child. It would create a society which deliberately chooses to deprive a child of either a mother or a father." | Keith O'Brien |
+| 2026-10-07 02:58:10 | "My mom always said I was the peacemaker in the family. My older brother, Eric, was the leader, the creative one. I was just his puppet." | Gwen Stefani |
