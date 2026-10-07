@@ -1980,3 +1980,4 @@
 | 2026-10-06 21:02:14 | "Same-sex marriage would eliminate entirely in law the basic idea of a mother and a father for every child. It would create a society which deliberately chooses to deprive a child of either a mother or a father." | Keith O'Brien |
 | 2026-10-07 02:58:10 | "My mom always said I was the peacemaker in the family. My older brother, Eric, was the leader, the creative one. I was just his puppet." | Gwen Stefani |
 | 2026-10-07 09:09:39 | "Now, there are some who would like to rewrite history - revisionist historians is what I like to call them." | George W. Bush |
+| 2026-10-07 21:20:18 | "Fear of death increases in exact proportion to increase in wealth." | Ernest Hemingway |
