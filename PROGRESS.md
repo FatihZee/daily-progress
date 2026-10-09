@@ -1987,3 +1987,4 @@
 | 2026-10-09 03:29:34 | "Bad religion is arrogant, self-righteous, dogmatic and intolerant. And so is bad science. But unlike religious fundamentalists, scientific fundamentalists do not realize that their opinions are based on faith. They think they know the truth." | Rupert Sheldrake |
 | 2026-10-09 09:49:57 | "Vigorous enforcement of copyrights themselves is an important part of the picture. But I don't think that expanding the legal definition of copyright outside of actual copyright infringement is the right move." | Edward Felten |
 | 2026-10-09 21:15:10 | "All History is current all injustice continues on some level, somewhere in the world." | Alice Walker |
+| 2026-10-10 02:59:22 | "Education, whatever else it should or should not be, must be an inoculation against the poisons of life and an adequate equipment in knowledge and skill for meeting the chances of life." | Havelock Ellis |
