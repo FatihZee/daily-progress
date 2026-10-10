@@ -1990,3 +1990,4 @@
 | 2026-10-10 02:59:22 | "Education, whatever else it should or should not be, must be an inoculation against the poisons of life and an adequate equipment in knowledge and skill for meeting the chances of life." | Havelock Ellis |
 | 2026-10-10 09:09:49 | "I don't know the true meaning of happiness." | Jonathan Davis |
 | 2026-10-10 20:27:36 | "Every collection that I work on, I always think, Is this cool enough to wear to a concert?" | Anna Sui |
+| 2026-10-11 02:07:10 | "Few enterprises of great labor or hazard would be undertaken if we had not the power of magnifying the advantages we expect from them." | Samuel Johnson |
