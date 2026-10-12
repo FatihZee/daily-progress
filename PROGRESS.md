@@ -1996,3 +1996,4 @@
 | 2026-10-12 02:20:04 | "Of course, I do everything for money." | Christopher Hitchens |
 | 2026-10-12 09:09:22 | "Defense is a definite part of the game, and a great part of defense is learning to play it without fouling." | John Wooden |
 | 2026-10-12 23:36:53 | "What distinguishes a great artist from a weak one is first their sensibility and tenderness second, their imagination, and third, their industry." | Salman Rushdie |
+| 2026-10-13 05:23:03 | "Dishonesty in government is the business of every citizen. It is not enough to do your own job. There's no particular virtue in that. Democracy isn't a gift. It's a responsibility." | Dalton Trumbo |
