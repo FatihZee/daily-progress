@@ -2002,3 +2002,4 @@
 | 2026-10-14 03:29:29 | "I haven't really decided to be an actor yet! I started doing plays when I was about 15 or 16. I only did it because my dad saw a bunch of pretty girls in a restaurant and he asked them where they came from and they said drama group. He said, 'Son, that is where you need to go.'" | Robert Pattinson |
 | 2026-10-14 08:40:48 | "Fantasy love is much better than reality love. Never doing it is very exciting. The most exciting attractions are between two opposites that never meet." | Warhol, Andy |
 | 2026-10-14 19:45:26 | "Advertising: the science of arresting the human intelligence long enough to get money from it." | Stephen Leacock |
+| 2026-10-15 02:09:54 | "My desire is to stand up and brush myself off when I make mistakes and ask for forgiveness." | Janine Turner |
