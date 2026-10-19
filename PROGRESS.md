@@ -2015,3 +2015,4 @@
 | 2026-10-18 07:42:14 | "My Dad was so open creatively that I was off in search of black turtleneck bathing suits with long sleeves." | Moon Unit Zappa |
 | 2026-10-18 18:59:13 | "My mom and my stepdad are both therapists." | Jennifer Westfeldt |
 | 2026-10-19 00:49:30 | "The message I take all round the world is Britain is open for business." | William Hague |
+| 2026-10-19 07:55:25 | "How absurd and delicious it is to be in love with somebody younger than yourself. Everybody should try it." | Barbara Pym |
