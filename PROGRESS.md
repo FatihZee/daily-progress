@@ -2018,3 +2018,4 @@
 | 2026-10-19 07:55:25 | "How absurd and delicious it is to be in love with somebody younger than yourself. Everybody should try it." | Barbara Pym |
 | 2026-10-19 21:29:01 | "I think that the reason for my success is that I am really not aspirational. I am inspirational in that the people at home feel like they can really relate to me." | Rosie O'Donnell |
 | 2026-10-20 03:21:26 | "Words are capable of making experience more vivid, and also of organizing it. They can scare us, and they can comfort us." | Jonathan Safran Foer |
+| 2026-10-20 19:36:54 | "If we pollute the air, water and soil that keep us alive and well, and destroy the biodiversity that allows natural systems to function, no amount of money will save us." | David Suzuki |
