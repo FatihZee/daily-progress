@@ -2025,3 +2025,4 @@
 | 2026-10-23 08:19:24 | "I don't think the Palestinian people or Afghan children or some other things I'm concerned about are at the top of other people's agendas - not right now, when America is going through such a recession and people are suffering across the board financially. But I think all that will change." | Patti Smith |
 | 2026-10-23 19:30:11 | "My great concern is not whether you have failed, but whether you are content with your failure." | Abraham Lincoln |
 | 2026-10-24 01:52:43 | "The knives of jealousy are honed on details." | Ruth Rendell |
+| 2026-10-24 08:24:32 | "A test of what is real is that it is hard and rough. Joys are found in it, not pleasure. What is pleasant belongs to dreams." | Simone Weil |
